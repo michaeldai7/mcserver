@@ -227,6 +227,10 @@
                 "size": "$slot_size",
                 "$cell_image_size": "$slot_size",
                 "$item_renderer_size": [ 20, 20 ],
+<<<<<<< HEAD
+=======
+                "$item_renderer_offset": [ 2, 2 ],
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                 "layer": 2
               }
             },

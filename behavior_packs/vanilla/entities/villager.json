@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "format_version": "1.10.0",
+=======
+  "format_version": "1.8.0",
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "minecraft:entity": {
     "description": {
       "identifier": "minecraft:villager",
@@ -318,6 +322,7 @@
         "value": 0.5
       },
       "minecraft:navigation.walk": {
+<<<<<<< HEAD
         "is_amphibious": true,
         "can_path_over_water": true,
         "can_pass_doors": true,
@@ -328,6 +333,13 @@
       "minecraft:annotation.open_door": {
 
       },
+=======
+        "can_path_over_water": true,
+        "can_pass_doors": true,
+        "can_open_doors": true,
+        "avoid_water": true
+      },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:movement.basic": {
       },
       "minecraft:jump.static": {

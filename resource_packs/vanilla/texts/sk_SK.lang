@@ -130,7 +130,10 @@ action.interact.trade=Obchodovať	#
 action.interact.armorstand.pose=Pozícia	#
 action.interact.armorstand.equip=Nasadiť	#
 action.interact.read=Prečítať	#
+<<<<<<< HEAD
 action.interact.wakevillager=Zobudiť dedinčana	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = všetky subjekty	#
 advMode.allPlayers=@a = všetci hráči	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=spomenúť všetkých hráčov	#
 chat.mute=Stlmiť	#
 chat.realmsFilterDisabled=V tejto ríši je filtrovanie chatu vypnuté.	#
 chat.settings=Nastavenia chatu	#
+<<<<<<< HEAD
 chat.settings.chatColor=Farba chatu	#
 chat.settings.color=Farba	#
 chat.settings.font=Písmo	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Riadkovanie: x%s	#
 chat.settings.mentions=Moje spomenutia	#
 chat.settings.muteAll=Stlmiť všetko	#
 chat.settings.typeface=Rez písma	#
+=======
+chat.settings.defaultChatColor=Predvolená farba chatu	#
+chat.settings.color=Farba	#
+chat.settings.font=Písmo	#
+chat.settings.fontColor=Farba písma	#
+chat.settings.lineSpacing=Riadkovanie: x%s	#
+chat.settings.mentions=Moje spomenutia	#
+chat.settings.muteAll=Stlmiť všetko	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Zrušiť stlmenie všetkého	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Server	#
 commands.origin.teacher=Učiteľ	#
 commands.ops.description=Načíta a použije povolenia operátora.	#
 commands.ops.reloaded=Operátori načítaní zo súboru.	#
+<<<<<<< HEAD
 commands.ops.set.success=Podarilo sa nastaviť úroveň operátora pre hráča %s.	#
 commands.permissions.description=Znova načíta a použije povolenia.	#
 command.permissions.list.fail.filenotfound=Nepodarilo sa vytvoriť zoznam povolení zo súboru. Súbor sa nenašiel.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Nepodarilo sa nastaviť úroveň povolení %s pr
 commands.permissions.set.success=Podarilo sa nastaviť úroveň povolení %s pre hráča %s.	#
 commands.permissions.save.failed=Nepodarilo sa uložiť úroveň povolení %s pre hráča %s.	#
 commands.permissions.save.success=Podarilo sa uložiť úroveň povolení %s pre hráča %s.	#
+=======
+commands.permissions.description=Znova načíta a použije povolenia.	#
+commands.permissions.reloaded=Povolenia sa znova načítali zo súboru.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Vytvorí časticový žiarič	#
 commands.particle.description=Vytvorí častice.	#
 commands.particle.notFound=Neznámy názov účinku (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Nepodarilo sa zrušiť zákaz hráča %1$s	#
 commands.unban.success=Zrušil sa zákaz hráča %1$s	#
 commands.unbanip.invalid=Zadali ste neplatnú adresu IP	#
 commands.unbanip.success=Zrušil sa zákaz adresy IP %1$s	#
+<<<<<<< HEAD
 commands.videostream.description=Pokúsi sa pripojiť na server WebSocket a odoslať obrazový prúd údajov.	#
 commands.videostreamaction.description=Vykonať akciu súvisiacu s obrazovým prúdom údajov.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Zmena na jasné počasie	#
 commands.weather.description=Nastaví počasie.	#
 commands.weather.disabled=V tejto úrovni nie je povolené nastavenie Cyklus počasia.	#
@@ -981,13 +1002,19 @@ container.furnace=Pec	#
 container.hopper=Násypník položiek	#
 container.inventory=Inventár	#
 container.isLocked=Nádoba %s je zamknutá.	#
+<<<<<<< HEAD
 container.loom=Krosná	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Banský vozík	#
 container.repair=Opraviť a pomenovať	#
 container.repair.cost=Cena v BS: %1$d	#
 container.repair.expensive=Príliš drahé!	#
 container.stonecutter=Rezačka kameňa	#
+<<<<<<< HEAD
 container.stonecutter_block=Rezačka kameňa	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Škatuľa shulkera	#
 container.shulkerboxContains=a %d navyše...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Nemáte všetky prísady	#
 crafting.insufficientLevel=Vaša úroveň je príliš nízka	#
 crafting.noRecipesInventory=Ak chcete vyrábať, musíte pozbierať bloky.	#
 crafting.noRecipesStonecutter=Ak chcete vyrábať, potrebujete kamenný materiál.	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Ak chcete vyrábať, potrebujete kamenný materiál.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=Ak chcete vyrábať, musíte pozbierať bloky.	#
 
 createWorld.customize.custom.baseSize=Veľkosť po spodok hĺbky	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Chcete vyhľadať aktualiz�
 disconnectionScreen.realmsWorldUnassigned=Priraďte verziu v možnostiach pre vývojárov.	#
 disconnectionScreen.realmsWorldUnassigned.title=Ríša je nepriradená.	#
 disconnectionScreen.scriptNotSupported=Svet, do ktorého sa pokúšate vstúpiť, vyžaduje spúšťanie skriptov v zariadení. Zariadenie momentálne nepodporuje skriptovanie, a preto sa z neho nemôžete pripojiť.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Skriptovanie nie je podporované	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Fíha, tento server je obľúbený! Vráťte sa neskôr a zistite, či sa neuvoľnilo miesto.	#
 disconnectionScreen.serverFull.title=Server je plný	#
 disconnectionScreen.serverIdConflict=Nemožno sa pripojiť k svetu. Konto, do ktorého ste prihlásení, momentálne hrá v tomto svete na inom zariadení.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Ghast	#
 entity.guardian.name=Strážca	#
 entity.horse.name=Kôň	#
 entity.husk.name=Husk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Illagerská zver	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Železný golem	#
 entity.item.name=Predmet	#
 entity.leash_knot.name=Slučka na remienku	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Dedinčan	#
 entity.villager.shepherd=Pastier	#
 entity.villager.tool=Kováč nástrojov	#
 entity.villager.weapon=Kováč zbraní	#
+<<<<<<< HEAD
 entity.villager.mason=Kamenár	#
 entity.villager.unskilled=Nevyučený dedinčan	#
 entity.villager_v2.name=Dedinčan	#
 entity.vindicator.name=Pomstiteľ	#
 entity.wandering_trader.name=Potulný obchodník	#
+=======
+entity.vindicator.name=Pomstiteľ	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Striga	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Wither kostlivec	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Zombie kôň	#
 entity.zombie_pigman.name=Zombie prasací človek	#
 entity.zombie_villager.name=Zombie dedinčan	#
 
+<<<<<<< HEAD
 exports.share.file=Zdieľať %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Pridať server	#
 addExternalServerScreen.nameTextBoxLabel=Názov servera	#
 addExternalServerScreen.namePlaceholder=Zadajte názov servera	#
@@ -1974,7 +2018,10 @@ feature.village=Dedina	#
 feature.shipwreck=Stroskotaná loď	#
 feature.buriedtreasure=Zakopaný poklad	#
 feature.ruins=Ruiny v oceáne	#
+<<<<<<< HEAD
 feature.pillageroutpost=Základňa plieniteľov	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Páči sa	#
 feed.manage_feed=Spravovať informačný kanál	#
@@ -2052,6 +2099,7 @@ gameTip.findTree=Nájdite strom, aby ste mohli zbierať drevo	#
 gameTip.breakWood.mouse=Kliknite ľavým tlačidlom a podržte, aby ste nazbierali 3 kusy dreva	#
 gameTip.breakWood.touch=Ťuknite a podržte, aby ste nazbierali 3 kusy dreva	#
 gameTip.breakWood.controller=Podržte stlačenú pravú spúšť, aby ste nazbierali 3 kusy dreva	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Prejdite po predmetoch, aby ste ich zdvihli	#
 gameTip.openInventory.keyboard=Stlačením klávesu E otvorte inventár	#
 gameTip.openInventory.touch=Stlačením tlačidla ... otvorte inventár	#
@@ -2067,6 +2115,8 @@ gameTip.open.recipe=Otvorte knihu receptov, aby ste sa naučili, ako vyrábať �
 gameTip.closeInventory.keyboard=Stlačte kláves E alebo kliknutím ľavým tlačidlom na X zatvorte inventár	#
 gameTip.closeInventory.touch=Ťuknutím na tlačidlo X zatvorte inventár	#
 gameTip.closeInventory.controller=Stlačením tlačidla B zatvorte inventár	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=ZOSILNENÉ	#
 generator.amplified.info=Poznámka: Len tak pre zábavu sa požaduje svalnatý počítač.	#
@@ -2090,7 +2140,10 @@ gui.cancel=Zrušiť	#
 gui.clear=Vymazať	#
 gui.close=Zavrieť	#
 gui.confirm=Potvrdiť	#
+<<<<<<< HEAD
 gui.custom=Vlastné	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Predvolené	#
 gui.decline=Odmietnuť	#
 gui.deleteWorldLong=Odstrániť svet	#
@@ -2184,6 +2237,7 @@ howtoplay.armor.header.1=Výroba predmetov	#
 howtoplay.armor.text.2=Brnenie možno vyrobiť z kože, železa, zlata alebo diamantov. Krúžkové brnenie možno získať obchodovaním s dedinčanmi alebo ulúpením od zombií a kostlivcov.	#
 howtoplay.armor.text.3=Brnenie si nasadíte tak, že otvoríte inventár a presuniete časti brnenia na príslušné miesto vedľa vzhľadu hráča.	#
 howtoplay.armor.text.4=Železné, krúžkové a zlaté brnenie možno v peci roztaviť na hrudky železa alebo zlata.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Štít	#
 howtoplay.armor.text.5.keyboard=Štít zablokuje prichádzajúce poškodenie. Štítom možno vybaviť miesto mimo ruky, ako aj rýchly panel. Ak chcete blokovať pomocou štítu, stlačte a podržte tlačidlo :_input_key.sneak:.	#
 howtoplay.armor.text.5.gamepad=Štít zablokuje prichádzajúce poškodenie. Štítom možno vybaviť miesto mimo ruky, ako aj rýchly panel. Ak chcete prepnúť blokovanie pomocou štítu, stlačte tlačidlo :_input_key.sneak: alebo kliknite na tlačidlo :_gamepad_stick_right:.	#
@@ -2193,6 +2247,10 @@ howtoplay.armor.text.5.windowsmr_controller=Štít zablokuje prichádzajúce po�
 howtoplay.armor.text.6=Štít môže zablokovať dokonca aj výbuch creepera.	#
 howtoplay.armor.header.3=Prestrojenie	#
 howtoplay.armor.text.7=Na hlavu si môžete nasadiť aj tekvicu. Neposkytne vám to žiadny symbol :armor:, ale keď sa pozriete na endermanov, nenazlostia sa.	#
+=======
+howtoplay.armor.header.2=Prestrojenie	#
+howtoplay.armor.text.5=Na hlavu si môžete nasadiť aj tekvicu. Neposkytne vám to žiadny symbol :armor:, ale keď sa pozriete na endermanov, nenazlostia sa.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Stojan na brnenie	#
 howtoplay.armorStand.title=Pokyny na hranie: stojan na brnenie	#
@@ -2211,7 +2269,11 @@ howtoplay.armorStand.text.5=Stojany na brnenie budú reagovať na ruditový sign
 howtoplay.banners=Zástavy	#
 howtoplay.banners.title=Pokyny na hranie: zástavy	#
 howtoplay.banners.text.1=Zástavy predstavujú úžasný spôsob, ako si vyzdobiť dom alebo hrad vlastnými vzormi a farbami.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Vyrobenú zástavu môžete položiť na pracovný stôl alebo krosná a pridaním rôznych farbív môžete vytvoriť vlastný jedinečný a úžasný dizajn.	#
+=======
+howtoplay.banners.text.2=Vyrobenú zástavu môžete položiť na pracovný stôl a pridaním rôznych farbív môžete vytvoriť vlastný jedinečný a úžasný dizajn.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Použitie vzoru	#
 howtoplay.banners.text.3=Existuje veľa rôznych vzorov, ktoré môžete vytvoriť pomocou farbiva, napríklad:	#
 howtoplay.banners.text.4=  – Vytvorením trojuholníka získate trojuholníkový vzor.	#
@@ -2511,6 +2573,7 @@ howtoplay.droppers.text.2=Ak je vypúšťač otočený k truhlici alebo k inému
 howtoplay.dyes=Farbivá	#
 howtoplay.dyes.title=Pokyny na hranie: farbivá	#
 howtoplay.dyes.text.1=Farbivo sa používa na zmenu farby mnohých vecí v hre Minecraft.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Niektoré materiály na výrobu farbív sa hľadajú ťažšie než iné. Hoci väčšinu farbív možno vyrobiť z kvetov, napríklad červené farbivo z maku, niektoré farbivá sa hľadajú záhadnejšími spôsobmi, napríklad: 	#
 howtoplay.dyes.text.3=-ťažbou ultramarínu hlboko v podzemí,	#
 howtoplay.dyes.text.4=-zbieraním vrecúšok s atramentom pod vodou,	#
@@ -2518,6 +2581,14 @@ howtoplay.dyes.text.5=-zberom kakaových bôbov v džungli.	#
 howtoplay.dyes.text.6=– Zelené farbivo sa musí získať roztavením kaktusa	#
 howtoplay.dyes.text.7=– Kostná múčka môže pomôcť pri pestovaní rastlín a stromov alebo z nej možno vyrobiť biele farbivo	#
 howtoplay.dyes.text.8=– Zbieraním vrecúšok s atramentom z kalmárov získavajte čierne farbivo	#
+=======
+howtoplay.dyes.text.2=Možno budete musieť chvíľu skúmať, skôr ako nájdete niektoré prírodné materiály na výrobu určitých farbív. Hoci väčšinu farbív možno vyrobiť z kvetov, napríklad ružovo červené z maku, niektoré farbivá sa hľadajú záhadnejšími spôsobmi, napríklad: 	#
+howtoplay.dyes.text.3=-ťažbou ultramarínu hlboko v podzemí,	#
+howtoplay.dyes.text.4=-zbieraním vrecúšok s atramentom pod vodou,	#
+howtoplay.dyes.text.5=-zberom kakaových bôbov v džungli.	#
+howtoplay.dyes.text.6=-kaktusová zelená sa musí získať z kaktusu,	#
+howtoplay.dyes.text.7=-kostná múčka môže pomôcť pri pestovaní rastlín a stromov alebo sa používať ako biele farbivo.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Krovky	#
 howtoplay.elytra.title=Pokyny na hranie: krovky	#
@@ -2706,6 +2777,7 @@ howtoplay.jukebox.header.3=Hľadanie hudobných diskov	#
 howtoplay.jukebox.text.7=Niekoľko hudobných diskov môžete nájsť v truhliciach po celom svete.	#
 howtoplay.jukebox.text.8=Ostatné získate ťažšie (creeperi tajne uznávajú hudbu).	#
 
+<<<<<<< HEAD
 howtoplay.loom=Krosná	#
 howtoplay.loom.title=Pokyny na hranie: krosná	#
 howtoplay.loom.text.1=Krosná predstavujú rýchly a účinný spôsob, ako na zástavy aplikovať vzory. Krosná používajú na aplikovanie vzoru len jedno farbivo. Pomocou vzorov pre krosná môžete aplikovať aj špeciálne vzory.	#
@@ -2715,6 +2787,8 @@ howtoplay.loom.text.3=Zástava môže mať viacero vrstiev, ktoré umožňujú e
 howtoplay.loom.header.2=Vzory pre krosná 	#
 howtoplay.loom.text.4=Pridanie vzoru pre krosná na tretie miesto na krosnách umožní vytvárať špeciálne vzory, napríklad tvár creepera alebo vzor kvetu. Po použití týchto vzorov na zástavy neprídete o svoje vzory pre krosná.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Vysadnutie na zviera	#
 howtoplay.mounts.title=Pokyny na hranie: vysadnutie na zviera	#
 howtoplay.mounts.text.1=Hráč môže jazdiť na dospelom koni, somárovi alebo mulici. Len kone môžu mať brnenie.	#
@@ -2912,6 +2986,10 @@ howtoplay.transportation.text.5.keyboard=Stlačením tlačidla :_input_key.use:,
 howtoplay.transportation.text.5.gamepad=Stlačte tlačidlo :_input_key.use: kým sa pozeráte na čln, aby ste nastúpili. Stlačením páčky :_gamepad_stick_left: doľava alebo doprava otáčate člnom. Stlačením páčky :_gamepad_stick_left: vpred sa pohnete dopredu. Stlačením tlačidla :_input_key.jump: alebo :_input_key.sneak: vystúpite.	#
 howtoplay.transportation.text.5.touch=Keď v blízkosti člna ťuknete na tlačidlo Nastúpiť, nastúpite do člna. Stlačením tlačidla :_input_key.left: alebo :_input_key.right: sa otočte doľava alebo doprava. Ak tieto tlačidlá stlačíte naraz, pohnete sa dopredu. Ťuknutím na tlačidlo Opustiť čln vystúpte.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Zbrane	#
 howtoplay.weapons.title=Pokyny na hranie: zbrane	#
 howtoplay.weapons.header.1=Meč	#
@@ -2922,6 +3000,7 @@ howtoplay.weapons.header.2=Luk	#
 howtoplay.weapons.text.3.notTouch=Luk je hlavná zbraň v hre Minecraft na boj na diaľku. Stlačením a podržaním tlačidla :_input_key.use: natiahnete luk. Pustením tlačidla :_input_key.use: vystrelíte šíp. Na strieľanie potrebuje luk šípy. 	#
 howtoplay.weapons.text.3.touch=Luk je hlavná zbraň v hre Minecraft na boj na diaľku. Stlačením a podržaním obrazovky natiahnete luk. Uvoľnením stlačenia vystrelíte šíp. Na strieľanie potrebuje luk šípy.	#
 howtoplay.weapons.text.4=Luky spôsobujú väčšie poškodenie, čím viac sú natiahnuté. Natiahnite ich úplne dozadu.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Kuša	#
 howtoplay.weapons.text.5.notTouch=Kuša je alternatívna zbraň na boj na diaľku. Stlačením a podržaním tlačidla :_input_key.use: nabite kušu. Kuša zostane nabitá, kým nevystrelí. Stlačením tlačidla :_input_key.use: vystreľte šíp. Na nabíjanie kuše potrebujete šípy.	#
 howtoplay.weapons.text.5.touch=Kuša je alternatívna zbraň na boj na diaľku. Stlačením a podržaním obrazovky nabite kušu. Kuša zostane nabitá, kým nevystrelí, a to aj keď ju odložíte do inventára. Stlačením podržanej obrazovky vystreľte šíp. Na nabíjanie kuše potrebujete šípy.	#
@@ -2930,6 +3009,13 @@ howtoplay.weapons.text.6.notTouch=Trojzubec je dvojúčelová zbraň na boj nabl
 howtoplay.weapons.text.6.touch=Trojzubec je dvojúčelová zbraň na boj nablízko aj na diaľku. Ťuknutím na tvory na ne zaútočte. Stlačením a podržaním obrazovky napriahnite trojzubec a uvoľnením stlačenia trojzubec hoďte. Trojzubec je najlepšia zbraň na použite pod vodou.	#
 howtoplay.weapons.header.5=Očarované zbrane	#
 howtoplay.weapons.text.7=Pre meč, luk, kušu a trojzubec existujú konkrétne očarovania, ktoré môžete získať z čarodejného stola alebo nákovy. Tieto očarovania zlepšia poškodenie, trvácnosť a dokonca podpália tvory.	#
+=======
+howtoplay.weapons.header.3=Očarované zbrane	#
+howtoplay.weapons.text.5=Pre meč, luk a trojzubec existujú konkrétne očarovania, ktoré môžete získať z čarodejného stola alebo nákovy. Tieto očarovania zlepšia poškodenie, trvácnosť a dokonca podpália tvory.	#
+howtoplay.weapons.header.trident=Trojzubec	#
+howtoplay.weapons.text.trident.notTouch=Trojzubec je dvojúčelová zbraň na boj nablízko aj na diaľku. Stlačením tlačidla :_input_key.attack: zaútočte. Stlačením a podržaním tlačidla :_input_key.use: sa s trojzubcom napriahnete a uvoľnením tlačidla :_input_key.use: trojzubec hodíte. Trojzubec je najlepšia zbraň na použitie pod vodou.	#
+howtoplay.weapons.text.trident.touch=Trojzubec je dvojúčelová zbraň na boj nablízko aj na diaľku. Ťuknutím na tvory na ne zaútočte. Stlačením a podržaním obrazovky napriahnite trojzubec a uvoľnením stlačenia trojzubec hoďte. Trojzubec je najlepšia zbraň na použite pod vodou.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Novinky	#
 
@@ -3874,13 +3960,19 @@ item.spawn_egg.entity.sheep.name=Narodenie ovce	#
 item.spawn_egg.entity.npc.name=Narodenie NPC	#
 item.spawn_egg.entity.wolf.name=Narodenie vlka	#
 item.spawn_egg.entity.villager.name=Narodenie dedinčana	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Narodenie dedinčana	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Narodenie pomstiteľa	#
 item.spawn_egg.entity.mooshroom.name=Narodenie mooshrooma	#
 item.spawn_egg.entity.squid.name=Narodenie kalmára	#
 item.spawn_egg.entity.rabbit.name=Narodenie králika	#
 item.spawn_egg.entity.bat.name=Narodenie netopiera	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Narodenie illagerskej zveri	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Narodenie železného golema	#
 item.spawn_egg.entity.snow_golem.name=Narodenie snežného golema	#
 item.spawn_egg.entity.ocelot.name=Narodenie ocelota	#
@@ -3906,7 +3998,10 @@ item.spawn_egg.entity.ghast.name=Narodenie ghasta	#
 item.spawn_egg.entity.magma_cube.name=Narodenie magmovej kocky	#
 item.spawn_egg.entity.blaze.name=Narodenie žiarivca	#
 item.spawn_egg.entity.zombie_villager.name=Narodenie zombie dedinčana	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Narodenie zombie dedinčana	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Narodenie strigy	#
 item.spawn_egg.entity.stray.name=Narodenie túlavého kostlivca	#
 item.spawn_egg.entity.husk.name=Narodenie huska	#
@@ -3923,7 +4018,10 @@ item.spawn_egg.entity.phantom.name=Narodenie prízraku	#
 item.spawn_egg.entity.panda.name=Narodenie pandy	#
 item.spawn_egg.entity.pillager.name=Narodenie plieniteľa	#
 item.spawn_egg.entity.unknown.name=Narodenie	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Narodenie potulného obchodníka	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Trojzubec	#
 item.mushroom_stew.name=Hubový šalát	#
 item.muttonCooked.name=Varená baranina	#
@@ -4016,12 +4114,16 @@ item.wheat.name=Pšenica	#
 item.writable_book.name=Kniha a brko	#
 item.written_book.name=Napísaná kniha	#
 item.glowstone_dust.name=Prach zo žiarivého kameňa	#
+<<<<<<< HEAD
 item.shield.name=Štít	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Shulkrova ulita	#
 item.totem.name=Totem neumierajúceho	#
 item.turtle_helmet.name=Pancier korytnačky	#
 item.turtle_shell_piece.name=Šupina	#
 item.phantom_membrane.name=Blana z prízraku	#
+<<<<<<< HEAD
 item.sweet_berries.name=Sladké bobule	#
 item.banner_pattern.bricks=Murované pole	#
 item.banner_pattern.creeper=Symbol creepera	#
@@ -4030,6 +4132,8 @@ item.banner_pattern.name=Vzor zástavy	#
 item.banner_pattern.skull=Symbol lebky	#
 item.banner_pattern.thing=Vec	#
 item.banner_pattern.vines=Zúbkovaný okraj	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Hľadať predmety	#
 itemGroup.name.planks=Dosky	#
@@ -4064,7 +4168,11 @@ itemGroup.name.rawFood=Surová potrava	#
 itemGroup.name.cookedFood=Varená potrava	#
 itemGroup.name.miscFood=Iné typy potravy	#
 itemGroup.name.mushroom=Huby	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Kameň ukrývajúci rybenku	#
+=======
+itemGroup.name.monsterStoneEgg=Kamenné vajcia príšer	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Vajcia tvorov	#
 itemGroup.name.helmet=Helmy	#
 itemGroup.name.chestplate=Brnenia	#
@@ -4100,8 +4208,11 @@ itemGroup.name.coral=Koralové bloky	#
 itemGroup.name.coral_decorations=Koralové dekorácie	#
 itemGroup.name.buttons=Tlačidlá	#
 itemGroup.name.sign=Značky	#
+<<<<<<< HEAD
 itemGroup.name.wood=Drevo	#
 itemGroup.name.banner_pattern=Vzory zástav	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Zaútočiť/zničiť	#
 key.back=Chôdza pospiatky	#
@@ -4523,7 +4634,11 @@ options.chat.visibility.hidden=Skryté	#
 options.chat.visibility.system=Iba príkazy	#
 options.chat.width=Šírka	#
 options.codeBuilder=Zostavovač kódu	#
+<<<<<<< HEAD
 options.content_log_file=Povoliť súbor s denníkom obsahu	#
+=======
+options.content_log=Povoliť denník obsahu	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Povoliť grafické používateľské rozhranie denníka obsahu	#
 options.controller=Ovládač	#
 options.controllerLayout=Rozloženie ovládača	#
@@ -4613,6 +4728,7 @@ options.dev_useZippedInPackagePacks=Použiť skomprimované balíky v balíkoch	
 options.dev_importPacksAsZip=Importovať skomprimované balíky	#
 options.dev_folders_portSettingsFolder=Exportovať priečinok nastavení	#
 options.dev_useOverrideDate=Použiť dátum prepísania	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Zobraziť dátum a čas	#
 options.dev_loadOverrideDate=Načítať dátum prepísania pri spustení	#
 options.dev.timeZoneType=Prepísať typ časového pásma editora	#
@@ -4627,6 +4743,16 @@ options.dev_overrideDayLength=Prepísať dĺžku dňa v minútach (min.: 1)	#
 options.dev_overrideTimeScale=Rýchlosť plynutia času (min.: 1, predvolená: 1)	#
 options.dev_updateOverrideDate=Aktualizovať dátum prepísania	#
 options.dev_resetOverrideDate=Obnoviť dátum prepísania	#
+=======
+options.dev_displayOverrideDatetime=Zobraziť dátum a čas prepísania	#
+options.dev_saveCurrentOverrideDate=Pri zavretí uložiť aktuálny dátum	#
+options.dev_overrideDateYear=Rok	#
+options.dev_overrideDateMonth=Mesiac	#
+options.dev_overrideDateDay=Deň	#
+options.dev_overrideDayLength=Prepísať dĺžku dňa v minútach (min.: 1)	#
+options.dev_overrideTimeScale=Rýchlosť plynutia času (min.: 1, predvolená: 1)	#
+options.dev_updateOverrideDate=Aktualizovať dátum prepísania	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Vymazať vyrovnávaciu pamäť obchodu	#
 options.dev_clearAllCache=Vymazať celú vyrovnávaciu pamäť	#
 options.dev_connection_quality=Sieťový udržiavač (simulácia zlého pripojenia)	#
@@ -4636,6 +4762,7 @@ options.dev_connection_4g=4G – 15 Mb/s, časové oneskorenie 100 ms, strata pa
 options.dev_connection_3g=3G – 1,5 Mb/s, časové oneskorenie 200 ms, strata paketov 2 %	#
 options.dev_connection_slow=Pomalé – 400 kb/s, časové oneskorenie 300 ms, strata paketov 3 %	#
 options.dev_connection_veryslow=Veľmi pomalé – 200 kb/s, časové oneskorenie 400 ms, strata paketov 4 %	#
+<<<<<<< HEAD
 options.dev_identity_environment=Nové prostredie identity a infraštruktúry online (vyžaduje reštartovanie)	#
 options.dev_identity_environment.dev=Vývoj	#
 options.dev_identity_environment.test=Test	#
@@ -4645,6 +4772,8 @@ options.dev.windowsStore.auto=Automatické	#
 options.dev.windowsStore.v6=Starší Windows Store – V6	#
 options.dev.windowsStore.v8=OneStore – V8	#
 options.dev.stores=Momentálne aktívne obchody:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Náročnosť	#
 options.difficulty.easy=Jednoduchá	#
 options.difficulty.hard=Ťažká	#
@@ -4962,13 +5091,22 @@ pauseScreen.title=Hra je pozastavená	#
 pauseScreen.betaFeedback=Spätná väzba k verzii beta	#
 pauseScreen.xboxLiveDisconnect=Boli ste odpojení od služby Xbox Live. Ak chcete pozvať viac hráčov, otvorte svoj svet znova.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Spätná väzba	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Máte pripomienky?	#
 feedbackScreen.suggestion=Navrhnite.	#
 feedbackScreen.bug=Nahláste chybu.	#
 feedbackScreen.help=Potrebujete pomoc?	#
 feedbackScreen.body=Máte nápad, ako zlepšiť Minecraft? Našli ste chybu, ktorú chcete opraviť? Alebo sa vyskytol problém, s ktorým potrebujete pomôcť? Dajte nám vedieť.	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Navštívte túto webovú lokalitu v inom zariadení. %s	#
+=======
+feedbackScreen.suggestionLink=Navštívte túto webovú lokalitu v inom zariadení. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Navštívte túto webovú lokalitu v inom zariadení. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Navštívte túto webovú lokalitu v inom zariadení. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Dozadu	#
 hudScreen.tooltip.basic.flyDown=Letieť nadol	#
@@ -5012,7 +5150,10 @@ hudScreen.tooltip.dismount=Zosadnúť	#
 hudScreen.tooltip.collect=Pozbierať	#
 hudScreen.tooltip.peel=Olúpať kôru	#
 hudScreen.tooltip.scaffoldingDescend=Podržaním zostúpiť	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Zdvihnúť	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5195,11 @@ permissions.ability.doorsandswitches=Používať dvere a prepínače	#
 permissions.ability.opencontainers=Otvárať nádoby	#
 permissions.ability.attackplayers=Útočiť na hráčov	#
 permissions.ability.attackmobs=Útočiť na tvory	#
+<<<<<<< HEAD
 permissions.ability.op=Príkazy operátora	#
+=======
+permissions.ability.op=Operátor	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Získať neviditeľnosť	#
 permissions.ability.teleport=Teleportovať sa	#
 permissions.NeedPermission=Potrebujete povolenie	#
@@ -5078,10 +5223,15 @@ permissions.level.operator=Operátor	#
 permissions.level.visitor=Návštevník	#
 permissions.nocheats=Podvádzanie je vypnuté	#
 permissions.nocheats.message=Niektoré príkazy, napríklad teleport, sú dostupné iba pri ZAPNUTOM podvádzaní. Podvádzanie možno zapnúť aj v ponuke pozastavenej hry v časti Nastavenia hry. Ak zapnete podvádzanie, vo svete sa zakážu dosiahnuté výsledky.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Niektoré príkazy, napríklad teleport, sú dostupné iba pri ZAPNUTOM podvádzaní. Podvádzanie možno zapnúť aj v ponuke pozastavenej hry v časti Nastavenia hry.	#
 permissions.nocheats.turnon=Nastaviť PO so zapnutým podvádzaním	#
 permissions.nocheats.turnoff=Nastaviť PO s vypnutým podvádzaním	#
 permissions.nocheats.cancel=Zrušiť	#
+=======
+permissions.nocheats.turnon=Zapnúť podvádzanie	#
+permissions.nocheats.turnoff=Nechať podvádzanie vypnuté	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Chcete odstrániť povolenia operátora?	#
 permissions.deopingself.message=Ak znížite úroveň povolení, stratíte povolenia na úrovni operátora.	#
 permissions.title=Povolenia hráča	#
@@ -5765,13 +5915,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Získať mince	#
 store.popup.purchasePriceMismatch.msg=Ľutujeme, nákup sa nemohol dokončiť. Skúste to znova neskôr.	#
 store.popup.trialUpgradeFail.title=Chyba odomknutia hry	#
 store.popup.trialUpgradeFail.msg=Zdá sa, že ste sa prihlásili do iného konta Microsoft, než je konto, ktoré prvýkrát prevzalo skúšobnú verziu hry Minecraft. Po prihlásení do tohto konta to skúste znova.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Chcete kúpiť šablónu sveta?	#
 store.popup.downloaded.unOwnedTemplate.msg=Túto šablónu nevlastníte. Ak ju chcete odomknúť, musíte si ju kúpiť. Chcete kúpiť šablónu?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Práve ste kúpili: %s	#
 store.purchase.bundle=Odomknúť %d z %d balíkov?	#
 store.purchase.bundle.confirm=Odomknúť!	#
 store.purchase.bundle.partiallyOwnedWarning=Len aby ste vedeli, už vlastníte nasledujúce balíky: %s. Chcete odomknúť zvyšok balíkov v tomto zväzku?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Vlastnené	#
+=======
+store.purchase.bundle.owned=Vlastníte	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Dostanete	#
 store.createdBy=Autor: %s	#
 store.seeMoreBy=Zobraziť ďalšie od autora: %s	#
@@ -6019,8 +6176,13 @@ store.search.sort_menu.Installed=Nainštalované	#
 store.search.sort_menu.notInstalled=Nenainštalované	#
 store.search.sort_menu.HighestPrice=:minecoin: od vysokej po nízku	#
 store.search.sort_menu.LowestPrice=:minecoin: od nízkej po vysokú	#
+<<<<<<< HEAD
 store.search.sort_menu.HighestRating=Hodnotenie: od najvyššieho	#
 store.search.sort_menu.LowestRating=Hodnotenie: od najnižšieho	#
+=======
+store.search.sort_menu.HighestRating=Hodnotenie: od vysokého po nízke	#
+store.search.sort_menu.LowestRating=Hodnotenie: od nízkeho po vysoké	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.search.sort_menu.resultText=podľa %s 	#
 
 store.shareDescription=Fíha! Autor %s vytvoril úžasný balík. Musíte ho vyskúšať.	#
@@ -6144,7 +6306,10 @@ tile.chalkboard.twoByOne.name=Plagát	#
 tile.chalkboard.threeByTwo.name=Tabuľa	#
 tile.chest.name=Truhlica	#
 tile.ender_chest.name=Truhlica z konca sveta	#
+<<<<<<< HEAD
 tile.jigsaw.name=Skladací blok	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Truhlica s pascou	#
 tile.shulkerBoxWhite.name=Biela škatuľa shulkera	#
 tile.shulkerBoxOrange.name=Oranžová škatuľa shulkera	#
@@ -6237,6 +6402,11 @@ tile.wool.white.name=Biela vlna	#
 tile.wool.yellow.name=Žltá vlna	#
 tile.cobblestone_wall.mossy.name=Stena zo stavebného kameňa pokrytá machom	#
 tile.cobblestone_wall.normal.name=Stena zo stavebného kameňa 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Stena zo stavebného kameňa	#
+tile.cobblestone_wall.mossy_cobblestone.name=Stena zo stavebného kameňa pokrytého machom	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Stena zo žuly	#
 tile.cobblestone_wall.diorite.name=Stena z dioritu	#
 tile.cobblestone_wall.andesite.name=Stena z andezitu	#
@@ -6251,7 +6421,10 @@ tile.cobblestone_wall.red_sandstone.name=Stena z červeného pieskovca	#
 tile.cobblestone_wall.red_nether_brick.name=Stena z červených netheritových tehál	#
 tile.cocoa.name=Kakao	#
 tile.command_block.name=Príkazový blok	#
+<<<<<<< HEAD
 tile.composter.name=Kompostér	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Opakovací príkazový blok	#
 tile.chain_command_block.name=Reťazový príkazový blok	#
 tile.wheat.name=Plodiny	#
@@ -6334,6 +6507,7 @@ tile.lever.name=Páčka	#
 tile.glowstone.name=Žiarivý kameň	#
 tile.lit_pumpkin.name=Tekvicový lampáš	#
 tile.lockedchest.name=Zamknutá truhlica	#
+<<<<<<< HEAD
 tile.log.acacia.name=Agátové poleno	#
 tile.log.big_oak.name=Poleno z tmavého duba	#
 tile.log.birch.name=Brezové poleno	#
@@ -6351,6 +6525,25 @@ tile.monster_egg.crackedbrick.name=Prasknutá kamenná tehla ukrývajúca rybenk
 tile.monster_egg.mossybrick.name=Kamenná tehla pokrytá machom ukrývajúca rybenku	#
 tile.monster_egg.name=Kameň ukrývajúci rybenku	#
 tile.monster_egg.stone.name=Kameň ukrývajúci rybenku	#
+=======
+tile.log.acacia.name=Agátové drevo	#
+tile.log.big_oak.name=Drevo tmavého duba	#
+tile.log.birch.name=Brezové drevo	#
+tile.log.jungle.name=Tropické drevo	#
+tile.log.name=Drevo	#
+tile.log.oak.name=Dubové drevo	#
+tile.log.spruce.name=Smrekové drevo	#
+tile.magma.name=Magmový blok	#
+tile.melon_block.name=Melón	#
+tile.mob_spawner.name=Miesto zrodu príšery	#
+tile.monster_egg.brick.name=Kamenná tehla s rybenkou	#
+tile.monster_egg.chiseledbrick.name=Opracovaná kamenná tehla s rybenkou	#
+tile.monster_egg.cobble.name=Stavebný kameň s rybenkou	#
+tile.monster_egg.crackedbrick.name=Prasknutá kamenná tehla s rybenkou	#
+tile.monster_egg.mossybrick.name=Kamenná tehla s rybenkou pokrytá machom	#
+tile.monster_egg.name=Skala s rybenkou	#
+tile.monster_egg.stone.name=Skala s rybenkou	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Huba	#
 tile.noteblock.name=Blok noty	#
 tile.mycelium.name=Podhubie	#
@@ -6501,7 +6694,10 @@ tile.stonebrick.mossy.name=Kamenné tehly pokryté machom	#
 tile.stonebrick.name=Kamenné tehly	#
 tile.stonebrick.smooth.name=Hladké kamenné tehly	#
 tile.stonecutter.name=Rezačka kameňa	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Rezačka kameňa	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Stavebný kameň pokrytý machom	#
 tile.double_stone_slab.brick.name=Tabuľa z tehál	#
 tile.double_stone_slab.cobble.name=Tabuľa zo stavebného kameňa	#
@@ -6516,10 +6712,18 @@ tile.stone_slab.name=Kamenná tabuľa	#
 tile.stone_slab.brick.name=Tabuľa z tehál	#
 tile.stone_slab.cobble.name=Tabuľa zo stavebného kameňa	#
 tile.stone_slab.stone.name=Tabuľa z hladkého kameňa	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Tabuľa z hladkého kameňa	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Tabuľa z netheritových tehál	#
 tile.stone_slab.quartz.name=Kryštálová tabuľa	#
 tile.stone_slab.sand.name=Pieskovcová tabuľa	#
 tile.stone_slab.smoothStoneBrick.name=Tabuľa z kamenných tehál	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Kamenná tabuľa	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Drevený schodík	#
 tile.double_stone_slab2.red_sandstone.name=Tabuľa z červeného pieskovca	#
 tile.stone_slab2.red_sandstone.name=Tabuľa z červeného pieskovca	#
@@ -6695,12 +6899,21 @@ tile.concretePowder.magenta.name=Purpurový betónový prach	#
 tile.concretePowder.orange.name=Oranžový betónový prach	#
 tile.concretePowder.white.name=Biely betónový prach	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Olúpané smrekové poleno	#
 tile.stripped_dark_oak_log.name=Olúpané poleno z tmavého duba	#
 tile.stripped_birch_log.name=Olúpané brezové poleno	#
 tile.stripped_jungle_log.name=Olúpané tropické poleno	#
 tile.stripped_oak_log.name=Olúpané dubové poleno	#
 tile.stripped_acacia_log.name=Olúpané agátové poleno	#
+=======
+tile.stripped_spruce_log.name=Olúpané smrekové drevo	#
+tile.stripped_dark_oak_log.name=Olúpané drevo tmavého duba	#
+tile.stripped_birch_log.name=Olúpané brezové drevo	#
+tile.stripped_jungle_log.name=Olúpané tropické drevo	#
+tile.stripped_oak_log.name=Olúpané dubové drevo	#
+tile.stripped_acacia_log.name=Olúpané agátové drevo	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambus	#
 tile.scaffolding.name=Lešenie	#
@@ -6710,6 +6923,7 @@ tile.lantern.name=Lampáš	#
 tile.smoker.name=Udiareň	#
 tile.smithing_table.name=Kováčsky stôl	#
 tile.barrel.name=Sud	#
+<<<<<<< HEAD
 tile.campfire.name=Táborák	#
 tile.loom.name=Krosná	#
 tile.lectern.name=Pult	#
@@ -6727,6 +6941,8 @@ tile.wood.stripped.birch.name=Olúpané brezové drevo	#
 tile.wood.stripped.jungle.name=Olúpané tropické drevo	#
 tile.wood.stripped.acacia.name=Olúpané agátové drevo	#
 tile.wood.stripped.dark_oak.name=Olúpané drevo tmavého duba	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Šíp namočený v elixíre	#
 tipped_arrow.effect.water=Šíp namočený v elixíre	#
@@ -6811,10 +7027,13 @@ translation.test.invalid2=vitajte, % s	#
 translation.test.none=Vitaj, svet!	#
 translation.test.world=svet	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Konverzia sveta zlyhala	#
 worldConversionErrorPrompt.message=Počas konverzie sveta sa vyskytla chyba. Skúste to znova neskôr.	#
 worldConversionErrorPrompt.message.upload=Niečo sa pokazilo. Váš svet sa nám nepodarilo konvertovať. Svet nám môžete odoslať neskôr tak, že prejdete do svojho starého sveta a stlačíte tlačidlo Y. Alebo nám svoj svet odošlite teraz, aby ste mohli preskúmať príčiny.	#
@@ -6905,6 +7124,7 @@ trial.tabbed_upsell.addon.description=Chcete, aby sa vlci správali ako zajačik
 trial.tabbed_upsell.seeds.title=POČIATOČNÉ HODNOTY	#
 trial.tabbed_upsell.seeds.description=Odomknite plnú hru Minecraft a získajte prístup k počiatočným hodnotám. Počiatočné hodnoty pomáhajú objavovať nové biómy – prežite na ľadových pláňach, vystúpte na extrémne kopce alebo putujte cez púšte. Začnite s unikátnymi šablónami alebo preskúmajte náhodné nové svety. Kúpte si Minecraft už dnes, aby ste mali prístup k počiatočným hodnotám, tvorivému režimu, hre pre viacerých hráčov a ďalším funkciám.	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Úvodná kolekcia pre Minecraft	#
 trial.master.collection.title=Majstrovská kolekcia pre Minecraft	#
@@ -6938,6 +7158,8 @@ trial.collection.12.title=Balíček vzhľadov Darebáci	#
 trial.collection.12.description=Oblečte sa ako Cake Maniac, Frankencrafter alebo ešte horšie.	#
 trial.includes=Obsah	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Súbor zip	#
 verification.nolicense.title=Chyba licencie	#
 verification.nolicense.description=Máme problémy s overením, že vlastníte Minecraft v tomto zariadení. Skontrolujte, či ste prevzali a nainštalovali Minecraft z obchodu. Alebo sa jednoducho opätovne pripojte na internet a skúste to znova.	#
@@ -7188,6 +7410,7 @@ tips.edu.5=Ak chcete, aby sa iní hráči pripojili k vášmu svetu, pozastavte 
 tips.edu.6=Pamätajte, že na používanie príkazov s lomkou musíte vo svojom svete povoliť podvádzanie.	#
 tips.edu.7=Dokončili ste svoj výtvor? Dovoľte ostatným prezrieť si váš svet v dobrodružnom režime, aby vaša práca bola chránená.	#
 tips.edu.8=Ak chcete použiť Zostavovač kódu, stlačte kláves C na klávesnici alebo sa dotknite ikony agenta v hornej časti obrazovky.	#
+<<<<<<< HEAD
 tips.edu.9=Pomocou knižnice nájdite nové herné svety, v ktorých možno budovať.	#
 tips.edu.10=Hľadáte konkrétny bióm? Vyskúšajte knižnicu.	#
 tips.edu.11=Skratka NPC znamená inú postavu ako hráča.	#
@@ -7201,6 +7424,8 @@ tips.edu.18=V ponuke Nastavenia v časti Ovládacie prvky môžete zapnúť aleb
 tips.edu.19=V tvorivom režime môžete rýchlym dvojitým stlačením tlačidla skoku vyletieť.	#
 tips.edu.20=Ak pri vytváraní sveta vyberiete predvolený herný režim, budete môcť zadať požadovaný typ hry.	#
 tips.edu.21=Ak použijete príkaz /setworldspawn, noví hráči začnú hrať na mieste, kde stojíte.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Pomocou morskej trávy lákajte a rozmnožujte morské korytnačky.	#
 tips.game.2=Malé korytnačky chráňte pred nepriateľskými tvormi.	#
@@ -7263,8 +7488,11 @@ tips.game.56=Pri kopaní priamo nahor si k nohám položte fakľu, aby sa naruš
 splitscreen.joinPrompt=Pridať sa ako hráč %s	#
 splitscreen.unavailable.toastHeader=Rozdelená obrazovka nie je k dispozícii	#
 splitscreen.unavailable.toastMessage=Druhý hráč sa teraz nemôže pripojiť.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Nemožno pripojiť ovládač Joy-Con.	#
 splitscreen.joyconError.toastMessage=V režime lokálnej siete je pripojených príliš veľa ovládačov, takže sa k tejto hre nemôžete pripojiť.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Zmeniť používateľa	#
 

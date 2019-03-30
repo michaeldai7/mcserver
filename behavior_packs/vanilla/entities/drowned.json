@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "format_version": "1.10.0",
+=======
+  "format_version": "1.8.0",
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "minecraft:entity": {
     "description": {
       "identifier": "minecraft:drowned",
@@ -87,7 +91,10 @@
         "minecraft:navigation.generic": {
           "is_amphibious": true,
           "can_path_over_water": false,
+<<<<<<< HEAD
           "can_break_doors": true,
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
           "can_swim": true,
           "can_walk": true,
           "avoid_sun": true
@@ -98,7 +105,10 @@
         "minecraft:navigation.generic": {
           "is_amphibious": true,
           "can_path_over_water": false,
+<<<<<<< HEAD
           "can_break_doors": true,
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
           "can_swim": false,
           "can_walk": true,
           "avoid_sun": true
@@ -118,8 +128,12 @@
         "width": 0.6,
         "height": 1.8
       },
+<<<<<<< HEAD
       "minecraft:annotation.break_door": {
       },
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:underwater_movement": {
         "value": 0.06
       },
@@ -147,12 +161,21 @@
       "minecraft:navigation.generic": {
         "is_amphibious": true,
         "can_path_over_water": false,
+<<<<<<< HEAD
         "can_break_doors": true,
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
         "can_swim": false,
         "can_walk": true,
         "avoid_sun": true
       },
 
+<<<<<<< HEAD
+=======
+      "minecraft:behavior.break_door": {
+        "priority": 1
+      },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:behavior.flee_sun": {
         "priority": 2,
         "speed_multiplier": 1
@@ -196,15 +219,52 @@
               "all_of": [
                 {
                   "any_of": [
+<<<<<<< HEAD
                     { "test": "is_family", "subject": "other", "value": "player" },
                     { "test": "is_family", "subject": "other", "value": "snowgolem" },
                     { "test": "is_family", "subject": "other", "value": "irongolem" }
+=======
+                    {
+                      "test": "is_family",
+                      "subject": "other",
+                      "value": "player"
+                    },
+                    {
+                      "test": "is_family",
+                      "subject": "other",
+                      "value": "snowgolem"
+                    },
+                    {
+                      "test": "is_family",
+                      "subject": "other",
+                      "value": "irongolem"
+                    },
+                    {
+                      "test": "is_family",
+                      "subject": "other",
+                      "value": "villager"
+                    }
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                   ]
                 },
                 {
                   "any_of": [
+<<<<<<< HEAD
                     { "test": "in_water", "subject": "other", "value": true },
                     { "test": "is_brightness", "subject": "other", "operator": "<", "value": 0.49 }
+=======
+                    {
+                      "test": "in_water",
+                      "subject": "other",
+                      "value": true
+                    },
+                    {
+                      "test": "is_brightness",
+                      "subject": "other",
+                      "operator": "<",
+                      "value": 0.49
+                    }
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                   ]
                 }
               ]
@@ -215,6 +275,7 @@
             "filters": {
               "all_of": [
                 {
+<<<<<<< HEAD
                   "any_of": [
                     { "test": "is_family", "subject": "other", "value": "villager" },
                     { "test": "is_family", "subject": "other", "value": "wandering_trader" }
@@ -238,6 +299,20 @@
                 { "test": "in_water", "subject": "other", "operator": "!=", "value": true }
               ]
             },
+=======
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "baby_turtle"
+                },
+                {
+                  "test": "in_water",
+                  "subject": "other",
+                  "operator": "!=",
+                  "value": true
+                }
+              ]
+            },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
             "max_dist": 35
           }
         ],

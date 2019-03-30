@@ -5,7 +5,11 @@
     "name": "pack.name",
     "version": [1, 0, 0],
     "description": "pack.description",
+<<<<<<< HEAD
     "min_engine_version": [1, 10, 0],
+=======
+    "min_engine_version": [1, 9, 0],
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     "pack_scope": "world"
   },
   "modules": [

@@ -185,6 +185,13 @@
     ]
   },
 
+<<<<<<< HEAD
+=======
+  "pocket_ui_container_item@common.pocket_ui_container_item": {
+    "size": [ 28, 28 ]
+  },
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "hotbar": {
     "type": "panel",
     "anchor_to": "top_middle",
@@ -200,7 +207,15 @@
               "hotbar_grid_template@common.hotbar_grid_template": {
                 "offset": [ 0, -3 ],
                 "size": [ 259, 28 ],
+<<<<<<< HEAD
                 "grid_item_template": "common.pocket_ui_container_item",
+=======
+                "$cell_image_size": [ 28, 28 ],
+                "$item_renderer_panel_size": [ 28, 28 ],
+                "$item_renderer_size": [ 24, 24 ],
+                "$item_renderer_offset": [ 3, 3 ],
+                "grid_item_template": "chem_common_pocket.pocket_ui_container_item",
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                 "$item_collection_name": "hotbar_items"
               }
             }
@@ -210,6 +225,7 @@
     ]
   },
 
+<<<<<<< HEAD
   "pocket_ui_container_item@common.pocket_ui_container_item": {
     "size": [ 24, 24 ],
     "$cell_image_size": [ 24, 24 ],
@@ -217,6 +233,8 @@
     "$item_renderer_size": [ 20, 20 ]
   },
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "inventory_grid": {
     "type": "grid",
     "grid_rescaling_type": "horizontal",
@@ -226,8 +244,17 @@
     "offset": [ 8, 2 ],
     "maximum_grid_items": 27,
     "collection_name": "inventory_items",
+<<<<<<< HEAD
     "grid_item_template": "chem_common_pocket.pocket_ui_container_item",
     "$item_collection_name": "inventory_items"
+=======
+    "grid_item_template": "common.pocket_ui_container_item",
+    "$item_collection_name": "inventory_items",
+    "$cell_image_size": [ 24, 24 ],
+    "$item_renderer_panel_size": [ 20, 20 ],
+    "$item_renderer_size": [ 20, 20 ],
+    "$item_renderer_offset": [ 2, 2 ]
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   },
 
   "inventory_content": {

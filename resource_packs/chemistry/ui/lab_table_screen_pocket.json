@@ -16,7 +16,11 @@
     "offset": [ 0, 8 ]
   },
 
+<<<<<<< HEAD
   "input_slot@chem_common_pocket.pocket_ui_container_item": {
+=======
+  "input_slot@common.pocket_ui_container_item": {
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     "$item_collection_name": "compcreate_input",
     "$button_ref": "labtable_pocket.one_touch_button"
   },
@@ -75,7 +79,12 @@
           "$offset|default": [ 0, 0 ],
           "offset": "$offset",
           "$item_collection_name": "labtable_input",
+<<<<<<< HEAD
           "$item_renderer_size": [ 20, 20 ]
+=======
+          "$item_renderer_size": [ 20, 20 ],
+          "$item_renderer_offset": [ 2, 2 ]
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
         }
       }
     ]

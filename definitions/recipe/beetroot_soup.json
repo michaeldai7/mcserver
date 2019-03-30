@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "type": "crafting_shapeless",
   "ingredients": [
     {
@@ -9,6 +10,22 @@
       "count": 6
     }
   ],
+=======
+  "type": "crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OOO",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "O": {
+      "item": "minecraft:beetroot"
+    }
+  },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "result": {
     "item": "minecraft:beetroot_soup"
   }

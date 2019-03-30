@@ -523,6 +523,7 @@
         "cooldown_time": 20,
         "can_always_eat": true
       }
+<<<<<<< HEAD
     },
     "sweet_berries": {
       "use_duration": 32,
@@ -540,6 +541,8 @@
           "podzol"
         ]
       }
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     }
   }
 }

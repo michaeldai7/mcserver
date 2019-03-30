@@ -130,7 +130,10 @@ action.interact.trade=Trade	#
 action.interact.armorstand.pose=Pose	#
 action.interact.armorstand.equip=Equip	#
 action.interact.read=Read	#
+<<<<<<< HEAD
 action.interact.wakevillager=Wake Villager	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = all entities	#
 advMode.allPlayers=@a = all players	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=mention all players	#
 chat.mute=Mute	#
 chat.realmsFilterDisabled=This Realm has chat filtering turned off.	#
 chat.settings=Chat Settings	#
+<<<<<<< HEAD
 chat.settings.chatColor=Chat Colour	#
 chat.settings.color=Colour	#
 chat.settings.font=Font	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Line Spacing: x%s	#
 chat.settings.mentions=My Mentions	#
 chat.settings.muteAll=Mute All	#
 chat.settings.typeface=Typeface	#
+=======
+chat.settings.defaultChatColor=Default Chat Colour	#
+chat.settings.color=Colour	#
+chat.settings.font=Font	#
+chat.settings.fontColor=Font Colour	#
+chat.settings.lineSpacing=Line Spacing: x%s	#
+chat.settings.mentions=My Mentions	#
+chat.settings.muteAll=Mute All	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Unmute All	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Server	#
 commands.origin.teacher=Teacher	#
 commands.ops.description=Reloads and applies Op permissions.	#
 commands.ops.reloaded=Ops reloaded from file.	#
+<<<<<<< HEAD
 commands.ops.set.success=Succeeded in setting operator level for player %s.	#
 commands.permissions.description=Reloads and applies permissions.	#
 command.permissions.list.fail.filenotfound=Failed to list permissions from file, file not found.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Could not set permission level %s for player %s.
 commands.permissions.set.success=Succeeded in setting permission level %s for player %s.	#
 commands.permissions.save.failed=Could not save permission level %s for player %s.	#
 commands.permissions.save.success=Succeeded in saving permission level %s for player %s.	#
+=======
+commands.permissions.description=Reloads and applies permissions.	#
+commands.permissions.reloaded=Permissions reloaded from file.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Creates a particle emitter	#
 commands.particle.description=Creates particles.	#
 commands.particle.notFound=Unknown effect name (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Could not unban player %1$s	#
 commands.unban.success=Unbanned player %1$s	#
 commands.unbanip.invalid=You have entered an invalid IP address	#
 commands.unbanip.success=Unbanned IP address %1$s	#
+<<<<<<< HEAD
 commands.videostream.description=Attempts to connect to the websocket server to send a video stream.	#
 commands.videostreamaction.description=Perform a videostream-related action.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Changing to clear weather	#
 commands.weather.description=Sets the weather.	#
 commands.weather.disabled=Weather Cycle isn't enabled in this level.	#
@@ -981,13 +1002,19 @@ container.furnace=Furnace	#
 container.hopper=Item Hopper	#
 container.inventory=Inventory	#
 container.isLocked=%s is locked!	#
+<<<<<<< HEAD
 container.loom=Loom	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Minecart	#
 container.repair=Repair & Name	#
 container.repair.cost=XP Cost: %1$d	#
 container.repair.expensive=Too Expensive!	#
 container.stonecutter=Stonecutter	#
+<<<<<<< HEAD
 container.stonecutter_block=Stonecutter	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Shulker Box	#
 container.shulkerboxContains=and %d more...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=You don't have all ingredients	#
 crafting.insufficientLevel=Your level is too low	#
 crafting.noRecipesInventory=You need to collect blocks to craft!	#
 crafting.noRecipesStonecutter=You need stone materials to craft!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=You need stone materials to craft!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=You need to collect blocks to craft!	#
 
 createWorld.customize.custom.baseSize=Depth Base Size	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Check For Game Update Now?	
 disconnectionScreen.realmsWorldUnassigned=Assign version in dev options.	#
 disconnectionScreen.realmsWorldUnassigned.title=Realm is Unassigned!	#
 disconnectionScreen.scriptNotSupported=The world you are trying to enter requires your device to run scripts. Your device doesn't support scripting at this time, so you can't join from this device.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Scripting Not Supported	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Wow this server is popular! Check back later to see if space opens up.	#
 disconnectionScreen.serverFull.title=Server Full	#
 disconnectionScreen.serverIdConflict=Cannot join world. The account you are signed in to is currently playing in this world on a different device.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Ghast	#
 entity.guardian.name=Guardian	#
 entity.horse.name=Horse	#
 entity.husk.name=Husk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Illager Beast	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Iron Golem	#
 entity.item.name=Item	#
 entity.leash_knot.name=Leash Knot	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Villager	#
 entity.villager.shepherd=Shepherd	#
 entity.villager.tool=Tool Smith	#
 entity.villager.weapon=Weapon Smith	#
+<<<<<<< HEAD
 entity.villager.mason=Stone Mason	#
 entity.villager.unskilled=Unskilled Villager	#
 entity.villager_v2.name=Villager	#
 entity.vindicator.name=Vindicator	#
 entity.wandering_trader.name=Wandering Trader	#
+=======
+entity.vindicator.name=Vindicator	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Witch	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Wither Skeleton	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Zombie Horse	#
 entity.zombie_pigman.name=Zombie Pigman	#
 entity.zombie_villager.name=Zombie Villager	#
 
+<<<<<<< HEAD
 exports.share.file=Share %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Add Server	#
 addExternalServerScreen.nameTextBoxLabel=Server Name	#
 addExternalServerScreen.namePlaceholder=Please enter server name	#
@@ -1974,7 +2018,10 @@ feature.village=Village	#
 feature.shipwreck=Shipwreck	#
 feature.buriedtreasure=Buried Treasure	#
 feature.ruins=Ocean Ruins	#
+<<<<<<< HEAD
 feature.pillageroutpost=Pillager Outpost	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Like	#
 feed.manage_feed=Manage feed	#
@@ -2047,6 +2094,7 @@ gameTip.jumpMovement.touch=Tap the right button to jump	#
 gameTip.jumpMovement.controller=Press A to jump	#
 gameTip.jumpForward.keyboard=Press W and space at the same time to jump up onto a block	#
 gameTip.jumpForward.touch=Touch the up arrow and the right button at the same time to jump up onto a block	#
+<<<<<<< HEAD
 gameTip.jumpForward.controller=Move the right stick up and press A at the same time to jump up onto a block	#
 gameTip.findTree=Find a tree to collect wood	#
 gameTip.breakWood.mouse=Left click and hold to collect 3 pieces of wood	#
@@ -2067,6 +2115,13 @@ gameTip.open.recipe=Open the recipe book to learn how to craft more things	#
 gameTip.closeInventory.keyboard=Press E or left click the X to close the inventory	#
 gameTip.closeInventory.touch=Tap the X to close the inventory	#
 gameTip.closeInventory.controller=Press B to close the inventory	#
+=======
+gameTip.jumpForward.controller=Move the left stick up and press A at the same time to jump up onto a block	#
+gameTip.findTree=Find a tree to gather wood	#
+gameTip.breakWood.mouse=Left click and hold to collect 3 pieces of wood	#
+gameTip.breakWood.touch=Tap and hold to collect 3 pieces of wood	#
+gameTip.breakWood.controller=Hold down the right trigger to collect 3 pieces of wood	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=AMPLIFIED	#
 generator.amplified.info=Notice: Just for fun, requires beefy computer	#
@@ -2090,7 +2145,10 @@ gui.cancel=Cancel	#
 gui.clear=Clear	#
 gui.close=Close	#
 gui.confirm=Confirm	#
+<<<<<<< HEAD
 gui.custom=Custom	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Default	#
 gui.decline=Decline	#
 gui.deleteWorldLong=Delete World	#
@@ -2184,6 +2242,7 @@ howtoplay.armor.header.1=Crafting	#
 howtoplay.armor.text.2=Armour can be crafted from Leather, Iron, Gold, or Diamond. Chain Armour can be obtained through villager trading and loot from zombies and skeletons.	#
 howtoplay.armor.text.3=Equip Armour by opening your inventory and moving pieces of Armour to the appropriate slot next to your player skin.	#
 howtoplay.armor.text.4=Iron, Chain, and Gold Armour can be smelted into Iron or Gold Nuggets in a Furnace.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Shield	#
 howtoplay.armor.text.5.keyboard=The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press and hold :_input_key.sneak: to block with the Shield.	#
 howtoplay.armor.text.5.gamepad=The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press the :_input_key.sneak: button or click :_gamepad_stick_right: to toggle block with the Shield.	#
@@ -2193,6 +2252,10 @@ howtoplay.armor.text.5.windowsmr_controller=The Shield will block incoming damag
 howtoplay.armor.text.6=The Shield can even block a Creeper explosion!	#
 howtoplay.armor.header.3=Disguise	#
 howtoplay.armor.text.7=You can also wear a Pumpkin on your head. This won't give you any :armor: but will make it so Endermen won't get mad when you look at them.	#
+=======
+howtoplay.armor.header.2=Disguise	#
+howtoplay.armor.text.5=You can also wear a Pumpkin on your head. This won't give you any :armor: but will make it so Endermen won't get mad when you look at them.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Armour Stand	#
 howtoplay.armorStand.title=How to Play : Armour Stand	#
@@ -2211,7 +2274,11 @@ howtoplay.armorStand.text.5=Armour Stands will react to a Redstone signal, try g
 howtoplay.banners=Banners	#
 howtoplay.banners.title=How to Play : Banners	#
 howtoplay.banners.text.1=Banners are a cool way to decorate your house or castle with custom patterns and colours.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=After crafting a Banner, you can put it on a Crafting Table or Loom and add different dyes to create your own unique, cool design!	#
+=======
+howtoplay.banners.text.2=After crafting a Banner, you can put it on a crafting table and add different dyes to create your own unique, cool design!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Applying a Pattern	#
 howtoplay.banners.text.3=There are many different patterns that you can create with your dye such as:	#
 howtoplay.banners.text.4=  - Making a triangle will give you a chevron pattern.	#
@@ -2511,6 +2578,7 @@ howtoplay.droppers.text.2=If a Dropper is facing a Chest or another type of cont
 howtoplay.dyes=Dyes	#
 howtoplay.dyes.title=How to Play : Dyes	#
 howtoplay.dyes.text.1=Dye is used to change the colour of many things in Minecraft.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Some dye materials are harder to find than others. While most Dyes can be crafted from flowers like Red Dye from a Poppy, some Dyes are found or created in more obscure ways such as: 	#
 howtoplay.dyes.text.3=-Mining Lapis Lazuli deep underground	#
 howtoplay.dyes.text.4=-Collecting Ink Sacs underwater	#
@@ -2518,6 +2586,14 @@ howtoplay.dyes.text.5=-Harvesting Cocoa Beans in the Jungle	#
 howtoplay.dyes.text.6=-Green Dye must be smelted from Cactus	#
 howtoplay.dyes.text.7=-Bonemeal can help grow plants and trees or be crafted into White Dye	#
 howtoplay.dyes.text.8=-Collect Ink Sacs from Squids for Black Dye	#
+=======
+howtoplay.dyes.text.2=You may have to explore a while before you find some of the natural materials to craft certain dyes. While most Dyes can be crafted from flowers like Rose Red from a Poppy, some Dyes are found or created in more obscure ways such as: 	#
+howtoplay.dyes.text.3=-Mining Lapis Lazuli deep underground	#
+howtoplay.dyes.text.4=-Collecting Ink Sacs underwater	#
+howtoplay.dyes.text.5=-Harvesting Cocoa Beans in the Jungle	#
+howtoplay.dyes.text.6=-Cactus Green must be smelted from Cactus	#
+howtoplay.dyes.text.7=-Bonemeal can help grow plants and trees or be used as white dye	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Elytra	#
 howtoplay.elytra.title=How to Play : Elytra	#
@@ -2706,6 +2782,7 @@ howtoplay.jukebox.header.3=Finding Music Discs	#
 howtoplay.jukebox.text.7=There are a couple of Music Discs that can be found in Chests around the world.	#
 howtoplay.jukebox.text.8=Others are more difficult to come by, Creepers secretly appreciate music.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Loom	#
 howtoplay.loom.title=How to Play: Loom	#
 howtoplay.loom.text.1=The Loom is a fast and efficient way to apply patterns to Banners. The Loom only uses one Dye to apply a pattern. It can also use Loom patterns to apply special patterns.	#
@@ -2715,6 +2792,8 @@ howtoplay.loom.text.3=A Banner can have multiple layers allowing you to experime
 howtoplay.loom.header.2=Loom Patterns 	#
 howtoplay.loom.text.4=Adding a Loom Pattern to the Loom's third slot will allow the crafting of special patterns like a creeper face or a flower pattern. You will not lose you Loom Patterns when you apply these patterns to your Banners.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Mounts	#
 howtoplay.mounts.title=How to Play : Mounts	#
 howtoplay.mounts.text.1=A player can ride any adult Horse, Donkey, or Mule. Only Horses can be armoured.	#
@@ -2912,6 +2991,10 @@ howtoplay.transportation.text.5.keyboard=Press :_input_key.use: while looking at
 howtoplay.transportation.text.5.gamepad=Press :_input_key.use: while looking at a Boat to board it. Push :_gamepad_stick_left: left or right to turn. Push :_gamepad_stick_left: forward to move forward. Press :_input_key.jump: or :_input_key.sneak: to get out.	#
 howtoplay.transportation.text.5.touch=Tap the board button while near a Boat to board it. Press :_input_key.left: or :_input_key.right: to turn left or right. Press them both to move forward. Tap the leave boat button to get out.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Weapons	#
 howtoplay.weapons.title=How to Play : Weapons	#
 howtoplay.weapons.header.1=Sword	#
@@ -2922,6 +3005,7 @@ howtoplay.weapons.header.2=Bow	#
 howtoplay.weapons.text.3.notTouch=The Bow is the primary ranged weapon in Minecraft. Press and hold :_input_key.use: to draw the bow back. Release :_input_key.use: to fire an arrow. The bow requires arrows to fire. 	#
 howtoplay.weapons.text.3.touch=The Bow is the primary ranged weapon in Minecraft. Press and hold the Screen to draw the bow back. Release the press to fire an arrow. The bow requires arrows to fire.	#
 howtoplay.weapons.text.4=Bows do more damage the further they are pulled back, make sure to pull it all the way back.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Crossbow	#
 howtoplay.weapons.text.5.notTouch=The Crossbow is an alternative ranged weapon. Press and hold the :_input_key.use: to load the crossbow. Once the Crossbow is loaded, it will stay loaded until it is fired. Press :_input_key.use: to fire an arrow. The Crossbow requires arrows to load.	#
 howtoplay.weapons.text.5.touch=The Crossbow is an alternative ranged weapon. Press and hold the screen to load the crossbow. Once the Crossbow is loaded, it will stay loaded until it is fired, even if you put it in your inventory. Press the hold the screen to fire an arrow. The Crossbow requires arrows to load.	#
@@ -2930,6 +3014,13 @@ howtoplay.weapons.text.6.notTouch=The Trident is a dual-purpose melee and ranged
 howtoplay.weapons.text.6.touch=The Trident is a dual-purpose melee and ranged weapon. Tap mobs to attack them. Press and hold the Screen to draw the trident back. Release the press to throw the trident. The Trident is the best weapon underwater.	#
 howtoplay.weapons.header.5=Enchanted Weapons	#
 howtoplay.weapons.text.7=The Sword, Bow, Crossbow and Trident have specific enchantments that you can get from the Enchanting Table or Anvil that will improve damage, durability and even set mobs on fire!	#
+=======
+howtoplay.weapons.header.3=Enchanted Weapons	#
+howtoplay.weapons.text.5=The Sword, Bow and Trident have specific enchantments that you can get from the Enchanting Table or Anvil that will improve damage, durability and even light mobs on fire!	#
+howtoplay.weapons.header.trident=Trident	#
+howtoplay.weapons.text.trident.notTouch=The Trident is a dual-purpose melee and ranged weapon. Press :_input_key.attack: to attack. Press and hold :_input_key.use: to draw the trident back. Release :_input_key.use: to throw the trident. The Trident is the best weapon underwater.	#
+howtoplay.weapons.text.trident.touch=The Trident is a dual-purpose melee and ranged weapon. Tap mobs to attack them. Press and hold the Screen to draw the trident back. Release the press to throw the trident. The Trident is the best weapon underwater.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=What's New	#
 
@@ -3874,13 +3965,19 @@ item.spawn_egg.entity.sheep.name=Spawn Sheep	#
 item.spawn_egg.entity.npc.name=Spawn NPC	#
 item.spawn_egg.entity.wolf.name=Spawn Wolf	#
 item.spawn_egg.entity.villager.name=Spawn Villager	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Spawn Villager	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Spawn Vindicator	#
 item.spawn_egg.entity.mooshroom.name=Spawn Mooshroom	#
 item.spawn_egg.entity.squid.name=Spawn Squid	#
 item.spawn_egg.entity.rabbit.name=Spawn Rabbit	#
 item.spawn_egg.entity.bat.name=Spawn Bat	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Spawn Illager Beast	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Spawn Iron Golem	#
 item.spawn_egg.entity.snow_golem.name=Spawn Snow Golem	#
 item.spawn_egg.entity.ocelot.name=Spawn Ocelot	#
@@ -3906,7 +4003,10 @@ item.spawn_egg.entity.ghast.name=Spawn Ghast	#
 item.spawn_egg.entity.magma_cube.name=Spawn Magma Cube	#
 item.spawn_egg.entity.blaze.name=Spawn Blaze	#
 item.spawn_egg.entity.zombie_villager.name=Spawn Zombie Villager	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Spawn Zombie Villager	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Spawn Witch	#
 item.spawn_egg.entity.stray.name=Spawn Stray	#
 item.spawn_egg.entity.husk.name=Spawn Husk	#
@@ -3923,7 +4023,10 @@ item.spawn_egg.entity.phantom.name=Spawn Phantom	#
 item.spawn_egg.entity.panda.name=Spawn Panda	#
 item.spawn_egg.entity.pillager.name=Spawn Pillager	#
 item.spawn_egg.entity.unknown.name=Spawn	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Spawn Wandering Trader	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Trident	#
 item.mushroom_stew.name=Mushroom Stew	#
 item.muttonCooked.name=Cooked Mutton	#
@@ -4016,12 +4119,16 @@ item.wheat.name=Wheat	#
 item.writable_book.name=Book & Quill	#
 item.written_book.name=Written Book	#
 item.glowstone_dust.name=Glowstone Dust	#
+<<<<<<< HEAD
 item.shield.name=Shield	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Shulker Shell	#
 item.totem.name=Totem of Undying	#
 item.turtle_helmet.name=Turtle Shell	#
 item.turtle_shell_piece.name=Scute	#
 item.phantom_membrane.name=Phantom Membrane	#
+<<<<<<< HEAD
 item.sweet_berries.name=Sweet Berries	#
 item.banner_pattern.bricks=Field Masoned	#
 item.banner_pattern.creeper=Creeper Charge	#
@@ -4030,6 +4137,8 @@ item.banner_pattern.name=Banner Pattern	#
 item.banner_pattern.skull=Skull Charge	#
 item.banner_pattern.thing=Thing	#
 item.banner_pattern.vines=Bordure Indented	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Search Items	#
 itemGroup.name.planks=Planks	#
@@ -4064,7 +4173,11 @@ itemGroup.name.rawFood=Raw Food	#
 itemGroup.name.cookedFood=Cooked Food	#
 itemGroup.name.miscFood=Miscellaneous Foods	#
 itemGroup.name.mushroom=Mushrooms	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Infested Stone	#
+=======
+itemGroup.name.monsterStoneEgg=Monster Stone Eggs	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Mob Eggs	#
 itemGroup.name.helmet=Helmets	#
 itemGroup.name.chestplate=Chestplates	#
@@ -4100,8 +4213,11 @@ itemGroup.name.coral=Coral Blocks	#
 itemGroup.name.coral_decorations=Coral Decorations	#
 itemGroup.name.buttons=Buttons	#
 itemGroup.name.sign=Signs	#
+<<<<<<< HEAD
 itemGroup.name.wood=Woods	#
 itemGroup.name.banner_pattern=Banner Patterns	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Attack/Destroy	#
 key.back=Walk Backwards	#
@@ -4523,7 +4639,11 @@ options.chat.visibility.hidden=Hidden	#
 options.chat.visibility.system=Commands Only	#
 options.chat.width=Width	#
 options.codeBuilder=Code Builder	#
+<<<<<<< HEAD
 options.content_log_file=Enable Content Log File	#
+=======
+options.content_log=Enable Content Log	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Enable Content Log GUI	#
 options.controller=Controller	#
 options.controllerLayout=Controller Layout	#
@@ -4613,6 +4733,7 @@ options.dev_useZippedInPackagePacks=Use Zipped In-package Packs	#
 options.dev_importPacksAsZip=Import Packs as Zip	#
 options.dev_folders_portSettingsFolder=Export Settings Folder	#
 options.dev_useOverrideDate=Use Override Date	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Display Datetime	#
 options.dev_loadOverrideDate=Load Override Date at Launch	#
 options.dev.timeZoneType=Override Editor Timezone Type	#
@@ -4627,6 +4748,16 @@ options.dev_overrideDayLength=Override Day Length In Minutes (Min: 1)	#
 options.dev_overrideTimeScale=Scale Speed That Time Passes (Min: 1, Default: 1)	#
 options.dev_updateOverrideDate=Update Override Date	#
 options.dev_resetOverrideDate=Reset Override Date	#
+=======
+options.dev_displayOverrideDatetime=Display Override Datetime	#
+options.dev_saveCurrentOverrideDate=Save Current Date On Close	#
+options.dev_overrideDateYear=Year	#
+options.dev_overrideDateMonth=Month	#
+options.dev_overrideDateDay=Day	#
+options.dev_overrideDayLength=Override Day Length In Minutes (Min: 1)	#
+options.dev_overrideTimeScale=Scale Speed That Time Passes (Min: 1, Default: 1)	#
+options.dev_updateOverrideDate=Update Override Date	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Clear Store Cache	#
 options.dev_clearAllCache=Clear All Cache	#
 options.dev_connection_quality=Network conditioner (simulate bad connections)	#
@@ -4636,6 +4767,7 @@ options.dev_connection_4g=4G – 15 Mbps, 100 ms latency, 1% packet loss	#
 options.dev_connection_3g=3G – 1.5 Mbps, 200 ms latency, 2% packet loss	#
 options.dev_connection_slow=Slow – 400 Kbps, 300 ms latency, 3% packet loss	#
 options.dev_connection_veryslow=Very slow – 200 Kbps, 400 ms latency, 4% packet loss	#
+<<<<<<< HEAD
 options.dev_identity_environment=New Identity and Online Infrastructure Environment (requires restart)	#
 options.dev_identity_environment.dev=Development	#
 options.dev_identity_environment.test=Test	#
@@ -4645,6 +4777,8 @@ options.dev.windowsStore.auto=Automatic	#
 options.dev.windowsStore.v6=Legacy Windows Store – V6	#
 options.dev.windowsStore.v8=OneStore – V8	#
 options.dev.stores=Currently Active Stores:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Difficulty	#
 options.difficulty.easy=Easy	#
 options.difficulty.hard=Hard	#
@@ -4962,13 +5096,22 @@ pauseScreen.title=Game Paused	#
 pauseScreen.betaFeedback=Beta Feedback	#
 pauseScreen.xboxLiveDisconnect=Oops! You were disconnected from Xbox Live. To invite more players, reopen your world.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Feedback	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Have Feedback?	#
 feedbackScreen.suggestion=Make a suggestion!	#
 feedbackScreen.bug=Report a bug!	#
 feedbackScreen.help=Need help?	#
 feedbackScreen.body=Have an idea to improve Minecraft? Find a bug that you want fixed? Or encounter an issue you need help with? Let us know!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Visit this website on another device. %s	#
+=======
+feedbackScreen.suggestionLink=Visit this website on another device. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Visit this website on another device. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Visit this website on another device. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Back	#
 hudScreen.tooltip.basic.flyDown=Fly Down	#
@@ -5012,7 +5155,10 @@ hudScreen.tooltip.dismount=Dismount	#
 hudScreen.tooltip.collect=Collect	#
 hudScreen.tooltip.peel=Peel Bark	#
 hudScreen.tooltip.scaffoldingDescend=Hold to Descend	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Pick	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5200,11 @@ permissions.ability.doorsandswitches=Use doors and switches	#
 permissions.ability.opencontainers=Open containers	#
 permissions.ability.attackplayers=Attack players	#
 permissions.ability.attackmobs=Attack mobs	#
+<<<<<<< HEAD
 permissions.ability.op=Operator Commands	#
+=======
+permissions.ability.op=Operator	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Become invisible	#
 permissions.ability.teleport=Use Teleport	#
 permissions.NeedPermission=You Need Permission	#
@@ -5078,10 +5228,15 @@ permissions.level.operator=Operator	#
 permissions.level.visitor=Visitor	#
 permissions.nocheats=Cheats Are Off	#
 permissions.nocheats.message=Certain commands like teleport are only available with cheats ON. Cheats can also be turned on through the pause menu under Game Settings. If you choose to turn cheats on, achievements will be disabled in this world.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Certain commands like teleport are only available with cheats ON. Cheats can also be turned on through the pause menu under Game Settings.	#
 permissions.nocheats.turnon=Set OP with cheats ON	#
 permissions.nocheats.turnoff=Set OP with cheats OFF	#
 permissions.nocheats.cancel=Cancel	#
+=======
+permissions.nocheats.turnon=Turn cheats on	#
+permissions.nocheats.turnoff=Keep cheats off	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Remove Operator Permissions?	#
 permissions.deopingself.message=You will no longer have Operator level permissions by lowering your permission level.	#
 permissions.title=Player Permissions	#
@@ -5765,13 +5920,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Get Minecoins	#
 store.popup.purchasePriceMismatch.msg=Sorry, we were unable to complete your purchase.  Please try again later.	#
 store.popup.trialUpgradeFail.title=Game Unlock Error	#
 store.popup.trialUpgradeFail.msg=It looks like you are signed in to a different Microsoft Account from the one that first downloaded the Minecraft Trial. Try again after signing in with that account.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Purchase World Template?	#
 store.popup.downloaded.unOwnedTemplate.msg=You do not own this template, and must purchase it to unlock it. Would you like to purchase the template?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=You just bought: %s	#
 store.purchase.bundle=Unlock %d of %d Packs?	#
 store.purchase.bundle.confirm=Unlock now!	#
 store.purchase.bundle.partiallyOwnedWarning=Just so you know, you already own the following packs: %s. Would you like to unlock the rest of the packs in this bundle?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Owned	#
+=======
+store.purchase.bundle.owned=You own	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=You'll get	#
 store.createdBy=By %s	#
 store.seeMoreBy=See more by %s	#
@@ -6144,7 +6306,10 @@ tile.chalkboard.twoByOne.name=Poster	#
 tile.chalkboard.threeByTwo.name=Board	#
 tile.chest.name=Chest	#
 tile.ender_chest.name=Ender Chest	#
+<<<<<<< HEAD
 tile.jigsaw.name=Jigsaw Block	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Trapped Chest	#
 tile.shulkerBoxWhite.name=White Shulker Box	#
 tile.shulkerBoxOrange.name=Orange Shulker Box	#
@@ -6237,6 +6402,11 @@ tile.wool.white.name=White Wool	#
 tile.wool.yellow.name=Yellow Wool	#
 tile.cobblestone_wall.mossy.name=Mossy Cobblestone Wall	#
 tile.cobblestone_wall.normal.name=Cobblestone Wall 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Cobblestone Wall	#
+tile.cobblestone_wall.mossy_cobblestone.name=Mossy Cobblestone Wall	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Granite Wall	#
 tile.cobblestone_wall.diorite.name=Diorite Wall	#
 tile.cobblestone_wall.andesite.name=Andesite Wall	#
@@ -6251,7 +6421,10 @@ tile.cobblestone_wall.red_sandstone.name=Red Sandstone Wall	#
 tile.cobblestone_wall.red_nether_brick.name=Red Nether Brick Wall	#
 tile.cocoa.name=Cocoa	#
 tile.command_block.name=Command Block	#
+<<<<<<< HEAD
 tile.composter.name=Composter	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Repeating Command Block	#
 tile.chain_command_block.name=Chain Command Block	#
 tile.wheat.name=Crops	#
@@ -6334,6 +6507,7 @@ tile.lever.name=Lever	#
 tile.glowstone.name=Glowstone	#
 tile.lit_pumpkin.name=Jack o'Lantern	#
 tile.lockedchest.name=Locked chest	#
+<<<<<<< HEAD
 tile.log.acacia.name=Acacia Log	#
 tile.log.big_oak.name=Dark Oak Log	#
 tile.log.birch.name=Birch Log	#
@@ -6351,6 +6525,25 @@ tile.monster_egg.crackedbrick.name=Infested Cracked Stone Brick	#
 tile.monster_egg.mossybrick.name=Infested Mossy Stone Brick	#
 tile.monster_egg.name=Infested Stone	#
 tile.monster_egg.stone.name=Infested Stone	#
+=======
+tile.log.acacia.name=Acacia Wood	#
+tile.log.big_oak.name=Dark Oak Wood	#
+tile.log.birch.name=Birch Wood	#
+tile.log.jungle.name=Jungle Wood	#
+tile.log.name=Wood	#
+tile.log.oak.name=Oak Wood	#
+tile.log.spruce.name=Spruce Wood	#
+tile.magma.name=Magma Block	#
+tile.melon_block.name=Melon	#
+tile.mob_spawner.name=Monster Spawner	#
+tile.monster_egg.brick.name=Stone Brick Monster Egg	#
+tile.monster_egg.chiseledbrick.name=Chiseled Stone Brick Monster Egg	#
+tile.monster_egg.cobble.name=Cobblestone Monster Egg	#
+tile.monster_egg.crackedbrick.name=Cracked Stone Brick Monster Egg	#
+tile.monster_egg.mossybrick.name=Mossy Stone Brick Monster Egg	#
+tile.monster_egg.name=Stone Monster Egg	#
+tile.monster_egg.stone.name=Stone Monster Egg	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Mushroom	#
 tile.noteblock.name=Note Block	#
 tile.mycelium.name=Mycelium	#
@@ -6501,7 +6694,10 @@ tile.stonebrick.mossy.name=Mossy Stone Bricks	#
 tile.stonebrick.name=Stone Bricks	#
 tile.stonebrick.smooth.name=Smooth Stone Bricks	#
 tile.stonecutter.name=Stonecutter	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Stonecutter	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Mossy Cobblestone	#
 tile.double_stone_slab.brick.name=Bricks Slab	#
 tile.double_stone_slab.cobble.name=Cobblestone Slab	#
@@ -6516,10 +6712,18 @@ tile.stone_slab.name=Stone Slab	#
 tile.stone_slab.brick.name=Bricks Slab	#
 tile.stone_slab.cobble.name=Cobblestone Slab	#
 tile.stone_slab.stone.name=Smooth Stone Slab	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Smooth Stone Slab	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Nether Brick Slab	#
 tile.stone_slab.quartz.name=Quartz Slab	#
 tile.stone_slab.sand.name=Sandstone Slab	#
 tile.stone_slab.smoothStoneBrick.name=Stone Bricks Slab	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Stone Slab	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Wooden Slab	#
 tile.double_stone_slab2.red_sandstone.name=Red Sandstone Slab	#
 tile.stone_slab2.red_sandstone.name=Red Sandstone Slab	#
@@ -6695,17 +6899,27 @@ tile.concretePowder.magenta.name=Magenta Concrete Powder	#
 tile.concretePowder.orange.name=Orange Concrete Powder	#
 tile.concretePowder.white.name=White Concrete Powder	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Stripped Spruce Log	#
 tile.stripped_dark_oak_log.name=Stripped Dark Oak Log	#
 tile.stripped_birch_log.name=Stripped Birch Log	#
 tile.stripped_jungle_log.name=Stripped Jungle Log	#
 tile.stripped_oak_log.name=Stripped Oak Log	#
 tile.stripped_acacia_log.name=Stripped Acacia Log	#
+=======
+tile.stripped_spruce_log.name=Stripped Spruce Wood	#
+tile.stripped_dark_oak_log.name=Stripped Dark Oak Wood	#
+tile.stripped_birch_log.name=Stripped Birch Wood	#
+tile.stripped_jungle_log.name=Stripped Jungle Wood	#
+tile.stripped_oak_log.name=Stripped Oak Wood	#
+tile.stripped_acacia_log.name=Stripped Acacia Wood	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bamboo	#
 tile.scaffolding.name=Scaffolding	#
 tile.grindstone.name=Grindstone	#
 tile.cartography_table.name=Cartography Table	#
+<<<<<<< HEAD
 tile.lantern.name=Sea Lantern	#
 tile.smoker.name=Smoker	#
 tile.smithing_table.name=Smithing Table	#
@@ -6727,6 +6941,12 @@ tile.wood.stripped.birch.name=Stripped Birch Wood	#
 tile.wood.stripped.jungle.name=Stripped Jungle Wood	#
 tile.wood.stripped.acacia.name=Stripped Acacia Wood	#
 tile.wood.stripped.dark_oak.name=Stripped Dark Oak Wood	#
+=======
+tile.lantern.name=Lantern	#
+tile.smoker.name=Smoker	#
+tile.smithing_table.name=Smithing Table	#
+tile.barrel.name=Barrel	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Tipped Arrow	#
 tipped_arrow.effect.water=Tipped Arrow	#
@@ -6811,10 +7031,13 @@ translation.test.invalid2=hi %  s	#
 translation.test.none=Hello, world!	#
 translation.test.world=world	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=World Conversion Failed	#
 worldConversionErrorPrompt.message=Oops, something went wrong during world conversion. Try again later.	#
 worldConversionErrorPrompt.message.upload=Something went wrong. We weren't able to convert your world. You can send us your world later by going to your old world and pressing Y. Or send us your world now so we can investigate further.	#
@@ -6905,6 +7128,7 @@ trial.tabbed_upsell.addon.description=Want to make wolves act like bunnies? Turn
 trial.tabbed_upsell.seeds.title=SEEDS	#
 trial.tabbed_upsell.seeds.description=Unlock the full Minecraft experience and get access to Seeds! Seeds help you discover new biomes – survive on ice plains, ascend extreme hills or trek across deserts. Start with unique templates or explore random new worlds! Access Seeds, Creative Mode, Multiplayer and more by buying Minecraft today!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Minecraft Starter Collection	#
 trial.master.collection.title=Minecraft Master Collection	#
@@ -6938,6 +7162,8 @@ trial.collection.12.title=Villains Skin Pack	#
 trial.collection.12.description=Dress as a Cake Maniac, Frankencrafter or Worse!	#
 trial.includes=Includes	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Zip File	#
 verification.nolicense.title=Licence Error	#
 verification.nolicense.description=We're having trouble verifying that you own Minecraft on this device. Make sure that you have downloaded and installed Minecraft from the Microsoft Store. Or simply reconnect to the Internet and try again.	#
@@ -7188,6 +7414,7 @@ tips.edu.5=To have your peers connect to your world, pause your game and share y
 tips.edu.6=Remember that to use slash commands, you need to enable cheats in your world.	#
 tips.edu.7=Done with your creation? Have others tour your world in Adventure Mode to protect your work.	#
 tips.edu.8=To use code builder, press C on your keyboard or touch the Agent icon at the top of your screen!	#
+<<<<<<< HEAD
 tips.edu.9=Use the Library to find new game worlds to build in.	#
 tips.edu.10=Looking for a specific biome? Try the Library.	#
 tips.edu.11=NPC stands for Non-Player Character.	#
@@ -7201,6 +7428,8 @@ tips.edu.18=You can toggle Auto Jump on or off in the Settings menu under Contro
 tips.edu.19=While in Creative Mode, quickly press jump twice to fly.	#
 tips.edu.20=Choose a Default Game Mode when creating world to specify the type of gameplay you want.	#
 tips.edu.21=Use the command ''/setworldspawn'' to have new players begin playing where you are standing.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Use seagrass to attract and breed turtles.	#
 tips.game.2=Protect baby turtles from hostile mobs!	#
@@ -7263,8 +7492,11 @@ tips.game.56=When digging straight up, place a torch at your feet to break any s
 splitscreen.joinPrompt=Join as Player %s	#
 splitscreen.unavailable.toastHeader=Split Screen Is Unavailable	#
 splitscreen.unavailable.toastMessage=A second player can't join right now.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Can't Connect Joy-Con!	#
 splitscreen.joyconError.toastMessage=You have too many controllers connected while in Local Network Mode to join this game.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Change User	#
 

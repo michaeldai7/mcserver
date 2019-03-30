@@ -175,10 +175,16 @@
                   { "test" :  "is_family", "subject" : "other", "value" :  "player"},
                   { "test" :  "is_family", "subject" : "other", "value" :  "snowgolem"},
                   { "test" :  "is_family", "subject" : "other", "value" :  "irongolem"},
+<<<<<<< HEAD
                   { "test" :  "is_family", "subject" : "other", "value" :  "villager"},
                   { "test" :  "is_family", "subject" : "other", "value" :  "wandering_trader"}
                 ] 
             },
+=======
+                  { "test" :  "is_family", "subject" : "other", "value" :  "villager"}
+                ] 
+			},
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
             "max_dist": 16
           }
         ],

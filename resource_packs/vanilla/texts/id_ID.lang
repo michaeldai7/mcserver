@@ -130,7 +130,10 @@ action.interact.trade=Tukar	#
 action.interact.armorstand.pose=Pose	#
 action.interact.armorstand.equip=Lengkapi	#
 action.interact.read=Baca	#
+<<<<<<< HEAD
 action.interact.wakevillager=Bangunkan Orang Desa	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = semua entitas	#
 advMode.allPlayers=@a = semua pemain	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=sebut semua pemain	#
 chat.mute=Bisukan	#
 chat.realmsFilterDisabled=Filter obrolan Realm ini dinonaktifkan.	#
 chat.settings=Pengaturan Obrolan	#
+<<<<<<< HEAD
 chat.settings.chatColor=Warna Obrolan	#
 chat.settings.color=Warna	#
 chat.settings.font=Font	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Spasi Baris: x%s	#
 chat.settings.mentions=Sebutan Saya	#
 chat.settings.muteAll=Matikan Suara	#
 chat.settings.typeface=Rupa Huruf	#
+=======
+chat.settings.defaultChatColor=Warna Obrolan Default	#
+chat.settings.color=Warna	#
+chat.settings.font=Font	#
+chat.settings.fontColor=Warna Font	#
+chat.settings.lineSpacing=Spasi Baris: x%s	#
+chat.settings.mentions=Sebutan Saya	#
+chat.settings.muteAll=Matikan Suara	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Aktifkan Suara	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Server	#
 commands.origin.teacher=Guru	#
 commands.ops.description=Memuat ulang dan memberlakukan izin Op.	#
 commands.ops.reloaded=Op dimuat ulang dari file.	#
+<<<<<<< HEAD
 commands.ops.set.success=Berhasil mengatur level operator untuk pemain %s.	#
 commands.permissions.description=Memuat ulang dan menerapkan izin.	#
 command.permissions.list.fail.filenotfound=Gagal mencantumkan izin dari file, file tidak ditemukan.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Tidak dapat mengatur level izin %s untuk pemain 
 commands.permissions.set.success=Berhasil mengatur level izin %s untuk pemain %s.	#
 commands.permissions.save.failed=Tidak dapat menyimpan level izin %s untuk pemain %s.	#
 commands.permissions.save.success=Berhasil menyimpan level izin %s untuk pemain %s.	#
+=======
+commands.permissions.description=Memuat ulang dan menerapkan izin.	#
+commands.permissions.reloaded=Izin dimuat ulang dari file.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Membuat pemancar partikel	#
 commands.particle.description=Membuat partikel.	#
 commands.particle.notFound=Nama efek tidak diketahui (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Tidak bisa membatalkan larangan pemain %1$s	#
 commands.unban.success=Membatalkan larangan pemain %1$s	#
 commands.unbanip.invalid=Kamu memasukkan alamat IP yang tidak valid	#
 commands.unbanip.success=Alamat IP %1$s yang dibatalkan larangannya	#
+<<<<<<< HEAD
 commands.videostream.description=Mencoba terhubung ke server websocket untuk mengirim streaming video.	#
 commands.videostreamaction.description=Lakukan tindakan terkait streaming video.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Mengubah ke cuaca cerah	#
 commands.weather.description=Menetapkan cuaca.	#
 commands.weather.disabled=Siklus Cuaca tidak diaktifkan di level ini.	#
@@ -981,13 +1002,19 @@ container.furnace=Tungku	#
 container.hopper=Penampung Item	#
 container.inventory=Persediaan	#
 container.isLocked=%s terkunci!	#
+<<<<<<< HEAD
 container.loom=Alat Tenun	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Kereta Tambang	#
 container.repair=Perbaiki & Namai	#
 container.repair.cost=Biaya XP: %1$d	#
 container.repair.expensive=Terlalu Mahal!	#
 container.stonecutter=Pemahat Batu	#
+<<<<<<< HEAD
 container.stonecutter_block=Pemahat Batu	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Kotak Shulker	#
 container.shulkerboxContains=dan %d lainnya...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Kamu belum memiliki semua bahan	#
 crafting.insufficientLevel=Levelmu terlalu rendah	#
 crafting.noRecipesInventory=Kamu perlu mengumpulkan blok untuk membuat!	#
 crafting.noRecipesStonecutter=Kamu perlu material batu untuk membuat!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Kamu perlu material batu untuk membuat!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=Kamu perlu mengumpulkan blok untuk membuat!	#
 
 createWorld.customize.custom.baseSize=Ukuran Dasar Kedalaman	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Periksa Pembaruan Permainan
 disconnectionScreen.realmsWorldUnassigned=Tetapkan versi dalam opsi pengembang.	#
 disconnectionScreen.realmsWorldUnassigned.title=Realm Belum Ditetapkan!	#
 disconnectionScreen.scriptNotSupported=Dunia yang coba kamu masuki mengharuskan perangkatmu menjalankan skrip. Perangkatmu tidak mendukung operasi skrip untuk saat ini, jadi kamu tidak bisa bergabung dari perangkat ini.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Operasi Skrip Tidak Didukung	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Wow server ini populer! Periksa kembali nanti untuk melihat apakah ada ruang yang terbuka.	#
 disconnectionScreen.serverFull.title=Server Penuh	#
 disconnectionScreen.serverIdConflict=Tidak dapat bergabung dengan dunia. Akun tempat kamu masuk saat ini digunakan untuk bermain di dunia ini pada perangkat yang berbeda.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Ghast	#
 entity.guardian.name=Guardian	#
 entity.horse.name=Kuda	#
 entity.husk.name=Husk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Binatang Illager	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Golem Besi	#
 entity.item.name=Item	#
 entity.leash_knot.name=Simpul Tali	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Orang Desa	#
 entity.villager.shepherd=Penggembala	#
 entity.villager.tool=Pembuat Alat	#
 entity.villager.weapon=Pembuat Senjata	#
+<<<<<<< HEAD
 entity.villager.mason=Tukang Batu	#
 entity.villager.unskilled=Orang Desa Tak Terdidik	#
 entity.villager_v2.name=Orang Desa	#
 entity.vindicator.name=Vindicator	#
 entity.wandering_trader.name=Pedagang Keliling	#
+=======
+entity.vindicator.name=Vindicator	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Penyihir	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Wither Tengkorak	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Kuda Zombie	#
 entity.zombie_pigman.name=Zombie Pigman	#
 entity.zombie_villager.name=Zombie Orang Desa	#
 
+<<<<<<< HEAD
 exports.share.file=Bagikan %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Tambahkan Server	#
 addExternalServerScreen.nameTextBoxLabel=Nama Server	#
 addExternalServerScreen.namePlaceholder=Masukkan nama server	#
@@ -1974,7 +2018,10 @@ feature.village=Desa	#
 feature.shipwreck=Bangkai Kapal	#
 feature.buriedtreasure=Harta Karun Terpendam	#
 feature.ruins=Reruntuhan Laut	#
+<<<<<<< HEAD
 feature.pillageroutpost=Pos Depan Penjarah	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Suka	#
 feed.manage_feed=Kelola umpan	#
@@ -2052,6 +2099,7 @@ gameTip.findTree=Temukan pohon untuk mengumpulkan kayu	#
 gameTip.breakWood.mouse=Klik kiri dan tahan untuk mengumpulkan 3 potong kayu	#
 gameTip.breakWood.touch=Ketuk dan tahan untuk mengumpulkan 3 potong kayu	#
 gameTip.breakWood.controller=Tahan pemicu kanan untuk mengumpulkan 3 potong kayu	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Berjalanlah melewati item untuk mengambilnya	#
 gameTip.openInventory.keyboard=Tekan E untuk membuka persediaan	#
 gameTip.openInventory.touch=Ketuk tombol ... untuk membuka persediaan	#
@@ -2067,6 +2115,8 @@ gameTip.open.recipe=Buka buku resep untuk mengetahui cara membuat lebih banyak h
 gameTip.closeInventory.keyboard=Tekan E atau klik kiri tanda X untuk menutup persediaan	#
 gameTip.closeInventory.touch=Ketuk X untuk menutup persediaan	#
 gameTip.closeInventory.controller=Tekan B untuk menutup persediaan	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=DIPERKUAT	#
 generator.amplified.info=Perhatian: Hanya untuk hiburan, memerlukan komputer yang cepat	#
@@ -2090,7 +2140,10 @@ gui.cancel=Batal	#
 gui.clear=Kosongkan	#
 gui.close=Tutup	#
 gui.confirm=Konfirmasi	#
+<<<<<<< HEAD
 gui.custom=Kustom	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Default	#
 gui.decline=Tolak	#
 gui.deleteWorldLong=Hapus Dunia	#
@@ -2184,6 +2237,7 @@ howtoplay.armor.header.1=Pembuatan	#
 howtoplay.armor.text.2=Baju Zirah bisa dibuat dari Kulit, Besi, Emas, atau Berlian. Baju Zirah Rantai bisa didapatkan melalui berdagang dengan orang desa dan rampasan dari zombie dan tengkorak.	#
 howtoplay.armor.text.3=Pakai Baju Zirah dengan membuka persediaan dan memindahkan potongan Baju Zirah ke slot yang sesuai di sebelah skin pemain.	#
 howtoplay.armor.text.4=Baju Zirah Besi, Rantai, dan Emas bisa dilebur menjadi Besi atau Naget Emas di Tungku.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Perisai	#
 howtoplay.armor.text.5.keyboard=Perisai akan menahan kerusakan yang diterima. Perisai bisa dipakai di slot offhand serta di hotbar. Tekan dan tahan :_input_key.sneak: untuk menahan dengan Perisai.	#
 howtoplay.armor.text.5.gamepad=Perisai akan menahan kerusakan yang diterima. Perisai bisa dipakai di slot offhand serta di hotbar. Tekan tombol :_input_key.sneak: atau klik :_gamepad_stick_right: untuk mengaktifkan atau menonaktifkan pertahanan dengan Perisai.	#
@@ -2193,6 +2247,10 @@ howtoplay.armor.text.5.windowsmr_controller=Perisai akan menahan kerusakan yang 
 howtoplay.armor.text.6=Perisai bahkan bisa menahan ledakan Creeper!	#
 howtoplay.armor.header.3=Menyamar	#
 howtoplay.armor.text.7=Kamu juga bisa mengenakan Labu di kepala. Ini tidak akan memberikan :armor: tapi Endermen tidak akan marah bila kamu melihatnya.	#
+=======
+howtoplay.armor.header.2=Menyamar	#
+howtoplay.armor.text.5=Kamu juga bisa mengenakan Labu di kepala. Ini tidak akan memberikan :armor: tapi Endermen tidak akan marah bila kamu melihatnya.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Dudukan Baju Zirah	#
 howtoplay.armorStand.title=Cara Main: Dudukan Baju Zirah	#
@@ -2211,7 +2269,11 @@ howtoplay.armorStand.text.5=Dudukan Baju Zirah akan bereaksi terhadap sinyal Bat
 howtoplay.banners=Banner	#
 howtoplay.banners.title=Cara Main: Banner	#
 howtoplay.banners.text.1=Banner adalah hiasan keren untuk rumah atau istanamu dengan pola dan warna kustom.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Setelah membuat Banner, kamu bisa meletakkannya di Meja Pembuatan atau Alat Tenun dan menambahkan berbagai pewarna untuk membuat desain sendiri yang unik dan keren!	#
+=======
+howtoplay.banners.text.2=Setelah membuat Banner, kamu bisa meletakkannya di meja pembuatan dan menambahkan berbagai pewarna untuk membuat desain sendiri yang unik dan keren!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Menerapkan Pola	#
 howtoplay.banners.text.3=Tersedia beragam pola yang bisa dibuat dengan pewarna, seperti:	#
 howtoplay.banners.text.4=  - Membuat segitiga akan menghasilkan pola chevron.	#
@@ -2511,6 +2573,7 @@ howtoplay.droppers.text.2=Jika Penyimpan berhadapan dengan Peti atau wadah tipe 
 howtoplay.dyes=Pewarna	#
 howtoplay.dyes.title=Cara Main: Pewarna	#
 howtoplay.dyes.text.1=Pewarna digunakan untuk mengubah warna banyak hal di Minecraft.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Beberapa bahan pewarna lebih sulit ditemukan daripada yang lainnya. Sebagian besar Pewarna bisa dibuat dari bunga seperti Pewarna Merah dari Poppy, sedangkan sebagian Pewarna ditemukan atau dibuat dengan cara yang lebih rumit, seperti: 	#
 howtoplay.dyes.text.3=-Menambah Lapis Lazuli jauh di bawah tanah	#
 howtoplay.dyes.text.4=-Mengumpulkan Kantong Tinta di bawah air	#
@@ -2518,6 +2581,14 @@ howtoplay.dyes.text.5=-Memanen Biji Cokelat di dalam Rimba	#
 howtoplay.dyes.text.6=-Pewarna Hijau harus dilebur dari Kaktus	#
 howtoplay.dyes.text.7=-Pakan Tulang bisa membantu menumbuhkan tanaman dan pohon atau dijadikan Pewarna Putih	#
 howtoplay.dyes.text.8=-Kumpulkan Kantong Tinta dari Cumi-Cumi untuk mendapatkan Pewarna Hitam	#
+=======
+howtoplay.dyes.text.2=Kamu harus menjelajah sebelum kamu menemukan beberapa material alami untuk membuat pewarna tertentu. Sementara sebagian besar Pewarna bisa dibuat dari bunga seperti Merah Mawar dari Poppy, beberapa Pewarna ditemukan atau dibuat dengan cara yang lebih tersembunyi seperti: 	#
+howtoplay.dyes.text.3=-Menambah Lapis Lazuli jauh di bawah tanah	#
+howtoplay.dyes.text.4=-Mengumpulkan Kantong Tinta di bawah air	#
+howtoplay.dyes.text.5=-Memanen Biji Cokelat di dalam Rimba	#
+howtoplay.dyes.text.6=-Hijau Kaktus harus dilebur dari Kaktus	#
+howtoplay.dyes.text.7=-Pakan Tulang dapat membantu pertumbuhan tanaman dan pohon atau digunakan sebagai pewarna putih	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Sayap Elytra	#
 howtoplay.elytra.title=Cara Main: Sayap Elytra	#
@@ -2706,6 +2777,7 @@ howtoplay.jukebox.header.3=Mencari Disk Musik	#
 howtoplay.jukebox.text.7=Ada beberapa Disk Musik yang bisa ditemukan dalam Peti di seluruh dunia.	#
 howtoplay.jukebox.text.8=Lainnya cukup sulit ditemukan, Creeper diam-diam menyukai musik.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Alat Tenun	#
 howtoplay.loom.title=Cara Main : Alat Tenun	#
 howtoplay.loom.text.1=Alat Tenun merupakan cara yang cepat dan efisien untuk menambahkan pola ke Banner. Alat Tenun hanya menggunakan satu Pewarna untuk menambahkan satu pola. Pola Alat Tenun juga bisa digunakan untuk menambahkan pola spesial.	#
@@ -2715,6 +2787,8 @@ howtoplay.loom.text.3=Banner bisa memiliki beberapa lapisan sehingga kamu bisa b
 howtoplay.loom.header.2=Pola Alat Tenun 	#
 howtoplay.loom.text.4=Menambahkan Pola Alat Tenun ke slot ketiga di Alat Tenun akan memungkinkan pembuatan pola spesial seperti wajah creeper atau pola bunga. Pola Alat Tenun milikmu tidak akan hilang saat kamu menambahkan pola ini ke Banner.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Tunggangan	#
 howtoplay.mounts.title=Cara Main: Tunggangan	#
 howtoplay.mounts.text.1=Pemain bisa menunggangi Kuda, Keledai, atau Bagal dewasa. Hanya Kuda yang bisa diberi baju zirah.	#
@@ -2912,6 +2986,10 @@ howtoplay.transportation.text.5.keyboard=Tekan :_input_key.use: sambil melihat p
 howtoplay.transportation.text.5.gamepad=Tekan :_input_key.use: sambil melihat Perahu untuk naik. Tekan :_gamepad_stick_left: ke kiri atau ke kanan untuk belok. Tekan :_gamepad_stick_left: ke depan untuk bergerak maju. Tekan :_input_key.jump: atau :_input_key.sneak: untuk turun.	#
 howtoplay.transportation.text.5.touch=Ketuk tombol naik sewaktu di dekat Perahu untuk naik. Tekan :_input_key.left: atau :_input_key.right: untuk belok kiri atau kanan. Tekan keduanya untuk maju ke depan. Ketuk tombol tinggalkan perahu untuk turun.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Senjata	#
 howtoplay.weapons.title=Cara Main: Senjata	#
 howtoplay.weapons.header.1=Pedang	#
@@ -2922,6 +3000,7 @@ howtoplay.weapons.header.2=Busur	#
 howtoplay.weapons.text.3.notTouch=Busur adalah senjata jarak jauh utama di Minecraft. Tekan terus :_input_key.use: untuk menarik busur. Lepaskan :_input_key.use: untuk menembakkan panah. Busur memerlukan panah untuk ditembakkan.	#
 howtoplay.weapons.text.3.touch=Busur adalah senjata jarak jauh utama di Minecraft. Tekan terus Layar untuk menarik busur. Lepaskan untuk menembakkan panah. Busur memerlukan panah untuk ditembakkan.	#
 howtoplay.weapons.text.4=Busur semakin menimbulkan kerusakan bila semakin jauh ditarik ke belakang, pastikan untuk menarik sepenuhnya ke belakang.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Busur Silang	#
 howtoplay.weapons.text.5.notTouch=Busur Silang adalah senjata jarak ganda. Tekan dan tahan :_input_key.use: untuk mengisi busur silang. Busur Silang yang sudah diisi akan tetap terisi sampai ditembakkan. Tekan :_input_key.use: untuk menembakkan panah. Busur Silang memerlukan panah agar bisa diisi.	#
 howtoplay.weapons.text.5.touch=Busur Silang adalah senjata jarak ganda. Tekan dan tahan layar untuk mengisi busur silang. Busur Silang yang sudah diisi akan tetap terisi sampai ditembakkan, meskipun kamu memasukkannya ke persediaan. Tekan dan tahan layar untuk menembakkan panah. Busur Silang memerlukan panah agar bisa diisi.	#
@@ -2930,6 +3009,13 @@ howtoplay.weapons.text.6.notTouch=Trisula adalah senjata jarak dekat dan jarak j
 howtoplay.weapons.text.6.touch=Trisula adalah senjata jarak dekat dan jarak jauh dua fungsi. Ketuk mob untuk menyerang mereka. Tekan terus Layar untuk menarik trisula. Lepaskan untuk melemparkan trisula. Trisula adalah senjata terbaik di bawah air.	#
 howtoplay.weapons.header.5=Senjata Sihir	#
 howtoplay.weapons.text.7=Pedang, Busur, Busur Silang, dan Trisula memiliki sihir khusus yang bisa kamu dapatkan dari Meja Sihir atau Paron yang akan meningkatkan kerusakan, daya tahan, dan bahkan membakar mob!	#
+=======
+howtoplay.weapons.header.3=Senjata Sihir	#
+howtoplay.weapons.text.5=Pedang, Busur, dan Trisula memiliki sihir khusus yang bisa kamu dapatkan dari Meja Sihir atau Paron yang akan meningkatkan kerusakan, daya tahan, dan bahkan membakar mob!	#
+howtoplay.weapons.header.trident=Trisula	#
+howtoplay.weapons.text.trident.notTouch=Trisula adalah senjata jarak dekat dan jarak jauh dua fungsi. Tekan :_input_key.attack: untuk menyerang. Tekan terus :_input_key.use: untuk menarik trisula. Lepaskan :_input_key.use: untuk melemparkan trisula. Trisula adalah senjata terbaik di bawah air.	#
+howtoplay.weapons.text.trident.touch=Trisula adalah senjata jarak dekat dan jarak jauh dua fungsi. Ketuk mob untuk menyerang mereka. Tekan terus Layar untuk menarik trisula. Lepaskan untuk melemparkan trisula. Trisula adalah senjata terbaik di bawah air.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Yang Baru	#
 
@@ -3874,13 +3960,19 @@ item.spawn_egg.entity.sheep.name=Munculkan Domba	#
 item.spawn_egg.entity.npc.name=Munculkan NPC	#
 item.spawn_egg.entity.wolf.name=Munculkan Serigala	#
 item.spawn_egg.entity.villager.name=Munculkan Orang Desa	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Munculkan Orang Desa	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Munculkan Vindicator	#
 item.spawn_egg.entity.mooshroom.name=Munculkan Mooshroom	#
 item.spawn_egg.entity.squid.name=Munculkan Cumi-Cumi	#
 item.spawn_egg.entity.rabbit.name=Munculkan Kelinci	#
 item.spawn_egg.entity.bat.name=Munculkan Kelelawar	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Munculkan Binatang Illager	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Munculkan Golem Besi	#
 item.spawn_egg.entity.snow_golem.name=Munculkan Golem Salju	#
 item.spawn_egg.entity.ocelot.name=Munculkan Ocelot	#
@@ -3906,7 +3998,10 @@ item.spawn_egg.entity.ghast.name=Munculkan Ghast	#
 item.spawn_egg.entity.magma_cube.name=Munculkan Kubus Magma	#
 item.spawn_egg.entity.blaze.name=Munculkan Kobaran Api	#
 item.spawn_egg.entity.zombie_villager.name=Munculkan Zombie Orang Desa	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Munculkan Zombie Orang Desa	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Munculkan Penyihir	#
 item.spawn_egg.entity.stray.name=Munculkan Stray	#
 item.spawn_egg.entity.husk.name=Munculkan Husk	#
@@ -3923,7 +4018,10 @@ item.spawn_egg.entity.phantom.name=Munculkan Hantu	#
 item.spawn_egg.entity.panda.name=Munculkan Panda	#
 item.spawn_egg.entity.pillager.name=Munculkan Penjarah	#
 item.spawn_egg.entity.unknown.name=Munculkan	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Munculkan Pedagang Keliling	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Trisula	#
 item.mushroom_stew.name=Semur Jamur	#
 item.muttonCooked.name=Daging Domba Matang	#
@@ -4016,12 +4114,16 @@ item.wheat.name=Gandum	#
 item.writable_book.name=Buku & Pena Bulu	#
 item.written_book.name=Buku Tulis	#
 item.glowstone_dust.name=Debu Batu Bersinar	#
+<<<<<<< HEAD
 item.shield.name=Perisai	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Cangkang Shulker	#
 item.totem.name=Totem Tak Mati	#
 item.turtle_helmet.name=Tempurung Kura-kura	#
 item.turtle_shell_piece.name=Skat	#
 item.phantom_membrane.name=Membran Hantu	#
+<<<<<<< HEAD
 item.sweet_berries.name=Buah Beri Manis	#
 item.banner_pattern.bricks=Field Masoned	#
 item.banner_pattern.creeper=Charge Creeper	#
@@ -4030,6 +4132,8 @@ item.banner_pattern.name=Pola Banner	#
 item.banner_pattern.skull=Charge Kepala Tengkorak	#
 item.banner_pattern.thing=Thing	#
 item.banner_pattern.vines=Bordure Berlekuk	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Cari Item	#
 itemGroup.name.planks=Papan	#
@@ -4064,7 +4168,11 @@ itemGroup.name.rawFood=Makanan Mentah	#
 itemGroup.name.cookedFood=Makanan Matang	#
 itemGroup.name.miscFood=Makanan Lain-Lain	#
 itemGroup.name.mushroom=Jamur	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Batu Berisi	#
+=======
+itemGroup.name.monsterStoneEgg=Telur Batu Monster	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Telur Mob	#
 itemGroup.name.helmet=Helm	#
 itemGroup.name.chestplate=Pelat Dada	#
@@ -4100,8 +4208,11 @@ itemGroup.name.coral=Blok Koral	#
 itemGroup.name.coral_decorations=Dekorasi Koral	#
 itemGroup.name.buttons=Tombol	#
 itemGroup.name.sign=Tanda	#
+<<<<<<< HEAD
 itemGroup.name.wood=Kayu	#
 itemGroup.name.banner_pattern=Pola Banner	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Serang/Hancurkan	#
 key.back=Jalan Mundur	#
@@ -4523,7 +4634,11 @@ options.chat.visibility.hidden=Tersembunyi	#
 options.chat.visibility.system=Hanya Perintah	#
 options.chat.width=Lebar	#
 options.codeBuilder=Pembuat Kode	#
+<<<<<<< HEAD
 options.content_log_file=Aktifkan File Log Konten	#
+=======
+options.content_log=Aktifkan Log Konten	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Aktifkan GUI Log Konten	#
 options.controller=Pengontrol	#
 options.controllerLayout=Tata Letak Pengontrol	#
@@ -4613,6 +4728,7 @@ options.dev_useZippedInPackagePacks=Gunakan Paket Zip	#
 options.dev_importPacksAsZip=Impor Paket sebagai Zip	#
 options.dev_folders_portSettingsFolder=Folder Ekspor Pengaturan	#
 options.dev_useOverrideDate=Gunakan Tanggal Penimpaan	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Tampilkan Tanggal dan Waktu	#
 options.dev_loadOverrideDate=Muat Tanggal Timpa Saat Peluncuran	#
 options.dev.timeZoneType=Timpa Jenis Zona Waktu Editor	#
@@ -4627,6 +4743,16 @@ options.dev_overrideDayLength=Timpa Durasi Hari Dalam Menit (Min: 1)	#
 options.dev_overrideTimeScale=Atur Skala Kecepatan Waktu Berlalu (Min: 1, Default: 1)	#
 options.dev_updateOverrideDate=Perbarui Tanggal Penimpaan	#
 options.dev_resetOverrideDate=Atur Ulang Tanggal Timpa	#
+=======
+options.dev_displayOverrideDatetime=Tampilkan TanggalWaktu Timpa	#
+options.dev_saveCurrentOverrideDate=Simpan Tanggal Saat Ini Saat Menutup	#
+options.dev_overrideDateYear=Tahun	#
+options.dev_overrideDateMonth=Bulan	#
+options.dev_overrideDateDay=Hari	#
+options.dev_overrideDayLength=Timpa Durasi Hari Dalam Menit (Min: 1)	#
+options.dev_overrideTimeScale=Atur Skala Kecepatan Waktu Berlalu (Min: 1, Default: 1)	#
+options.dev_updateOverrideDate=Perbarui Tanggal Penimpaan	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Kosongkan Cache Penyimpanan	#
 options.dev_clearAllCache=Kosongkan Semua Cache	#
 options.dev_connection_quality=Pengondisi jaringan (simulasi koneksi buruk)	#
@@ -4636,6 +4762,7 @@ options.dev_connection_4g=4G - 15Mbps, 100ms latensi, 1% packet loss	#
 options.dev_connection_3g=3G - 1,5Mbps, 200ms latensi, 2% packet loss	#
 options.dev_connection_slow=Lambat - 400Kbps, 300ms latensi, 3% packet loss	#
 options.dev_connection_veryslow=Sangat lambat - 200Kbps, 400ms latensi, 4% packet loss	#
+<<<<<<< HEAD
 options.dev_identity_environment=Identitas dan Lingkungan Infrastruktur Online Baru (perlu mulai ulang)	#
 options.dev_identity_environment.dev=Pengembangan	#
 options.dev_identity_environment.test=Tes	#
@@ -4645,6 +4772,8 @@ options.dev.windowsStore.auto=Otomatis	#
 options.dev.windowsStore.v6=Windows Store Lama - V6	#
 options.dev.windowsStore.v8=OneStore - V8	#
 options.dev.stores=Toko yang Saat Ini Aktif:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Kesulitan	#
 options.difficulty.easy=Mudah	#
 options.difficulty.hard=Sulit	#
@@ -4962,13 +5091,22 @@ pauseScreen.title=Permainan Dijeda	#
 pauseScreen.betaFeedback=Umpan Balik Beta	#
 pauseScreen.xboxLiveDisconnect=Ups! Sambungan Xbox Live terputus. Untuk mengundang pemain lainnya, buka kembali duniamu.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Umpan Balik	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Ada Umpan Balik?	#
 feedbackScreen.suggestion=Berikan saran!	#
 feedbackScreen.bug=Laporkan bug!	#
 feedbackScreen.help=Perlu bantuan?	#
 feedbackScreen.body=Punya ide untuk meningkatkan Minecraft? Menemukan bug yang perlu diperbaiki? Atau mengalami masalah dan perlu bantuan? Beri tahu kami!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Kunjungi situs web ini di perangkat lain. %s	#
+=======
+feedbackScreen.suggestionLink=Kunjungi situs web ini di perangkat lain. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Kunjungi situs web ini di perangkat lain. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Kunjungi situs web ini di perangkat lain. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Kembali	#
 hudScreen.tooltip.basic.flyDown=Terbang Turun	#
@@ -5012,7 +5150,10 @@ hudScreen.tooltip.dismount=Lepas	#
 hudScreen.tooltip.collect=Kumpulkan	#
 hudScreen.tooltip.peel=Lepaskan Kulit Pohon	#
 hudScreen.tooltip.scaffoldingDescend=Tahan untuk Turun	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Pilih	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5195,11 @@ permissions.ability.doorsandswitches=Gunakan pintu dan sakelar	#
 permissions.ability.opencontainers=Buka wadah	#
 permissions.ability.attackplayers=Serang pemain	#
 permissions.ability.attackmobs=Serang mob	#
+<<<<<<< HEAD
 permissions.ability.op=Perintah Operator	#
+=======
+permissions.ability.op=Operator	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Menjadi tak terlihat	#
 permissions.ability.teleport=Gunakan Teleportasi	#
 permissions.NeedPermission=Kamu Perlu Izin	#
@@ -5078,10 +5223,15 @@ permissions.level.operator=Operator	#
 permissions.level.visitor=Pengunjung	#
 permissions.nocheats=Cheat Nonaktif	#
 permissions.nocheats.message=Perintah tertentu seperti teleportasi hanya tersedia dengan cheat AKTIF. Cheat juga dapat diaktifkan melalui menu jeda di bagian Pengaturan Permainan. Jika kamu memilih untuk mengaktifkan cheat, prestasi akan dinonaktifkan dalam di dunia ini.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Perintah tertentu seperti teleportasi hanya tersedia dengan cheat AKTIF. Cheat juga dapat diaktifkan melalui menu jeda di bagian Pengaturan Permainan.	#
 permissions.nocheats.turnon=Atur OP dengan cheat AKTIF	#
 permissions.nocheats.turnoff=Atur OP dengan cheat NONAKTIF	#
 permissions.nocheats.cancel=Batal	#
+=======
+permissions.nocheats.turnon=Aktifkan cheat	#
+permissions.nocheats.turnoff=Biarkan cheat nonaktif	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Hapus Izin Operator?	#
 permissions.deopingself.message=Kamu tidak akan lagi memiliki izin tingkat Operator dengan menurunkan tingkat izinmu.	#
 permissions.title=Izin Pemain	#
@@ -5765,6 +5915,7 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Dapatkan Koin	#
 store.popup.purchasePriceMismatch.msg=Maaf, kami tidak dapat menyelesaikan pembelianmu. Coba lagi nanti.	#
 store.popup.trialUpgradeFail.title=Kesalahan Pembukaan Kunci Permainan	#
 store.popup.trialUpgradeFail.msg=Sepertinya kamu masuk ke Akun Microsoft yang berbeda dari yang digunakan untuk mengunduh Uji Coba Minecraft. Coba lagi setelah masuk dengan akun tersebut.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Beli Template Dunia?	#
 store.popup.downloaded.unOwnedTemplate.msg=Kamu tidak punya template ini, dan harus membelinya agar dapat membuka kuncinya. Apakah kamu ingin membeli template?	#
 store.purchase.success=Kamu baru saja membeli: %s	#
@@ -5772,6 +5923,13 @@ store.purchase.bundle=Buka %d dari %d Paket?	#
 store.purchase.bundle.confirm=Buka sekarang!	#
 store.purchase.bundle.partiallyOwnedWarning=Sekadar info, kamu sudah punya paket ini: %s.  Ingin membuka kunci semua paket lainnya dalam bundel ini?	#
 store.purchase.bundle.owned=Dimiliki	#
+=======
+store.purchase.success=Kamu baru saja membeli: %s	#
+store.purchase.bundle=Buka kunci %d dari %d Paket?	#
+store.purchase.bundle.confirm=Buka sekarang!	#
+store.purchase.bundle.partiallyOwnedWarning=Sekadar info, kamu sudah punya paket ini: %s.  Ingin membuka kunci semua paket lainnya dalam bundel ini?	#
+store.purchase.bundle.owned=Kamu memiliki	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Kamu akan mendapatkan	#
 store.createdBy=Oleh %s	#
 store.seeMoreBy=Lihat lainnya oleh %s	#
@@ -6144,7 +6302,10 @@ tile.chalkboard.twoByOne.name=Poster	#
 tile.chalkboard.threeByTwo.name=Papan	#
 tile.chest.name=Peti	#
 tile.ender_chest.name=Peti Ender	#
+<<<<<<< HEAD
 tile.jigsaw.name=Blok Jigsaw	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Peti Perangkap	#
 tile.shulkerBoxWhite.name=Kotak Shulker Putih	#
 tile.shulkerBoxOrange.name=Kotak Shulker Oranye	#
@@ -6237,6 +6398,11 @@ tile.wool.white.name=Wol Putih	#
 tile.wool.yellow.name=Wol Kuning	#
 tile.cobblestone_wall.mossy.name=Dinding Batu Bulat Berlumut	#
 tile.cobblestone_wall.normal.name=Dinding Batu Bulat 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Dinding Batu Bulat	#
+tile.cobblestone_wall.mossy_cobblestone.name=Dinding Batu Bulat Berlumut	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Dinding Granit	#
 tile.cobblestone_wall.diorite.name=Dinding Diorit	#
 tile.cobblestone_wall.andesite.name=Dinding Andesit	#
@@ -6251,7 +6417,10 @@ tile.cobblestone_wall.red_sandstone.name=Dinding Batu Pasir Merah	#
 tile.cobblestone_wall.red_nether_brick.name=Dinding Bata Nether Merah	#
 tile.cocoa.name=Biji Cokelat	#
 tile.command_block.name=Blok Perintah	#
+<<<<<<< HEAD
 tile.composter.name=Pembuat Kompos	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Blok Perintah Berulang	#
 tile.chain_command_block.name=Blok Perintah Rantai	#
 tile.wheat.name=Tanaman Panen	#
@@ -6334,6 +6503,7 @@ tile.lever.name=Tuas	#
 tile.glowstone.name=Batu Bersinar	#
 tile.lit_pumpkin.name=Jack o'Lantern	#
 tile.lockedchest.name=Peti Terkunci	#
+<<<<<<< HEAD
 tile.log.acacia.name=Batang Akasia	#
 tile.log.big_oak.name=Batang Ek Gelap	#
 tile.log.birch.name=Batang Betula	#
@@ -6351,6 +6521,25 @@ tile.monster_egg.crackedbrick.name=Batu Bata Retak Berisi	#
 tile.monster_egg.mossybrick.name=Batu Bata Berlumut Berisi	#
 tile.monster_egg.name=Batu Berisi	#
 tile.monster_egg.stone.name=Batu Berisi	#
+=======
+tile.log.acacia.name=Kayu Akasia	#
+tile.log.big_oak.name=Kayu Ek Gelap	#
+tile.log.birch.name=Kayu Betula	#
+tile.log.jungle.name=Kayu Rimba	#
+tile.log.name=Kayu	#
+tile.log.oak.name=Kayu Ek	#
+tile.log.spruce.name=Kayu Spruce	#
+tile.magma.name=Blok Magma	#
+tile.melon_block.name=Melon	#
+tile.mob_spawner.name=Kemunculan Monster	#
+tile.monster_egg.brick.name=Telur Monster Batu Bata	#
+tile.monster_egg.chiseledbrick.name=Telur Monster Batu Bata Pahatan	#
+tile.monster_egg.cobble.name=Telur Monster Batu Bulat	#
+tile.monster_egg.crackedbrick.name=Telur Monster Batu Bata Retak	#
+tile.monster_egg.mossybrick.name=Telur Monster Batu Bata Berlumut	#
+tile.monster_egg.name=Telur Monster Batu	#
+tile.monster_egg.stone.name=Telur Monster Batu	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Jamur	#
 tile.noteblock.name=Blok Not	#
 tile.mycelium.name=Miselium	#
@@ -6501,7 +6690,10 @@ tile.stonebrick.mossy.name=Batu Bata Berlumut	#
 tile.stonebrick.name=Batu Bata	#
 tile.stonebrick.smooth.name=Batu Bata Halus	#
 tile.stonecutter.name=Pemahat Batu	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Pemahat Batu	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Batu Bulat Berlumut	#
 tile.double_stone_slab.brick.name=Lempeng Bata	#
 tile.double_stone_slab.cobble.name=Lempeng Batu Bulat	#
@@ -6516,10 +6708,18 @@ tile.stone_slab.name=Lempeng Batu	#
 tile.stone_slab.brick.name=Lempeng Bata	#
 tile.stone_slab.cobble.name=Lempeng Batu Bulat	#
 tile.stone_slab.stone.name=Lempeng Batu Halus	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Lempeng Batu Halus	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Lempeng Bata Nether	#
 tile.stone_slab.quartz.name=Lempeng Kuarsa	#
 tile.stone_slab.sand.name=Lempeng Batu Pasir	#
 tile.stone_slab.smoothStoneBrick.name=Lempeng Batu Bata	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Lempeng Batu	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Lempeng Kayu	#
 tile.double_stone_slab2.red_sandstone.name=Lempeng Batu Pasir Merah	#
 tile.stone_slab2.red_sandstone.name=Lempeng Batu Pasir Merah	#
@@ -6695,12 +6895,21 @@ tile.concretePowder.magenta.name=Serbuk Beton Magenta	#
 tile.concretePowder.orange.name=Serbuk Beton Oranye	#
 tile.concretePowder.white.name=Serbuk Beton Putih	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Batang Spruce Bersetrip	#
 tile.stripped_dark_oak_log.name=Batang Ek Gelap Bersetrip	#
 tile.stripped_birch_log.name=Batang Betula Bersetrip	#
 tile.stripped_jungle_log.name=Batang Rimba Bersetrip	#
 tile.stripped_oak_log.name=Batang Ek Bersetrip	#
 tile.stripped_acacia_log.name=Batang Akasia Bersetrip	#
+=======
+tile.stripped_spruce_log.name=Kayu Spruce Bersetrip	#
+tile.stripped_dark_oak_log.name=Kayu Ek Gelap Bersetrip	#
+tile.stripped_birch_log.name=Kayu Betula Bersetrip	#
+tile.stripped_jungle_log.name=Kayu Rimba Bersetrip	#
+tile.stripped_oak_log.name=Kayu Ek Bersetrip	#
+tile.stripped_acacia_log.name=Kayu Akasia Bersetrip	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambu	#
 tile.scaffolding.name=Perancah	#
@@ -6710,6 +6919,7 @@ tile.lantern.name=Lentera	#
 tile.smoker.name=Tungku Asap	#
 tile.smithing_table.name=Meja Tempa	#
 tile.barrel.name=Tong	#
+<<<<<<< HEAD
 tile.campfire.name=Api Unggun	#
 tile.loom.name=Alat Tenun	#
 tile.lectern.name=Podium	#
@@ -6727,6 +6937,8 @@ tile.wood.stripped.birch.name=Kayu Betula Bersetrip	#
 tile.wood.stripped.jungle.name=Kayu Rimba Bersetrip	#
 tile.wood.stripped.acacia.name=Kayu Akasia Bersetrip	#
 tile.wood.stripped.dark_oak.name=Kayu Ek Gelap Bersetrip	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Panah Obat	#
 tipped_arrow.effect.water=Panah Obat	#
@@ -6811,10 +7023,13 @@ translation.test.invalid2=hai %  s	#
 translation.test.none=Halo, dunia!	#
 translation.test.world=dunia	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Konversi Dunia Gagal	#
 worldConversionErrorPrompt.message=Ups, terjadi kesalahan saat mengkonversi dunia. Coba lagi nanti.	#
 worldConversionErrorPrompt.message.upload=Terjadi kesalahan. Kami tidak bisa mengonversi duniamu. Kamu bisa mengirimkan duniamu nanti dengan membuka dunia lamamu dan menekan Y. Atau kirimkan duniamu sekarang agar kami bisa menyelidiki lebih lanjut.	#
@@ -6905,6 +7120,7 @@ trial.tabbed_upsell.addon.description=Ingin membuat serigala bertingkah seperti 
 trial.tabbed_upsell.seeds.title=BENIH	#
 trial.tabbed_upsell.seeds.description=Buka pengalaman Minecraft lengkap dan dapatkan akses ke Benih! Benih membantumu menemukan bioma baru - bertahan hidup di dataran es, memanjat bukit ekstrem, atau melintasi padang pasir. Mulai dengan template unik atau jelajahi dunia baru yang acak! Akses Benih, Mode Kreatif, Multipemain, dan banyak lagi dengan membeli Minecraft hari ini!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Koleksi Pemula Minecraft	#
 trial.master.collection.title=Koleksi Master Minecraft	#
@@ -6938,6 +7154,8 @@ trial.collection.12.title=Paket Skin Penjahat	#
 trial.collection.12.description=Berpakaian sebagai Cake Maniac, Frankencrafter, atau lebih buruk lagi!	#
 trial.includes=Termasuk	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=File Zip	#
 verification.nolicense.title=Kesalahan Lisensi	#
 verification.nolicense.description=Kami mengalami kesulitan saat memverifikasi bahwa kamu adalah pemilik Minecraft di perangkat ini. Pastikan kamu telah mengunduh dan menginstal Minecraft dari toko web. Atau sambungkan kembali ke internet dan coba lagi.	#
@@ -7188,6 +7406,7 @@ tips.edu.5=Agar pemain lain bisa tersambung ke duniamu, jeda permainan dan bagik
 tips.edu.6=Ingat bahwa untuk menggunakan perintah garis miring, kamu perlu mengaktifkan cheat di duniamu.	#
 tips.edu.7=Selesai dengan kreasimu? Minta pemain lain berkunjung ke duniamu dalam Mode Petualangan untuk melindungi hasil karyamu.	#
 tips.edu.8=Untuk menggunakan pembuat kode, tekan C di keyboard atau sentuh ikon Agent di bagian atas layar!	#
+<<<<<<< HEAD
 tips.edu.9=Gunakan Pustaka untuk menemukan dunia permainan baru sebagai tempat membangun.	#
 tips.edu.10=Mencari bioma tertentu? Coba cari di Pustaka.	#
 tips.edu.11=NPC adalah singkatan dari Non-Player Character (Karakter Bukan Pemain).	#
@@ -7201,6 +7420,8 @@ tips.edu.18=Kamu bisa mengaktifkan atau menonaktifkan Lompat Otomatis di menu Pe
 tips.edu.19=Saat dalam Mode Kreatif, tekan lompat dua kali dengan cepat untuk terbang.	#
 tips.edu.20=Pilih Mode Permainan Default saat membuat dunia untuk menentukan jenis pola permainan yang kamu inginkan.	#
 tips.edu.21=Gunakan perintah ''/setworldspawn'' untuk membuat pemain baru mulai bermain di tempatmu berdiri.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Gunakan lamun untuk memancing dan mengembangbiakkan penyu laut.	#
 tips.game.2=Lindungi anak penyu dari mob keji!	#
@@ -7263,8 +7484,11 @@ tips.game.56=Saat menggali ke atas, letakkan obor di kakimu untuk memecah pasir 
 splitscreen.joinPrompt=Bergabung sebagai Pemain %s	#
 splitscreen.unavailable.toastHeader=Layar Terbagi Tidak Tersedia	#
 splitscreen.unavailable.toastMessage=Pemain kedua tidak bisa bergabung sekarang.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Tidak Bisa Menghubungkan Joy-Con!	#
 splitscreen.joyconError.toastMessage=Kamu menghubungkan terlalu banyak pengontrol selagi dalam Mode Jaringan Lokal untuk bergabung ke permainan ini.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Ubah Pengguna	#
 

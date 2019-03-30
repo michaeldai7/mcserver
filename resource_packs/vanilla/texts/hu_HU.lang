@@ -130,7 +130,10 @@ action.interact.trade=Kereskedés	#
 action.interact.armorstand.pose=Póz	#
 action.interact.armorstand.equip=Felszerelkezés	#
 action.interact.read=Olvasás	#
+<<<<<<< HEAD
 action.interact.wakevillager=Falusi felébresztése	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = összes entitás	#
 advMode.allPlayers=@a = összes játékos	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=minden játékos megemlítése	#
 chat.mute=Némítás	#
 chat.realmsFilterDisabled=Ennél a Realmnál ki van kapcsolva a csevegés szűrése.	#
 chat.settings=Csevegés beállításai	#
+<<<<<<< HEAD
 chat.settings.chatColor=Csevegő szín	#
 chat.settings.color=Szín	#
 chat.settings.font=Betűtípus	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Sorközök: x%s	#
 chat.settings.mentions=Említéseim	#
 chat.settings.muteAll=Minden némítása	#
 chat.settings.typeface=Betűtípus	#
+=======
+chat.settings.defaultChatColor=Alapértelmezett csevegő szín	#
+chat.settings.color=Szín	#
+chat.settings.font=Betűtípus	#
+chat.settings.fontColor=Betűszín	#
+chat.settings.lineSpacing=Sorközök: x%s	#
+chat.settings.mentions=Említéseim	#
+chat.settings.muteAll=Minden némítása	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Minden elnémítás visszavonása	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Kiszolgáló	#
 commands.origin.teacher=Oktató	#
 commands.ops.description=Újratölti és alkalmazza az üzemeltetői engedélyeket.	#
 commands.ops.reloaded=Újratöltötted az üzemeltetői engedélyeket a fájlból.	#
+<<<<<<< HEAD
 commands.ops.set.success=Sikeres az operátorszint beállítása %s játékos részére.	#
 commands.permissions.description=Újratölti és alkalmazza az engedélyeket.	#
 command.permissions.list.fail.filenotfound=Sikertelen a jogosultságok listázása a fájlból, mert a fájl nem található.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=A(z) %s. jogosultsági szint beállítása siker
 commands.permissions.set.success=A(z) %s. jogosultsági szint beállítása sikeres %s játékos részére.	#
 commands.permissions.save.failed=A(z) %s. jogosultsági szint elmentése sikertelen %s játékos részére.	#
 commands.permissions.save.success=A(z) %s. jogosultsági szint elmentése sikeres %s játékos részére.	#
+=======
+commands.permissions.description=Újratölti és alkalmazza az engedélyeket.	#
+commands.permissions.reloaded=Engedélyek fájlból betöltve.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Részecskeforrást hoz létre.	#
 commands.particle.description=Részecskék létrehozása.	#
 commands.particle.notFound=Ismeretlen hatásnév (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Nem sikerült feloldani %1$s játékos tiltását	#
 commands.unban.success=Feloldottad %1$s játékos tiltását	#
 commands.unbanip.invalid=Érvénytelen IP-címet adtál meg	#
 commands.unbanip.success=Feloldottad a következő IP-cím tiltását: %1$s	#
+<<<<<<< HEAD
 commands.videostream.description=Csatlakozási kísérlet a hálózati kiszolgálóhoz videoközvetítés küldéséhez.	#
 commands.videostreamaction.description=Videoközvetítéssel kapcsolatos akció végrehajtása.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Váltás jó időjárásra	#
 commands.weather.description=Bekapcsolja az időjárást.	#
 commands.weather.disabled=Az időjárásciklus nincs engedélyezve ezen a szinten.	#
@@ -981,13 +1002,19 @@ container.furnace=Kemence	#
 container.hopper=Tárgytölcsér	#
 container.inventory=Leltár	#
 container.isLocked=%s zárolva van!	#
+<<<<<<< HEAD
 container.loom=Szövőszék	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Csille	#
 container.repair=Javítás és elnevezés	#
 container.repair.cost=XP-költség: %1$d	#
 container.repair.expensive=Túl drága!	#
 container.stonecutter=Kőfaragó	#
+<<<<<<< HEAD
 container.stonecutter_block=Kőfaragó	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Shulker-doboz	#
 container.shulkerboxContains=és %d további...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Nem rendelkezel az összes hozzávalóval	#
 crafting.insufficientLevel=A szinted túl alacsony	#
 crafting.noRecipesInventory=Az elkészítéséhez blokkokat kell gyűjtened!	#
 crafting.noRecipesStonecutter=Az elkészítéséhez követ kell gyűjtened!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Az elkészítéséhez követ kell gyűjtened!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=Az elkészítéséhez blokkokat kell gyűjtened!	#
 
 createWorld.customize.custom.baseSize=Mélység alapértéke	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Megnézed most, hogy van-e 
 disconnectionScreen.realmsWorldUnassigned=Rendeld hozzá a verziót a fejlesztői beállításokban.	#
 disconnectionScreen.realmsWorldUnassigned.title=A Realm hozzárendelése törlődött!	#
 disconnectionScreen.scriptNotSupported=A világhoz, amelybe be akarsz lépni, szkripteket kell futtatni eszközödön. Jelenleg az eszköz nem támogatja a szkripteket, így nem csatlakozhatsz erről az eszközről.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=A szkriptelés nem támogatott	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Hűha, ez a kiszolgáló igencsak népszerű! Nézz vissza később, hátha addigra felszabadul egy hely.	#
 disconnectionScreen.serverFull.title=A kiszolgáló megtelt	#
 disconnectionScreen.serverIdConflict=Nem tudsz csatlakozni a világhoz. A fiók, amellyel jelenleg be vagy jelentkezve, már ezen a világon játszik egy másik eszközön.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Szellem	#
 entity.guardian.name=Őrszem	#
 entity.horse.name=Ló	#
 entity.husk.name=Husk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Illager-bestia	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Vasgólem	#
 entity.item.name=Tárgy	#
 entity.leash_knot.name=Pórázbög	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Falusi	#
 entity.villager.shepherd=Pásztor	#
 entity.villager.tool=Eszközkovács	#
 entity.villager.weapon=Fegyverkovács	#
+<<<<<<< HEAD
 entity.villager.mason=Kőműves	#
 entity.villager.unskilled=Képzetlen falusi	#
 entity.villager_v2.name=Falusi	#
 entity.vindicator.name=Bosszúálló	#
 entity.wandering_trader.name=Vándorkereskedő	#
+=======
+entity.vindicator.name=Bosszúálló	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Boszorkány	#
 entity.wither.name=Sorvasztó	#
 entity.wither_skeleton.name=Sorvasztó csontváz	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Zombi ló	#
 entity.zombie_pigman.name=Zombi-malacember	#
 entity.zombie_villager.name=Zombi falusi	#
 
+<<<<<<< HEAD
 exports.share.file=%s megosztása	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Kiszolgáló hozzáadása	#
 addExternalServerScreen.nameTextBoxLabel=Kiszolgáló neve	#
 addExternalServerScreen.namePlaceholder=Add meg a kiszolgáló nevét	#
@@ -1974,7 +2018,10 @@ feature.village=Falu	#
 feature.shipwreck=Hajóroncs	#
 feature.buriedtreasure=Elásott kincs	#
 feature.ruins=Tengermélyi romok	#
+<<<<<<< HEAD
 feature.pillageroutpost=Fosztogatótábor	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Kedvelés	#
 feed.manage_feed=Hírcsatorna kezelése	#
@@ -2052,6 +2099,7 @@ gameTip.findTree=Keress egy fát faanyag gyűjtéséhez	#
 gameTip.breakWood.mouse=A bal egérgombot hosszan nyomva gyűjts be 3 fát	#
 gameTip.breakWood.touch=Koppints és tartsd lenyomva, így gyűjts be 3 fát	#
 gameTip.breakWood.controller=Tartsd benyomva a jobb ravaszt, és gyűjts be 3 fát	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Haladj át a tárgyakon, hogy felvedd őket	#
 gameTip.openInventory.keyboard=Nyomd meg az E gombot a leltár megnyitásához	#
 gameTip.openInventory.touch=Koppints a … gombra a leltár megnyitásához	#
@@ -2067,6 +2115,8 @@ gameTip.open.recipe=Nyisd ki a receptkönyvet, hogy több tárgy készítését 
 gameTip.closeInventory.keyboard=Nyomj E gombot, vagy kattints bal gombbal az X jelen a leltár bezárásához	#
 gameTip.closeInventory.touch=Koppints az X jelre a leltár bezárásához	#
 gameTip.closeInventory.controller=Nyomd meg a B gombot a leltár bezárásához	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=SZÉLSŐSÉGES	#
 generator.amplified.info=Megjegyzés: Csak szórakozásra, erős számítógép kell hozzá	#
@@ -2090,7 +2140,10 @@ gui.cancel=Megszakítás	#
 gui.clear=Törlés	#
 gui.close=Bezárás	#
 gui.confirm=Megerősítés	#
+<<<<<<< HEAD
 gui.custom=Egyéni	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Alapértelmezett	#
 gui.decline=Elutasítás	#
 gui.deleteWorldLong=Világ törlése	#
@@ -2184,6 +2237,7 @@ howtoplay.armor.header.1=Barkácsolás	#
 howtoplay.armor.text.2=Páncélt barkácsolhatsz bőrből, vasból, aranyból vagy gyémántból. Láncpáncélt falusiakkal való kereskedésből szerezhetsz, illetve zsákmányolhatsz zombiktól és csontvázaktól is.	#
 howtoplay.armor.text.3=A páncéllal való felszerelkezéshez nyisd meg a leltáradat, és helyezd a páncél alkotórészeit a megfelelő helyre a játékosfelületed mellett.	#
 howtoplay.armor.text.4=A vas-, a lánc- és az aranypáncélból vas- vagy aranyrögöt olvaszthatsz kemencében.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Pajzs	#
 howtoplay.armor.text.5.keyboard=A pajzs blokkolja a támadásokat. A pajzsot a szabad kezedbe veheted fel, vagy az eszköztárban használhatod. Nyomd hosszan a(z) :_input_key.sneak: gombot, hogy háríts a pajzzsal.	#
 howtoplay.armor.text.5.gamepad=A pajzs blokkolja a támadásokat. A pajzsot a szabad kezedbe veheted fel, vagy az eszköztárban használhatod. Nyomd meg a(z) :_input_key.sneak: gombot, vagy kattints a :_gamepad_stick_right: gombbal, hogy elkezdd vagy abbahagyd a pajzsos védekezést.	#
@@ -2193,6 +2247,10 @@ howtoplay.armor.text.5.windowsmr_controller=A pajzs blokkolja a támadásokat. A
 howtoplay.armor.text.6=A pajzs akár egy Creeper robbanását is hárítani tudja!	#
 howtoplay.armor.header.3=Álcázás	#
 howtoplay.armor.text.7=A fejeden tököt is viselhetsz. Ez nem biztosít neked :armor: védettséget, de a Bevégzők nem fognak megharagudni rád, ha rájuk nézel.	#
+=======
+howtoplay.armor.header.2=Álcázás	#
+howtoplay.armor.text.5=A fejeden tököt is viselhetsz. Ez nem biztosít neked :armor: védettséget, de a Bevégzők nem fognak megharagudni rád, ha rájuk nézel.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Páncéltartó állvány	#
 howtoplay.armorStand.title=Útmutató: Páncéltartó állvány	#
@@ -2211,7 +2269,11 @@ howtoplay.armorStand.text.5=A páncéltartó állványok reagálnak a vöröskő
 howtoplay.banners=Zászlók	#
 howtoplay.banners.title=Útmutató: Zászlók	#
 howtoplay.banners.text.1=A zászlókkal egyéni mintákkal és színekkel dekorálhatod ki a házad vagy a kastélyod.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Miután készítettél egy lobogót, a barkácsasztalra vagy a szövőszékbe teheted, és hozzáadhatsz különböző festékeket, hogy a saját ízlésed szerint alakítsd!	#
+=======
+howtoplay.banners.text.2=Miután készítettél egy zászlót, barkácsasztalra teheted, és hozzáadhatsz különböző festékeket, hogy a saját ízlésed szerint alakítsd!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Minta alkalmazása	#
 howtoplay.banners.text.3=A festékkel számos különböző mintát festhetsz, például:	#
 howtoplay.banners.text.4=  - Háromszög formálásával gallérmintát kapsz.	#
@@ -2511,6 +2573,7 @@ howtoplay.droppers.text.2=Ha egy kidobóval szemben egy láda vagy más típusú
 howtoplay.dyes=Festékek	#
 howtoplay.dyes.title=Útmutató: Festékek	#
 howtoplay.dyes.text.1=A festékekkel számos dolog színe megváltoztatható a Minecraftban.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Néhány festékanyagot nehezebb megtalálni, mint másokat. A legtöbb festék elkészíthető virágokból, például a rózsavörös festék pipacsból, egyes festékek azonban kacifántosabb utakon találhatók meg vagy készíthetők el, például: 	#
 howtoplay.dyes.text.3=-lazurit kibányászása mélyen a föld alól	#
 howtoplay.dyes.text.4=-tintazsákok gyűjtése a víz alól	#
@@ -2518,6 +2581,14 @@ howtoplay.dyes.text.5=-kakaóbab betakarítása a dzsungelben	#
 howtoplay.dyes.text.6=– A zöld festéket a kaktuszból kell előállítani	#
 howtoplay.dyes.text.7=– A csontliszt segít növényeket és fákat növeszteni, vagy fehér festéket lehet belőle készíteni	#
 howtoplay.dyes.text.8=– Gyűjts tintazsákokat a tintahalakból, és fekete festékhez jutsz	#
+=======
+howtoplay.dyes.text.2=Lehet, hogy egy ideig keresgélned kell, mire megtalálod azokat a természeti erőforrásokat, amelyek bizonyos festékek készítéséhez szükségesek. A legtöbb festék elkészíthető virágokból, például a rózsavörös festék pipacsból, egyes festékek azonban kacifántosabb utakon találhatók meg vagy készíthetők el, például: 	#
+howtoplay.dyes.text.3=-lazurit kibányászása mélyen a föld alól	#
+howtoplay.dyes.text.4=-tintazsákok gyűjtése a víz alól	#
+howtoplay.dyes.text.5=-kakaóbab betakarítása a dzsungelben	#
+howtoplay.dyes.text.6=-a kaktuszzöldet kaktuszból kell kinyerni olvasztással	#
+howtoplay.dyes.text.7=-a csontliszt elősegíti a növények és a fák növekedését, illetve használható fehér festéknek	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Elytra	#
 howtoplay.elytra.title=Útmutató: Elytra	#
@@ -2706,6 +2777,7 @@ howtoplay.jukebox.header.3=A hanglemezek megkeresése	#
 howtoplay.jukebox.text.7=Néhány hanglemezre rábukkanhatsz a világ különböző helyein található ládákban.	#
 howtoplay.jukebox.text.8=Más hanglemezekre nehezebb szert tenni, de a creeperek titokban rajonganak a zenéért.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Szövőszék	#
 howtoplay.loom.title=Útmutató: Szövőszék	#
 howtoplay.loom.text.1=A szövőszék gyors és hatékony módot kínál a lobogók mintázattal történő díszítésére. A szövőszék csak egy festéket használ a mintázat készítéséhez. Ezen kívül szövőszékmintákat is tud használni különleges mintázatok létrehozásához.	#
@@ -2715,6 +2787,8 @@ howtoplay.loom.text.3=Egy lobogóra több réteg vihető fel, így számtalan lo
 howtoplay.loom.header.2=Szövőszékminták	#
 howtoplay.loom.text.4=A szövőszék harmadik helyére hozzáadott szövőszékminta lehetővé teszi különleges mintázatok, mint pl. egy Creeper-arc vagy virágminta létrehozását. A szövőszékmintákat nem veszíted el, ha hozzáadod őket a lobogóidhoz.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Hátasok	#
 howtoplay.mounts.title=Útmutató: Hátasok	#
 howtoplay.mounts.text.1=A játékosok felülhetnek a felnőtt lovak, szamarak és öszvérek hátára. Csak a lovak szerelhetők fel páncéllal.	#
@@ -2912,6 +2986,10 @@ howtoplay.transportation.text.5.keyboard=A(z) :_input_key.use: gomb megnyomásá
 howtoplay.transportation.text.5.gamepad=Miközben egy csónakra nézel, nyomd meg a :_input_key.use: gombot a beszálláshoz. Nyomd balra vagy jobbra a :_gamepad_stick_left: kart a balra vagy jobbra forduláshoz. Nyomd előre a :_gamepad_stick_left: kart az előre haladáshoz. Nyomd meg a :_input_key.jump: vagy :_input_key.sneak: gombot a kiszálláshoz.	#
 howtoplay.transportation.text.5.touch=Koppints a Felszállás gombra egy csónak közelében a beszálláshoz. Nyomd meg a(z) :_input_key.left: vagy a(z) :_input_key.right: gombot a balra vagy jobbra forduláshoz. Nyomd meg a kettőt egyszerre az előre haladáshoz. Koppints a Kiszállás a csónakból gombra a kiszálláshoz.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Fegyverek	#
 howtoplay.weapons.title=Útmutató: Fegyverek	#
 howtoplay.weapons.header.1=Kard	#
@@ -2922,6 +3000,7 @@ howtoplay.weapons.header.2=Íj	#
 howtoplay.weapons.text.3.notTouch=Az íj a Minecraft elsődleges távolsági fegyvere. A(z) :_input_key.use: gomb lenyomásával és nyomva tartásával ajzod fel az íjat. A(z) :_input_key.use: gomb felengedése kilövi a vesszőt. Az íj használatához nyílvessző szükséges. 	#
 howtoplay.weapons.text.3.touch=Az íj a Minecraft elsődleges távolsági fegyvere. A képernyő érintésével és nyomva tartásával ajzod fel az íjat. Az ujj felengedése kilövi a vesszőt. Az íj használatához nyílvessző szükséges.	#
 howtoplay.weapons.text.4=Az íj annál nagyobb sérülést okoz, minél jobban megfeszítik - figyelj, hogy teljesen hátrahúzd az ideget.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Nyílpuska	#
 howtoplay.weapons.text.5.notTouch=A nyílpuska egy alternatív távolsági fegyver. Tartsd hosszan nyomva a(z) :_input_key.use: gombot a nyílpuska felhúzásához. Ha felhúztad a nyílpuskát, addig felhúzva marad, amíg el nem sütöd. Nyomd meg a(z) :_input_key.use: gombot a nyílvessző kilövéséhez. A nyílpuskához nyílvesszőkre van szükség, hogy legyen mit kilőnöd.	#
 howtoplay.weapons.text.5.touch=A nyílpuska egy alternatív távolsági fegyver. Tarts hosszan nyomva a képernyőt, hogy feltöltsd a nyílpuskát. Ha felhúztad a nyílpuskát, addig úgy marad, amíg el nem sütöd, még akkor is, ha a leltárba teszed. Tartsd hosszan nyomva a képernyőt a nyíl kilövéséhez. A nyílpuskához nyílvesszőkre van szükség, hogy legyen mit kilőnöd.	#
@@ -2930,6 +3009,13 @@ howtoplay.weapons.text.6.notTouch=A szigony használható közelharcban és táv
 howtoplay.weapons.text.6.touch=A szigony használható közelharcban és távolsági fegyverként is. Koppints a mobokra a megtámadásukhoz. Érintsd meg és tartsd lenyomva az ujjad a képernyőn a szigony hátrahúzásához. Engedd fel az ujjad a szigony elhajításához. A szigony a legjobb fegyver a víz alatt.	#
 howtoplay.weapons.header.5=Elbűvölt fegyverek	#
 howtoplay.weapons.text.7=A kardhoz, az íjhoz, a nyílpuskához és a szigonyhoz egyedi bűvölések tartoznak, amelyek a bűvölőasztaloknál vagy az üllőknél állnak rendelkezésre. Növelhetik a fegyver sebzését, tartósságát, és akár még lángra is lobbanthatod velük a mobokat!	#
+=======
+howtoplay.weapons.header.3=Megbűvölt fegyverek	#
+howtoplay.weapons.text.5=A kardhoz, az íjhoz és a szigonyhoz egyedi bűvölések tartoznak, amelyek a bűvölőasztaloknál vagy az üllőknél állnak rendelkezésre. Növelik a fegyver sebzését, tartósságát, és akár még lángra is lobbanthatod velük a mobokat!	#
+howtoplay.weapons.header.trident=Szigony	#
+howtoplay.weapons.text.trident.notTouch=A szigony használható közelharcban és távolsági fegyverként is. Nyomd meg a(z) :_input_key.attack: gombot a támadáshoz. Nyomd meg és tartsd lenyomva a(z) :_input_key.use: gombot a szigony hátrahúzásához. Engedd fel a(z) :_input_key.use: gombot a szigony elhajításához. A szigony a legjobb fegyver a víz alatt.	#
+howtoplay.weapons.text.trident.touch=A szigony használható közelharcban és távolsági fegyverként is. Koppints a mobokra a megtámadásukhoz. Érintsd meg és tartsd lenyomva az ujjad a képernyőn a szigony hátrahúzásához. Engedd fel az ujjad a szigony elhajításához. A szigony a legjobb fegyver a víz alatt.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Újdonságok	#
 
@@ -3874,13 +3960,19 @@ item.spawn_egg.entity.sheep.name=Juh idézése	#
 item.spawn_egg.entity.npc.name=NPC idézése	#
 item.spawn_egg.entity.wolf.name=Farkas idézése	#
 item.spawn_egg.entity.villager.name=Falusi idézése	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Falusi idézése	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Bosszúálló idézése	#
 item.spawn_egg.entity.mooshroom.name=Múúmba idézése	#
 item.spawn_egg.entity.squid.name=Tintahal idézése	#
 item.spawn_egg.entity.rabbit.name=Nyúl idézése	#
 item.spawn_egg.entity.bat.name=Denevér idézése	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Illager-bestia idézése	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Vasgólem idézése	#
 item.spawn_egg.entity.snow_golem.name=Hógólem idézése	#
 item.spawn_egg.entity.ocelot.name=Ocelot idézése	#
@@ -3906,7 +3998,10 @@ item.spawn_egg.entity.ghast.name=Szellem idézése	#
 item.spawn_egg.entity.magma_cube.name=Magmakocka idézése	#
 item.spawn_egg.entity.blaze.name=Őrláng idézése	#
 item.spawn_egg.entity.zombie_villager.name=Zombi falusi idézése	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Zombi falusi idézése	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Boszorkány idézése	#
 item.spawn_egg.entity.stray.name=Stray idézése	#
 item.spawn_egg.entity.husk.name=Husk idézése	#
@@ -3923,7 +4018,10 @@ item.spawn_egg.entity.phantom.name=Fantom idézése	#
 item.spawn_egg.entity.panda.name=Panda idézése	#
 item.spawn_egg.entity.pillager.name=Fosztogató idézése	#
 item.spawn_egg.entity.unknown.name=Idézés	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Vándorkereskedő idézése	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Szigony	#
 item.mushroom_stew.name=Gombaragu	#
 item.muttonCooked.name=Sült birkahús	#
@@ -4016,12 +4114,16 @@ item.wheat.name=Búza	#
 item.writable_book.name=Könyv és toll	#
 item.written_book.name=Megírt könyv	#
 item.glowstone_dust.name=Izzókőpor	#
+<<<<<<< HEAD
 item.shield.name=Pajzs	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Shulker-váz	#
 item.totem.name=Halhatatlanság toteme	#
 item.turtle_helmet.name=Teknőspáncél	#
 item.turtle_shell_piece.name=Szarulemez	#
 item.phantom_membrane.name=Fantomhártya	#
+<<<<<<< HEAD
 item.sweet_berries.name=Édes bogyók	#
 item.banner_pattern.bricks=Téglamintás	#
 item.banner_pattern.creeper=Creeper-roham	#
@@ -4030,6 +4132,8 @@ item.banner_pattern.name=Lobogóminta	#
 item.banner_pattern.skull=Koponyaroham	#
 item.banner_pattern.thing=Dolog	#
 item.banner_pattern.vines=Süllyesztett bordűr	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Tárgyak keresése	#
 itemGroup.name.planks=Deszka	#
@@ -4064,7 +4168,11 @@ itemGroup.name.rawFood=Nyers étel	#
 itemGroup.name.cookedFood=Főtt étel	#
 itemGroup.name.miscFood=Egyéb étel	#
 itemGroup.name.mushroom=Gomba	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Fertőzött kő	#
+=======
+itemGroup.name.monsterStoneEgg=Szörnykőtojás	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Mobtojás	#
 itemGroup.name.helmet=Sisak	#
 itemGroup.name.chestplate=Mellvért	#
@@ -4100,8 +4208,11 @@ itemGroup.name.coral=Korallblokkok	#
 itemGroup.name.coral_decorations=Koralldíszítések	#
 itemGroup.name.buttons=Gombok	#
 itemGroup.name.sign=Táblák	#
+<<<<<<< HEAD
 itemGroup.name.wood=Fák	#
 itemGroup.name.banner_pattern=Lobogóminták	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Támadás/megsemmisítés	#
 key.back=Vissza	#
@@ -4523,7 +4634,11 @@ options.chat.visibility.hidden=Rejtett	#
 options.chat.visibility.system=Csak parancsok	#
 options.chat.width=Szélesség	#
 options.codeBuilder=Kódszerkesztő	#
+<<<<<<< HEAD
 options.content_log_file=Content Log (tartalomnaplózás) fájl bekapcsolása	#
+=======
+options.content_log=Content Log (tartalomnaplózás) bekapcsolása	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Content Log (tartalomnaplózás) kezelőfelület bekapcsolása	#
 options.controller=Kontroller	#
 options.controllerLayout=Kontroller gombkiosztása	#
@@ -4613,6 +4728,7 @@ options.dev_useZippedInPackagePacks=Zipbe csomagolt csomagok használata	#
 options.dev_importPacksAsZip=Csomagok importálása zipként	#
 options.dev_folders_portSettingsFolder=Beállítások mappájának exportálása	#
 options.dev_useOverrideDate=Felülírás dátumának használata	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Dátum és idő mutatása	#
 options.dev_loadOverrideDate=Indításkor felülíró dátum betöltése	#
 options.dev.timeZoneType=Szerkesztő időzóna típusának felülírása	#
@@ -4627,6 +4743,16 @@ options.dev_overrideDayLength=Felülbírálás napi hossza percekben (legalább 
 options.dev_overrideTimeScale=Idő múlásának arányos sebessége (perc: 1, Alapértelmezett: 1)	#
 options.dev_updateOverrideDate=Felülírás dátumának frissítése	#
 options.dev_resetOverrideDate=Felülírt dátum visszaállítása	#
+=======
+options.dev_displayOverrideDatetime=Felülbírálási dátum és idő megjelenítése	#
+options.dev_saveCurrentOverrideDate=Aktuális dátum mentése a bezáráskor	#
+options.dev_overrideDateYear=Év	#
+options.dev_overrideDateMonth=Hónap	#
+options.dev_overrideDateDay=Nap	#
+options.dev_overrideDayLength=Felülbírálás napi hossza percekben (legalább 1)	#
+options.dev_overrideTimeScale=Idő múlásának arányos sebessége (perc: 1, Alapértelmezett: 1)	#
+options.dev_updateOverrideDate=Felülírás dátumának frissítése	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Áruház gyorsítótárának ürítése	#
 options.dev_clearAllCache=Minden gyorsítótár ürítése	#
 options.dev_connection_quality=Hálózati szimulátor (gyenge kapcsolatok szimulálása)	#
@@ -4636,6 +4762,7 @@ options.dev_connection_4g=4G – 15 Mbps, 100 ms késleltetés, 1% csomagveszté
 options.dev_connection_3g=3G – 1,5 Mbps, 200 ms késleltetés, 2% csomagvesztés	#
 options.dev_connection_slow=Lassú – 400 Kbps, 300 ms késleltetés, 3% csomagvesztés	#
 options.dev_connection_veryslow=Nagyon lassú – 200 Kbps, 400 ms késleltetés, 4% csomagvesztés	#
+<<<<<<< HEAD
 options.dev_identity_environment=Új identitási és online infrastruktúra környezet (újraindítást igényel)	#
 options.dev_identity_environment.dev=Fejlesztés	#
 options.dev_identity_environment.test=Tesztelés	#
@@ -4645,6 +4772,8 @@ options.dev.windowsStore.auto=Automatikus	#
 options.dev.windowsStore.v6=Korábbi Windows Store – V6	#
 options.dev.windowsStore.v8=OneStore – V8	#
 options.dev.stores=Jelenleg aktív üzletek:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Nehézség	#
 options.difficulty.easy=Könnyű	#
 options.difficulty.hard=Nehéz	#
@@ -4962,13 +5091,22 @@ pauseScreen.title=A játék szünetel	#
 pauseScreen.betaFeedback=Visszajelzés a bétáról	#
 pauseScreen.xboxLiveDisconnect=Nincs kapcsolat az Xbox Live-val. Játékos meghívásához nyisd meg újra a világot.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Visszajelzés	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Észrevételed lenne?	#
 feedbackScreen.suggestion=Küldj egy javaslatot!	#
 feedbackScreen.bug=Jelents be egy hibát!	#
 feedbackScreen.help=Segítségre lenne szükséged?	#
 feedbackScreen.body=Ötleted lenne a Minecraft továbbfejlesztésére? Találtál egy hibát, amit javítani kellene? Vagy olyan problémába ütköztél, amivel kapcsolatban segítségre lenne szükséged? Tudasd velünk!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Keresd fel ezt a honlapot egy másik eszközön. %s	#
+=======
+feedbackScreen.suggestionLink=Keresd fel ezt a honlapot egy másik eszközön. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Keresd fel ezt a honlapot egy másik eszközön. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Keresd fel ezt a honlapot egy másik eszközön. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Vissza	#
 hudScreen.tooltip.basic.flyDown=Repülés lefelé	#
@@ -5011,8 +5149,12 @@ hudScreen.tooltip.plant=Ültetés	#
 hudScreen.tooltip.dismount=Leszállás	#
 hudScreen.tooltip.collect=Begyűjtés	#
 hudScreen.tooltip.peel=Kéreghántoló	#
+<<<<<<< HEAD
 hudScreen.tooltip.scaffoldingDescend=(hosszan) ereszkedj	#
 hudScreen.tooltip.pick=Csákány	#
+=======
+hudScreen.tooltip.scaffoldingDescend=(hosszan) ereszkedés	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5196,11 @@ permissions.ability.doorsandswitches=Ajtók és kapcsolók használata	#
 permissions.ability.opencontainers=Tárolók kinyitása	#
 permissions.ability.attackplayers=Játékosok megtámadása	#
 permissions.ability.attackmobs=Mobok megtámadása	#
+<<<<<<< HEAD
 permissions.ability.op=Operátori parancsok	#
+=======
+permissions.ability.op=Operátor	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Láthatatlanná válás	#
 permissions.ability.teleport=Teleportálás	#
 permissions.NeedPermission=Engedély szükséges	#
@@ -5078,10 +5224,15 @@ permissions.level.operator=Operátor	#
 permissions.level.visitor=Látogató	#
 permissions.nocheats=A csalások ki vannak kapcsolva	#
 permissions.nocheats.message=Egyes parancsok, mint a teleportálás, csak bekapcsolt csalásokkal használhatók.  A csalások a Játékbeállítások szüneteltetési menüjében kapcsolhatók be.  Ha aktiválod a csalásokat, az Eredmények kikapcsolásra kerülnek ebben a világban.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Egyes parancsok, mint a teleportálás, csak bekapcsolt csalásokkal használhatók. A csalások a Játékbeállítások szüneteltetési menüjében kapcsolhatók be.	#
 permissions.nocheats.turnon=OP beállítása BEKAPCSOLT csalásokkal	#
 permissions.nocheats.turnoff=OP beállítása KIKAPCSOLT csalásokkal	#
 permissions.nocheats.cancel=Mégse	#
+=======
+permissions.nocheats.turnon=Csalások bekapcsolása	#
+permissions.nocheats.turnoff=Csalások kikapcsolva	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Megszünteted a kezelői jogosultságokat?	#
 permissions.deopingself.message=A jogosultsági szint csökkentésével nem lesz többé kezelői jogosultságod.	#
 permissions.title=Játékosengedélyek	#
@@ -5765,13 +5916,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Vásárolj Minecraft-érm�
 store.popup.purchasePriceMismatch.msg=Sajnáljuk, a vásárlás nem volt teljesíthető.  Kérjük, próbálkozz újra később.	#
 store.popup.trialUpgradeFail.title=Játékfeloldási hiba	#
 store.popup.trialUpgradeFail.msg=Úgy tűnik, nem azzal a Microsoft-fiókkal vagy bejelentkezve, amellyel a Minecraft-próbaverzió elsőként letöltésre került. Próbáld meg újra, miután bejelentkeztél az eredeti fiókkal.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Megvásárolod a világsablont?	#
 store.popup.downloaded.unOwnedTemplate.msg=Nincs meg neked ez a sablon, és meg kell vásárolnod a feloldáshoz. Szeretnéd megvásárolni ezt a sablont?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Megvásároltad: %s	#
 store.purchase.bundle=Feloldasz %d/%d csomagot?	#
 store.purchase.bundle.confirm=Oldd fel most!	#
 store.purchase.bundle.partiallyOwnedWarning=Csak, hogy tudd, már rendelkezel ezekkel a csomagokkal: %s. Szeretnéd feloldani a többi csomagot ebben a gyűjteményben?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Megvan	#
+=======
+store.purchase.bundle.owned=Nálad van:	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Kapni fogsz:	#
 store.createdBy=Alkotó: %s	#
 store.seeMoreBy=%s további alkotásainak megtekintése	#
@@ -6144,7 +6302,10 @@ tile.chalkboard.twoByOne.name=Hirdetőtábla	#
 tile.chalkboard.threeByTwo.name=Tábla	#
 tile.chest.name=Láda	#
 tile.ender_chest.name=Végzetláda	#
+<<<<<<< HEAD
 tile.jigsaw.name=Kirakósblokk	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Csapdaláda	#
 tile.shulkerBoxWhite.name=Fehér Shulker-doboz	#
 tile.shulkerBoxOrange.name=Narancssárga Shulker-doboz	#
@@ -6237,6 +6398,11 @@ tile.wool.white.name=Fehér gyapjú	#
 tile.wool.yellow.name=Sárga gyapjú	#
 tile.cobblestone_wall.mossy.name=Mohos kőfal	#
 tile.cobblestone_wall.normal.name=Kőfal 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Kőfal	#
+tile.cobblestone_wall.mossy_cobblestone.name=Mohos kőfal	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Gránitfal	#
 tile.cobblestone_wall.diorite.name=Dioritfal	#
 tile.cobblestone_wall.andesite.name=Andezitfal	#
@@ -6251,7 +6417,10 @@ tile.cobblestone_wall.red_sandstone.name=Vörös homokkő fal	#
 tile.cobblestone_wall.red_nether_brick.name=Vörös alvilági tégla fal	#
 tile.cocoa.name=Kakaó	#
 tile.command_block.name=Parancsblokk	#
+<<<<<<< HEAD
 tile.composter.name=Komposztáló	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Ismétlés típusú parancsblokk	#
 tile.chain_command_block.name=Lánc típusú parancsblokk	#
 tile.wheat.name=Búza	#
@@ -6334,6 +6503,7 @@ tile.lever.name=Kar	#
 tile.glowstone.name=Izzókő	#
 tile.lit_pumpkin.name=Töklámpás	#
 tile.lockedchest.name=Bezárt láda	#
+<<<<<<< HEAD
 tile.log.acacia.name=Akácrönk	#
 tile.log.big_oak.name=Sötéttölgy-rönk	#
 tile.log.birch.name=Nyírrönk	#
@@ -6351,6 +6521,25 @@ tile.monster_egg.crackedbrick.name=Fertőzött repedt kőtégla	#
 tile.monster_egg.mossybrick.name=Fertőzött mohos kőtégla	#
 tile.monster_egg.name=Fertőzött kő	#
 tile.monster_egg.stone.name=Fertőzött kő	#
+=======
+tile.log.acacia.name=Akáciafa	#
+tile.log.big_oak.name=Sötét tölgyfa	#
+tile.log.birch.name=Nyírfa	#
+tile.log.jungle.name=Trópusi fa	#
+tile.log.name=Fa	#
+tile.log.oak.name=Tölgyfa	#
+tile.log.spruce.name=Fenyőfa	#
+tile.magma.name=Magmablokk	#
+tile.melon_block.name=Dinnye	#
+tile.mob_spawner.name=Szörnyidéző	#
+tile.monster_egg.brick.name=Kőtégla ezüstmollyal	#
+tile.monster_egg.chiseledbrick.name=Vésett kőtégla ezüstmollyal	#
+tile.monster_egg.cobble.name=Zúzottkő ezüstmollyal	#
+tile.monster_egg.crackedbrick.name=Repedt kőtégla ezüstmollyal	#
+tile.monster_egg.mossybrick.name=Mohos kőtégla ezüstmollyal	#
+tile.monster_egg.name=Kő ezüstmollyal	#
+tile.monster_egg.stone.name=Kő ezüstmollyal	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Gomba	#
 tile.noteblock.name=Hangblokk	#
 tile.mycelium.name=Gombafonal	#
@@ -6501,7 +6690,10 @@ tile.stonebrick.mossy.name=Mohos kőtégla	#
 tile.stonebrick.name=Kőtégla	#
 tile.stonebrick.smooth.name=Sima kőtégla	#
 tile.stonecutter.name=Kőfaragó	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Kőfaragó	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Mohos zúzottkő	#
 tile.double_stone_slab.brick.name=Tégla lépcsőfok	#
 tile.double_stone_slab.cobble.name=Burkolatkő lépcsőfok	#
@@ -6516,10 +6708,18 @@ tile.stone_slab.name=Kő lépcsőfok	#
 tile.stone_slab.brick.name=Tégla lépcsőfok	#
 tile.stone_slab.cobble.name=Burkolatkő lépcsőfok	#
 tile.stone_slab.stone.name=Sima kő lépcsőfok	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Sima kő lépcsőfok	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Alvilági tégla lépcsőfok	#
 tile.stone_slab.quartz.name=Kvarc lépcsőfok	#
 tile.stone_slab.sand.name=Homokkő lépcsőfok	#
 tile.stone_slab.smoothStoneBrick.name=Kőtégla lépcsőfok	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Kő lépcsőfok	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Fa lépcsőfok	#
 tile.double_stone_slab2.red_sandstone.name=Vörös homokkő lépcsőfok	#
 tile.stone_slab2.red_sandstone.name=Vörös homokkő lépcsőfok	#
@@ -6695,12 +6895,21 @@ tile.concretePowder.magenta.name=Bíborvörös cementpor	#
 tile.concretePowder.orange.name=Narancssárga cementpor	#
 tile.concretePowder.white.name=Fehér cementpor	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Gyalult fenyőrönk	#
 tile.stripped_dark_oak_log.name=Gyalult sötéttölgy-rönk	#
 tile.stripped_birch_log.name=Gyalult nyírrönk	#
 tile.stripped_jungle_log.name=Gyalult trópusifa-rönk	#
 tile.stripped_oak_log.name=Gyalult tölgyrönk	#
 tile.stripped_acacia_log.name=Gyalult akácrönk	#
+=======
+tile.stripped_spruce_log.name=Gyalult fenyő	#
+tile.stripped_dark_oak_log.name=Gyalult sötét tölgy	#
+tile.stripped_birch_log.name=Gyalult nyír	#
+tile.stripped_jungle_log.name=Gyalult trópusi fa	#
+tile.stripped_oak_log.name=Gyalult tölgy	#
+tile.stripped_acacia_log.name=Gyalult akác	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambusz	#
 tile.scaffolding.name=Állványzat	#
@@ -6710,6 +6919,7 @@ tile.lantern.name=Lámpás	#
 tile.smoker.name=Füstölő	#
 tile.smithing_table.name=Kovács asztal	#
 tile.barrel.name=Hordó	#
+<<<<<<< HEAD
 tile.campfire.name=Tábortűz	#
 tile.loom.name=Szövőszék	#
 tile.lectern.name=Olvasópolc	#
@@ -6727,6 +6937,8 @@ tile.wood.stripped.birch.name=Gyalult nyírfa	#
 tile.wood.stripped.jungle.name=Gyalult trópusi fa	#
 tile.wood.stripped.acacia.name=Gyalult akáciafa	#
 tile.wood.stripped.dark_oak.name=Gyalult sötét tölgyfa	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Bájitalba áztatott nyíl	#
 tipped_arrow.effect.water=Bájitalba áztatott nyíl	#
@@ -6811,10 +7023,13 @@ translation.test.invalid2=Üdvözlünk, %  s	#
 translation.test.none=Helló, világ!	#
 translation.test.world=világ	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Nem sikerült konvertálni a világot	#
 worldConversionErrorPrompt.message=Hiba történt a világ konvertálása során. Próbálkozz később.	#
 worldConversionErrorPrompt.message.upload=Hiba történt, ezért nem sikerült konvertálni a világot. A világot később is elküldheted úgy, hogy belépsz a régi világba, és megnyomod az Y billentyűt. Vagy pedig most is elküldheted, hogy kivizsgáljuk a problémát.	#
@@ -6905,6 +7120,7 @@ trial.tabbed_upsell.addon.description=Szeretnéd, ha a farkasok úgy viselkedné
 trial.tabbed_upsell.seeds.title=MAGOK	#
 trial.tabbed_upsell.seeds.description=Oldd fel a teljes Minecraft-élményt, és hozzáférést kapsz a magokhoz! A magok segítenek új biomok felfedezésében – túlélni a jeges síkságokon, hihetetlen dombokat megmászni vagy átkelni sivatagokon. Kezdj bele egyedi sablonokkal, vagy fedezz fel új, véletlenszerű világokat! Hozzáférhetsz a magokhoz, a Kreatív és Többjátékos módhoz és még sok máshoz, ha megvásárlod a Minecraftot még ma!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Minecraft kezdőkollekció	#
 trial.master.collection.title=Minecraft Mestergyűjtemény	#
@@ -6938,6 +7154,8 @@ trial.collection.12.title=Gonosztevők felületcsomag	#
 trial.collection.12.description=Öltsd magadra Cake Maniac, Frankencrafter vagy más rémségek jelmezét!	#
 trial.includes=Tartalma:	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Zip-fájl	#
 verification.nolicense.title=Licenchiba	#
 verification.nolicense.description=Problémák adódtak annak igazolásával, hogy a te tulajdonodban van a Minecraft ezen az eszközön. Gondoskodj róla, hogy a Minecraft le legyen töltve az üzletből, és fel legyen telepítve a gépedre. Vagy egyszerűen csak csatlakoztasd ismét az internethez, és próbáld újra.	#
@@ -7188,6 +7406,7 @@ tips.edu.5=Ha azt szeretnéd, hogy a társaid csatlakozni tudjanak a világodhoz
 tips.edu.6=Ne feledd, hogy a perjeles parancsok használatához engedélyezni kell a csalásokat a világodban.	#
 tips.edu.7=Elkészült a műved? Tedd lehetővé, hogy mások is bejárják a világod: a Kaland mód használatával gondoskodhatsz az alkotásaid biztonságáról is.	#
 tips.edu.8=A Kódszerkesztő használatához nyomd le a C billentyűt a billentyűzeten, vagy érintsd meg az Agent ikont a képernyő tetején!	#
+<<<<<<< HEAD
 tips.edu.9=Használd a Könyvtárat, hogy új játékvilágokat találj!	#
 tips.edu.10=Egy konkrét biomot keresel? Próbáld ki a Könyvtárat.	#
 tips.edu.11=Az NJK a nem játékos karakter rövidítése.	#
@@ -7201,6 +7420,8 @@ tips.edu.18=A Beállítások menüben a Vezérlés alatt bekapcsolhatod az autom
 tips.edu.19=Kreatív módban nyomd meg gyorsan az ugrást kétszer a repüléshez.	#
 tips.edu.20=Válassz egy alapértelmezett játékmódot világ létrehozásakor, hogy meghatározd, milyen típusú játékélményt szeretnél.	#
 tips.edu.21=Használd a „/setworldspawn'' parancsot, hogy az új játékosok ott kezdjenek, ahol éppen állsz.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Használj tengerifüvet tengeri teknősök odacsalogatásához és tenyésztéséhez.	#
 tips.game.2=Védd meg a bébiteknősöket az ellenséges moboktól!	#
@@ -7263,8 +7484,11 @@ tips.game.56=Amikor egyenesen felfelé ásol, helyezz egy fáklyát a lábadhoz,
 splitscreen.joinPrompt=Csatlakozás a(z) %s. játékosként	#
 splitscreen.unavailable.toastHeader=Felosztott kép nem haszn.	#
 splitscreen.unavailable.toastMessage=Most nem csatlakozhat másik játékos.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=A Joy-Con nem csatlakoztatható!	#
 splitscreen.joyconError.toastMessage=Túl sok játékvezérlőd van már csatlakoztatva helyi hálózati módban ahhoz, hogy beszállhass ebbe a játékba.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Felhasználóváltás	#
 

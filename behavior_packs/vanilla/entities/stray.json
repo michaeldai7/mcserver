@@ -114,6 +114,7 @@
         "reselect_targets": true,
         "entity_types": [
           {
+<<<<<<< HEAD
             "filters": {
               "test": "is_family",
               "subject": "other",
@@ -127,6 +128,9 @@
               "subject": "other",
               "value": "irongolem"
             },
+=======
+            "filters": { "test": "is_family", "subject": "other", "value": "player" },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
             "max_dist": 16
           },
           {

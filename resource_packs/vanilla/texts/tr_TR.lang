@@ -130,7 +130,10 @@ action.interact.trade=Takas	#
 action.interact.armorstand.pose=Poz	#
 action.interact.armorstand.equip=Kullan	#
 action.interact.read=Oku	#
+<<<<<<< HEAD
 action.interact.wakevillager=Köylüyü Uyandır	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = tüm varlıklar	#
 advMode.allPlayers=@a = tüm oyuncular	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=tüm oyunculardan bahset	#
 chat.mute=Sessiz	#
 chat.realmsFilterDisabled=Bu Bölgenin sohbet filtresi kapalı.	#
 chat.settings=Sohbet Ayarları	#
+<<<<<<< HEAD
 chat.settings.chatColor=Sohbet Rengi	#
 chat.settings.color=Renk	#
 chat.settings.font=Yazı Tipi	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Satır Aralığı: x%s	#
 chat.settings.mentions=Bahsettiklerim	#
 chat.settings.muteAll=Tümü Sessiz	#
 chat.settings.typeface=Yazı biçimi	#
+=======
+chat.settings.defaultChatColor=Varsayılan Sohbet Rengi	#
+chat.settings.color=Renk	#
+chat.settings.font=Yazı Tipi	#
+chat.settings.fontColor=Yazı Tipi Rengi	#
+chat.settings.lineSpacing=Satır Aralığı: x%s	#
+chat.settings.mentions=Bahsettiklerim	#
+chat.settings.muteAll=Tümü Sessiz	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Tümü Sesli	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Sunucu	#
 commands.origin.teacher=Öğretmen	#
 commands.ops.description=Op izinlerini yeniden yükler ve uygular.	#
 commands.ops.reloaded=Op'lar dosyadan yeniden yüklendi.	#
+<<<<<<< HEAD
 commands.ops.set.success=Oyuncu %s için operatör düzeyi başarıyla ayarlandı.	#
 commands.permissions.description=İzinleri yeniden yükler ve uygular.	#
 command.permissions.list.fail.filenotfound=Dosyadan izinler listelenemedi. Dosya bulunamadı.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Oyuncu %s için izin düzeyi %s ayarlanamadı.	#
 commands.permissions.set.success=Oyuncu %s için izin düzeyi %s başarıyla ayarlandı.	#
 commands.permissions.save.failed=Oyuncu %s için izin düzeyi %s kaydedilemedi.	#
 commands.permissions.save.success=Oyuncu %s için izin düzeyi %s başarıyla kaydedildi.	#
+=======
+commands.permissions.description=İzinleri yeniden yükler ve uygular.	#
+commands.permissions.reloaded=İzinler dosyadan yeniden yüklendi.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Bir parçacık yayıcı oluşturur	#
 commands.particle.description=Parçacık oluşturur.	#
 commands.particle.notFound=Bilinmeyen efekt adı (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Kullanıcı %1$s engeli kaldırılamadı	#
 commands.unban.success=Oyuncu %1$s engeli kaldırıldı	#
 commands.unbanip.invalid=Geçersiz bir IP adresi girdiniz	#
 commands.unbanip.success=IP adresi %1$s engeli kaldırıldı	#
+<<<<<<< HEAD
 commands.videostream.description=Bir video akışı göndermek üzere websocket sunucusuna bağlanmayı dener.	#
 commands.videostreamaction.description=Video akışı ile ilgili bir eylem gerçekleştirir.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Hava durumu açık olarak değiştiriliyor	#
 commands.weather.description=Hava durumunu ayarlar.	#
 commands.weather.disabled=Bu düzeyde Hava Durumu Döngüsü etkin değildir.	#
@@ -981,13 +1002,19 @@ container.furnace=Ocak	#
 container.hopper=Eşya Hunisi	#
 container.inventory=Envanter	#
 container.isLocked=%s kilitli!	#
+<<<<<<< HEAD
 container.loom=Tezgah	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Maden arabası	#
 container.repair=Onar ve Adlandır	#
 container.repair.cost=XP Maliyeti: %1$d	#
 container.repair.expensive=Çok Pahalı!	#
 container.stonecutter=Taş Kesici	#
+<<<<<<< HEAD
 container.stonecutter_block=Taş Kesici	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Shulker Kutusu	#
 container.shulkerboxContains=ve %d tane daha...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Bütün malzemelere sahip değilsiniz	#
 crafting.insufficientLevel=Seviyeniz çok düşük	#
 crafting.noRecipesInventory=İnşa etmek için blok toplamanız gerekiyor!	#
 crafting.noRecipesStonecutter=İnşa etmek taş malzemelere ihtiyacınız var!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Eşya yapmak için taş malzemeler gerekli!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=İnşa etmek için blok toplamanız gerekiyor!	#
 
 createWorld.customize.custom.baseSize=Derinlik Taban Boyutu	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Oyuncu Güncelleştirmesi �
 disconnectionScreen.realmsWorldUnassigned=Geliştirme seçeneklerinden sürüm atayın.	#
 disconnectionScreen.realmsWorldUnassigned.title=Realm Atanmamış!	#
 disconnectionScreen.scriptNotSupported=Girmeye çalıştığınız dünya, cihazınızın betikleri çalıştırmasını gerektiriyor. Cihazınız şu anda betikleri desteklemediği için bu cihazdan katılamazsınız.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Betikler Desteklenmiyor	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Vay, bu sunucu popüler! Yer açılıp açılmadığını görmek için daha sonra yeniden kontrol edin.	#
 disconnectionScreen.serverFull.title=Sunucu Dolu	#
 disconnectionScreen.serverIdConflict=Dünyaya katılamazsınız. Oturum açmış olduğunuz hesap şu anda bu dünyada farklı bir cihazdan oynuyor.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Ghast	#
 entity.guardian.name=Muhafız	#
 entity.horse.name=At	#
 entity.husk.name=Kabuk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Serseri Köylü Canavar	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Demir Golem	#
 entity.item.name=Eşya	#
 entity.leash_knot.name=Kayış Düğümü	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Köylü	#
 entity.villager.shepherd=Çoban	#
 entity.villager.tool=Alet Yapımcısı	#
 entity.villager.weapon=Silâhtar	#
+<<<<<<< HEAD
 entity.villager.mason=Taş Ustası	#
 entity.villager.unskilled=Vasıfsız Köylü	#
 entity.villager_v2.name=Köylü	#
 entity.vindicator.name=Baltalı Köylü	#
 entity.wandering_trader.name=Gezgin Tüccar	#
+=======
+entity.vindicator.name=Baltalı Köylü	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Cadı	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Wither İskelet	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Zombi At	#
 entity.zombie_pigman.name=Zombi Domuz Adam	#
 entity.zombie_villager.name=Zombi Köylü	#
 
+<<<<<<< HEAD
 exports.share.file=%s paylaş	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Sunucu ekle	#
 addExternalServerScreen.nameTextBoxLabel=Sunucu Adı	#
 addExternalServerScreen.namePlaceholder=Lütfen sunucu adını girin	#
@@ -1974,7 +2018,10 @@ feature.village=Köy	#
 feature.shipwreck=Gemi Enkazı	#
 feature.buriedtreasure=Gömülü Hazine	#
 feature.ruins=Okyanus Harabeleri	#
+<<<<<<< HEAD
 feature.pillageroutpost=Yağmacı Karakolu	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Beğen	#
 feed.manage_feed=Haber akışını yönet	#
@@ -2052,6 +2099,7 @@ gameTip.findTree=Odun toplamak için bir ağaç bulun	#
 gameTip.breakWood.mouse=3 odun toplamak için sol tıklayıp basılı tutun	#
 gameTip.breakWood.touch=3 odun toplamak için dokunup basılı tutun	#
 gameTip.breakWood.controller=3 odun toplamak için sağ tetik düğmesini basılı tutun	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Eşyaları almak için üzerinden geçin	#
 gameTip.openInventory.keyboard=Envanterinizi açmak için E tuşuna basın	#
 gameTip.openInventory.touch=Envanterinizi açmak için ... düğmesine basın	#
@@ -2067,6 +2115,8 @@ gameTip.open.recipe=Daha fazla eşya yapmayı öğrenmek için tarif kitabını 
 gameTip.closeInventory.keyboard=Envanteri kapatmak için E tuşuna basın veya X simgesine tıklayın	#
 gameTip.closeInventory.touch=Envanteri kapatmak için X simgesine dokunun	#
 gameTip.closeInventory.controller=Envanteri kapatmak için B tuşuna basın	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=GÜÇLENDİRİLMİŞ	#
 generator.amplified.info=Dikkat: Yalnızca eğlence amaçlıdır, güçlü bir bilgisayar gerektirir	#
@@ -2090,7 +2140,10 @@ gui.cancel=İptal	#
 gui.clear=Temizle	#
 gui.close=Kapat	#
 gui.confirm=Kabul et	#
+<<<<<<< HEAD
 gui.custom=Özel	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Varsayılan	#
 gui.decline=Reddet	#
 gui.deleteWorldLong=Dünyayı Sil	#
@@ -2184,6 +2237,7 @@ howtoplay.armor.header.1=Eşya Yapma	#
 howtoplay.armor.text.2=Zırh; Deri, Demir, Altın veya Elmastan yapılabilir. Zincirli Zırh, köylü ticareti ile elde edilebilir ve zombiler ile iskeletlerden yağmalanabilir.	#
 howtoplay.armor.text.3=Envanterinizi açıp Zırh parçalarını oyuncu dış görünüşünün yanındaki uygun yuvaya taşıyarak Zırh giyebilirsiniz.	#
 howtoplay.armor.text.4=Demir, Zincir ve Altın Zırh bir Ocak üzerinde Demir veya Altın Parçası halinde eritilebilir.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Kalkan	#
 howtoplay.armor.text.5.keyboard=Kalkan gelen hasarı engeller. Kalkan kullanımda olmayanlar bölmesinden ve sık kullanılanlar çubuğundan giyilebilir. Kalkan ile engellemek için :_input_key.sneak: tuşunu basılı tutun.	#
 howtoplay.armor.text.5.gamepad=Kalkan gelen hasarı engeller. Kalkan kullanımda olmayanlar bölmesinden ve sık kullanılanlar çubuğundan giyilebilir. Kalkan ile engellemeyi açıp kapatmak için :_input_key.sneak: düğmesine basın veya :_gamepad_stick_right: düğmesine tıklayın.	#
@@ -2193,6 +2247,10 @@ howtoplay.armor.text.5.windowsmr_controller=Kalkan gelen hasarı engeller. Kalka
 howtoplay.armor.text.6=Kalkan bir Creeper patlamasını bile engelleyebilir!	#
 howtoplay.armor.header.3=Kılık Değiştir	#
 howtoplay.armor.text.7=Ayrıca kafanıza bir Balkabağı geçirebilirsiniz. Bunun yapılması size herhangi bir :armor: kazandırmaz, ancak Endermen'e baktığınızda onu kızdırmazsınız.	#
+=======
+howtoplay.armor.header.2=Kılık Değiştir	#
+howtoplay.armor.text.5=Ayrıca kafanıza bir Balkabağı geçirebilirsiniz. Bunun yapılması size herhangi bir :armor: kazandırmaz, ancak Endermen'e baktığınızda onu kızdırmazsınız.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Zırh Askısı	#
 howtoplay.armorStand.title=Nasıl Oynanır: Zırh Askısı	#
@@ -2211,7 +2269,11 @@ howtoplay.armorStand.text.5=Zırh Askıları bir Redstone sinyaline tepki verir;
 howtoplay.banners=Flamalar	#
 howtoplay.banners.title=Nasıl Oynanır: Flamalar	#
 howtoplay.banners.text.1=Flamalar, evinizi veya kalenizi özel desen ve renklerle süslemenin güzel bir yoludur.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Bir Flama oluşturduktan sonra onu Eşya Yapma Masasına veya Tezgaha koyup farklı renklere boyayarak kendi özel ve şık tasarımınızı oluşturabilirsiniz!	#
+=======
+howtoplay.banners.text.2=Bir Flama oluşturduktan sonra onu eşya yapma masasına koyup farklı renklere boyayarak kendi özel ve şık tasarımınızı oluşturabilirsiniz!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Desen Uygulama	#
 howtoplay.banners.text.3=Boyanızla birçok farklı desen oluşturabilirsiniz, örneğin:	#
 howtoplay.banners.text.4=  - Üçgen oluşturduğunuzda zikzak deseni elde edersiniz.	#
@@ -2511,6 +2573,7 @@ howtoplay.droppers.text.2=Bırakıcı bir Sandık veya başka bir kap türüne d
 howtoplay.dyes=Boyalar	#
 howtoplay.dyes.title=Nasıl Oynanır: Boyalar	#
 howtoplay.dyes.text.1=Boya, Minecraft'ta birçok şeyin rengini değiştirmek için kullanılır.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Bazı boya malzemelerini bulmak daha zordur. Gelincikten elde edilen Kırmızı Boya gibi birçok Boya çiçeklerden elde edilebilirken bazı Boyalar daha belirsiz yöntemlerle bulunur veya oluşturulur. Örneğin: 	#
 howtoplay.dyes.text.3=-Yeraltı derinliklerinden Lacivert Taş çıkarma	#
 howtoplay.dyes.text.4=-Su altından Mürekkep Keseleri toplama	#
@@ -2518,6 +2581,14 @@ howtoplay.dyes.text.5=-Büyük Orman'dan Kakao Çekirdekleri toplama	#
 howtoplay.dyes.text.6=-Yeşil Boya, Kaktüs eritilerek elde edilmelidir	#
 howtoplay.dyes.text.7=-Kemik Gübresi bitki ve ağaçların büyümesine yardımcı olabilir veya Beyaz Boya yapabilir	#
 howtoplay.dyes.text.8=-Siyah Boya için Mürekkepbalıklarından Mürekkep Keseleri toplayın	#
+=======
+howtoplay.dyes.text.2=Belirli boyaları hazırlamaya yarayan doğal malzemelerin bazılarını bulabilmek için bir süre keşif yapmanız gerekebilir. Gelincikten elde edilen Gül Kırmızısı gibi çoğu Boya çiçeklerle hazırlanabilse de, bazı Boyalar daha belirsiz yöntemlerle bulunur veya oluşturulur: 	#
+howtoplay.dyes.text.3=-Yeraltı derinliklerinden Lacivert Taş çıkarma	#
+howtoplay.dyes.text.4=-Su altından Mürekkep Keseleri toplama	#
+howtoplay.dyes.text.5=-Büyük Orman'dan Kakao Çekirdekleri toplama	#
+howtoplay.dyes.text.6=-Kaktüs Yeşili, Kaktüs eritilerek elde edilmelidir	#
+howtoplay.dyes.text.7=-Kemik Gübresi ise bitki ve ağaçların büyümesine yardımcı olabilir veya beyaz boya olarak kullanılabilir	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Elytra	#
 howtoplay.elytra.title=Nasıl Oynanır: Elytra	#
@@ -2706,6 +2777,7 @@ howtoplay.jukebox.header.3=Müzik Disklerini Bulma	#
 howtoplay.jukebox.text.7=Dünyanın farklı yerlerindeki Sandıklarda bulunabilecek birkaç Müzik Diski vardır.	#
 howtoplay.jukebox.text.8=Bazılarıyla karşılaşmak daha zordur; Creeper'lar müziği içten içe sever.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Tezgah	#
 howtoplay.loom.title=Nasıl Oynanır: Tezgah	#
 howtoplay.loom.text.1=Tezgah, Flamalara desen eklemenin hızlı ve verimli bir yoludur. Tezgah bir desen uygulamak için yalnızca bir Boya kullanır. Ayrıca özel desenler uygulamak için Tezgah desenleri kullanabilir.	#
@@ -2715,6 +2787,8 @@ howtoplay.loom.text.3=Bir Flamada birçok farklı flama olasılığını denemen
 howtoplay.loom.header.2=Tezgah Desenleri 	#
 howtoplay.loom.text.4=Bir Tezgah Deseni Tezgahın üçüncü bölmesine eklenerek creeper yüzü veya çiçek deseni gibi özel desenler oluşturulabilir. Bu desenleri Flamalarınıza uyguladığınızda Tezgah Desenlerini kaybetmezsiniz.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Binek Hayvanlar	#
 howtoplay.mounts.title=Nasıl Oynanır: Binek Hayvanlar	#
 howtoplay.mounts.text.1=Oyuncu herhangi bir yetişkin At, Eşek veya Katıra binebilir. Yalnızca Atlara zırh giydirilebilir.	#
@@ -2912,6 +2986,10 @@ howtoplay.transportation.text.5.keyboard=Binmek için Tekneye bakarken :_input_k
 howtoplay.transportation.text.5.gamepad=Binmek için Tekneye bakarken :_input_key.use: düğmesine basın. Dönmek için :_gamepad_stick_left: çubuğunu sola veya sağa itin. İleri doğru sürmek için :_gamepad_stick_left: çubuğunu ileri doğru itin. İnmek için :_input_key.jump: veya :_input_key.sneak: düğmesine basın.	#
 howtoplay.transportation.text.5.touch=Binmek için Teknenin yakınındayken Tekneye bin düğmesine dokunun. Sola veya sağa dönmek için :_input_key.left: ya da :_input_key.right: düğmesine basın. İleri doğru sürmek için her iki düğmeye birden basın. İnmek için Tekneden İn düğmesine dokunun.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Silahlar	#
 howtoplay.weapons.title=Nasıl Oynanır: Silahlar	#
 howtoplay.weapons.header.1=Kılıç	#
@@ -2922,6 +3000,7 @@ howtoplay.weapons.header.2=Yay	#
 howtoplay.weapons.text.3.notTouch=Minecraft'ta Yay, en önemli menzilli silahtır. Yayı çekmek için :_input_key.use: düğmesini basılı tutun. Ok atmak için :_input_key.use: düğmesini bırakın. Yayı kullanmak için ok gerekir. 	#
 howtoplay.weapons.text.3.touch=Minecraft'ta Yay, en önemli menzilli silahtır. Yayı çekmek için Ekranı basılı tutun. Ok atmak için ekranı bırakın. Yayı kullanmak için ok gerekir.	#
 howtoplay.weapons.text.4=Yayın fazla çekilmesi verdiği hasarı artırır; tamamen çektiğinizden emin olun.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Yaylı Tüfek	#
 howtoplay.weapons.text.5.notTouch=Yaylı Tüfek değişken menzilli bir silahtır. Yaylı tüfeği yüklemek için :_input_key.use: tuşunu basılı tutun. Yaylı Tüfek yüklendikten sonra ateşlenene kadar yüklenmiş olarak kalır. Bir ok fırlatmak için :_input_key.use: tuşuna basın. Yaylı Tüfeğin yüklenmesi için oklar gerekir.	#
 howtoplay.weapons.text.5.touch=Yaylı Tüfek değişken menzilli bir silahtır. Yaylı tüfeği yüklemek için ekranı basılı tutun. Yaylı Tüfek yüklendikten sonra, envanterinize koysanız bile ateşlenene kadar yüklenmiş olarak kalır. Bir ok fırlatmak için ekranı basılı tutun. Yaylı Tüfeğin yüklenmesi için oklar gerekir.	#
@@ -2930,6 +3009,13 @@ howtoplay.weapons.text.6.notTouch=Üç Uçlu Mızrak, iki amaçlı bir yakın d�
 howtoplay.weapons.text.6.touch=Üç Uçlu Mızrak, iki amaçlı bir yakın dövüş silahı ve menzilli silahtır. Saldırmak için yaratıklara dokunun. Üç uçlu mızrağı geri çekmek için ekranı basılı tutun. Üç uçlu mızrağı fırlatmak için ekranı bırakın. Üç Uçlu Mızrak, sualtındaki en iyi silahtır.	#
 howtoplay.weapons.header.5=Büyülü Silahlar	#
 howtoplay.weapons.text.7=Kılıç, Yay, Yaylı Tüfek ve Üç Uçlu Mızrak için Büyü Masasından veya Örsten, hasarı ve dayanıklılığı artıran ve hatta yaratıkları ateşe veren özel büyüler elde edebilirsiniz!	#
+=======
+howtoplay.weapons.header.3=Büyülü Silahlar	#
+howtoplay.weapons.text.5=Kılıç, Yay ve Üç Uçlu Mızrak için Büyü Masasından veya Örsten, hasarı ve dayanıklılığı artıran ve hatta yaratıkları ateşe veren özel büyüler elde edebilirsiniz!	#
+howtoplay.weapons.header.trident=Üç Uçlu Mızrak	#
+howtoplay.weapons.text.trident.notTouch=Üç Uçlu Mızrak, iki amaçlı bir yakın dövüş silahı ve menzilli silahtır. Saldırmak için :_input_key.attack: düğmesine basın. Üç uçlu mızrağı geri çekmek için :_input_key.use: düğmesini basılı tutun. Üç uçlu mızrağı fırlatmak için :_input_key.use: düğmesini bırakın. Üç Uçlu Mızrak, sualtındaki en iyi silahtır.	#
+howtoplay.weapons.text.trident.touch=Üç Uçlu Mızrak, iki amaçlı bir yakın dövüş silahı ve menzilli silahtır. Saldırmak için yaratıklara dokunun. Üç uçlu mızrağı geri çekmek için ekranı basılı tutun. Üç uçlu mızrağı fırlatmak için ekranı bırakın. Üç Uçlu Mızrak, sualtındaki en iyi silahtır.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Yenilikler	#
 
@@ -3874,13 +3960,19 @@ item.spawn_egg.entity.sheep.name=Oluştur: Koyun	#
 item.spawn_egg.entity.npc.name=Oluştur: NPC	#
 item.spawn_egg.entity.wolf.name=Oluştur: Kurt	#
 item.spawn_egg.entity.villager.name=Oluştur: Köylü	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Oluştur: Köylü	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Oluştur: Baltalı Köylü	#
 item.spawn_egg.entity.mooshroom.name=Oluştur: Mooshroom	#
 item.spawn_egg.entity.squid.name=Oluştur: Mürekkepbalığı	#
 item.spawn_egg.entity.rabbit.name=Oluştur: Tavşan	#
 item.spawn_egg.entity.bat.name=Oluştur: Yarasa	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Oluştur: Serseri Köylü Canavar	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Oluştur: Demir Golem	#
 item.spawn_egg.entity.snow_golem.name=Oluştur: Kardan Golem	#
 item.spawn_egg.entity.ocelot.name=Oluştur: Vahşi Kedi	#
@@ -3906,7 +3998,10 @@ item.spawn_egg.entity.ghast.name=Oluştur: Ghast	#
 item.spawn_egg.entity.magma_cube.name=Oluştur: Magma Küpü	#
 item.spawn_egg.entity.blaze.name=Oluştur: Blaze	#
 item.spawn_egg.entity.zombie_villager.name=Oluştur: Zombi Köylü	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Oluştur: Zombi Köylü	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Oluştur: Cadı	#
 item.spawn_egg.entity.stray.name=Oluştur: Avare	#
 item.spawn_egg.entity.husk.name=Oluştur: Kabuk	#
@@ -3923,7 +4018,10 @@ item.spawn_egg.entity.phantom.name=Oluştur: Fantom	#
 item.spawn_egg.entity.panda.name=Oluştur: Panda	#
 item.spawn_egg.entity.pillager.name=Oluştur: Yağmacı	#
 item.spawn_egg.entity.unknown.name=Oluştur:	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Oluştur: Gezgin Tüccar	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Üç Uçlu Mızrak	#
 item.mushroom_stew.name=Mantar Yemeği	#
 item.muttonCooked.name=Pişmiş Koyun Eti	#
@@ -4016,12 +4114,16 @@ item.wheat.name=Buğday	#
 item.writable_book.name=Kitap ve Tüy	#
 item.written_book.name=Yazılı Kitap	#
 item.glowstone_dust.name=Işık Taşı Tozu	#
+<<<<<<< HEAD
 item.shield.name=Kalkan	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Shulker Kabuğu	#
 item.totem.name=Ölümsüzlük Totemi	#
 item.turtle_helmet.name=Kaplumbağa Kabuğu	#
 item.turtle_shell_piece.name=Sırt Pulu	#
 item.phantom_membrane.name=Fantom Zarı	#
+<<<<<<< HEAD
 item.sweet_berries.name=Tatlı Meyveler	#
 item.banner_pattern.bricks=Tuğla Deseni	#
 item.banner_pattern.creeper=Creeper Şekli	#
@@ -4030,6 +4132,8 @@ item.banner_pattern.name=Flama Deseni	#
 item.banner_pattern.skull=Kurukafa Şekli	#
 item.banner_pattern.thing=Şey	#
 item.banner_pattern.vines=Girintili Bordür	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Eşya Ara	#
 itemGroup.name.planks=Kalaslar	#
@@ -4064,7 +4168,11 @@ itemGroup.name.rawFood=Çiğ Yemek	#
 itemGroup.name.cookedFood=Pişmiş Yemek	#
 itemGroup.name.miscFood=Çeşitli Yiyecekler	#
 itemGroup.name.mushroom=Mantarlar	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Bulaşmış Taş	#
+=======
+itemGroup.name.monsterStoneEgg=Canavar Taş Yumurtaları	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Yaratık Yumurtaları	#
 itemGroup.name.helmet=Miğferler	#
 itemGroup.name.chestplate=Göğüs zırhları	#
@@ -4100,8 +4208,11 @@ itemGroup.name.coral=Mercan Blokları	#
 itemGroup.name.coral_decorations=Mercan Süslemeleri	#
 itemGroup.name.buttons=Düğmeler	#
 itemGroup.name.sign=Tabelalar	#
+<<<<<<< HEAD
 itemGroup.name.wood=Odunlar	#
 itemGroup.name.banner_pattern=Flama Desenleri	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Saldır/Yok Et	#
 key.back=Geri Geri Yürü	#
@@ -4523,7 +4634,11 @@ options.chat.visibility.hidden=Gizli	#
 options.chat.visibility.system=Yalnızca Komutlar	#
 options.chat.width=Genişlik	#
 options.codeBuilder=Kod Oluşturucusu	#
+<<<<<<< HEAD
 options.content_log_file=İçerik Günlüğü Dosyasını Etkinleştir	#
+=======
+options.content_log=İçerik Günlüğünü Etkinleştir	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=İçerik Günlüğü GUI'sini Etkinleştir	#
 options.controller=Kumanda	#
 options.controllerLayout=Kumanda Tasarımı	#
@@ -4613,6 +4728,7 @@ options.dev_useZippedInPackagePacks=Paket İçine Sıkıştırılmış Paketleri
 options.dev_importPacksAsZip=Paketleri Zip Olarak Al	#
 options.dev_folders_portSettingsFolder=Ayarlar Klasörünü Dışarı Aktar	#
 options.dev_useOverrideDate=Geçersiz Kılma Tarihini Kullan	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Tarih ve Saati Göster	#
 options.dev_loadOverrideDate=Başlangıçta Geçersiz Kılma Tarihini Yükle	#
 options.dev.timeZoneType=Geçersiz Kılma Düzenleyicisi Saat Dilimi Türü	#
@@ -4627,6 +4743,16 @@ options.dev_overrideDayLength=Dakika Cinsinden Geçersiz Kılma Gün Uzunluğu (
 options.dev_overrideTimeScale=Sürenin Geçtiği Hızı Ölçeklendir (Min: 1, Varsayılan: 1)	#
 options.dev_updateOverrideDate=Geçersiz Kılma Tarihini Güncelle	#
 options.dev_resetOverrideDate=Geçersiz Kılma Tarihini Sıfırla	#
+=======
+options.dev_displayOverrideDatetime=Geçersiz Kılma Tarih ve Saatini Göster	#
+options.dev_saveCurrentOverrideDate=Kapatıldığında Geçerli Tarihi Kaydet	#
+options.dev_overrideDateYear=Yıl	#
+options.dev_overrideDateMonth=Ay	#
+options.dev_overrideDateDay=Gün	#
+options.dev_overrideDayLength=Dakika Cinsinden Geçersiz Kılma Gün Uzunluğu (En Az: 1)	#
+options.dev_overrideTimeScale=Sürenin Geçtiği Hızı Ölçeklendir (Min: 1, Varsayılan: 1)	#
+options.dev_updateOverrideDate=Geçersiz Kılma Tarihini Güncelle	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Depolama Önbelleğini Temizle	#
 options.dev_clearAllCache=Tüm Önbelleği Temizle	#
 options.dev_connection_quality=Ağ koşullandırıcı (hatalı bağlantıları benzet)	#
@@ -4636,6 +4762,7 @@ options.dev_connection_4g=4G - 15 Mb/sn, 100 ms gecikme, %1 paket kaybı	#
 options.dev_connection_3g=3G - 1,5 Mb/sn, 200 ms gecikme, %2 paket kaybı	#
 options.dev_connection_slow=Yavaş - 400 Kb/sn, 300 ms gecikme, %3 paket kaybı	#
 options.dev_connection_veryslow=Çok yavaş - 200 Kb/sn, 400 ms gecikme, %4 paket kaybı	#
+<<<<<<< HEAD
 options.dev_identity_environment=Yeni Kimlik ve Çevrimiçi Altyapı Ortamı (yeniden başlatma gerekli)	#
 options.dev_identity_environment.dev=Geliştirme	#
 options.dev_identity_environment.test=Test	#
@@ -4645,6 +4772,8 @@ options.dev.windowsStore.auto=Otomatik	#
 options.dev.windowsStore.v6=Eski Windows Store - V6	#
 options.dev.windowsStore.v8=OneStore - V8	#
 options.dev.stores=Şu Anda Etkin Mağazalar:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Zorluk	#
 options.difficulty.easy=Kolay	#
 options.difficulty.hard=Zor	#
@@ -4962,13 +5091,22 @@ pauseScreen.title=Oyun Durduruldu	#
 pauseScreen.betaFeedback=Beta Geri Bildirim	#
 pauseScreen.xboxLiveDisconnect=Ah! Xbox Live bağlantınız kesildi. Daha fazla oyuncu davet etmek için dünyanızı yeniden açın.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Geri Bildirim	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Geri Bildiriminiz mi var?	#
 feedbackScreen.suggestion=Öneride bulunun!	#
 feedbackScreen.bug=Hata bildirin!	#
 feedbackScreen.help=Yardım mı gerekiyor?	#
 feedbackScreen.body=Minecraft'ı iyileştirmek için bir fikriniz mi var? Düzeltilmesini istediğiniz bir hata mı buldunuz? Ya da yardım gerektiren bir sorunla mı karşılaştınız? Bize bildirin!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Bu web sitesini başka bir cihazdan ziyaret edin. %s	#
+=======
+feedbackScreen.suggestionLink=Bu web sitesini başka bir cihazdan ziyaret edin. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Bu web sitesini başka bir cihazdan ziyaret edin. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Bu web sitesini başka bir cihazdan ziyaret edin. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Geri	#
 hudScreen.tooltip.basic.flyDown=Aşağı Uç	#
@@ -5012,7 +5150,10 @@ hudScreen.tooltip.dismount=İn	#
 hudScreen.tooltip.collect=Topla	#
 hudScreen.tooltip.peel=Kabuk Soy	#
 hudScreen.tooltip.scaffoldingDescend=İnmek için Tut	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Seç	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5195,11 @@ permissions.ability.doorsandswitches=Kapı ve anahtarları kullanma	#
 permissions.ability.opencontainers=Kutuları açma	#
 permissions.ability.attackplayers=Oyunculara saldırma	#
 permissions.ability.attackmobs=Yaratıklara saldırma	#
+<<<<<<< HEAD
 permissions.ability.op=Operatör Komutları	#
+=======
+permissions.ability.op=Operatör	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Görünmez olma	#
 permissions.ability.teleport=Işınlama Kullan	#
 permissions.NeedPermission=İzin Gerekli	#
@@ -5078,10 +5223,15 @@ permissions.level.operator=Operatör	#
 permissions.level.visitor=Ziyaretçi	#
 permissions.nocheats=Hileler Kapalı	#
 permissions.nocheats.message=Işınlama gibi bazı komutlar yalnızca hileler AÇIK durumdayken kullanılabilir. Hileler duraklatma menüsünde Oyun Ayarları altından da açılabilir. Hileleri etkinleştirmeyi seçerseniz bu dünyada başarılar devre dışı bırakılır.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Işınlama gibi bazı komutlar yalnızca hileler AÇIK durumdayken kullanılabilir. Hileler duraklatma menüsünde Oyun Ayarları altından da açılabilir.	#
 permissions.nocheats.turnon=Hileler AÇIK iken OP ayarla	#
 permissions.nocheats.turnoff=Hileler KAPALI iken OP ayarla	#
 permissions.nocheats.cancel=İptal	#
+=======
+permissions.nocheats.turnon=Hileleri aç	#
+permissions.nocheats.turnoff=Hileleri kapalı tut	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Operatör İzinleri Kaldırılsın mı?	#
 permissions.deopingself.message=İzin düzeyinizi azaltırsanız Operatör düzeyinde izinleriniz olmayacak.	#
 permissions.title=Oyuncu İzinleri	#
@@ -5765,13 +5915,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Para Al	#
 store.popup.purchasePriceMismatch.msg=Ne yazık ki satın alma işleminiz tamamlanamadı. Lütfen daha sonra tekrar deneyin.	#
 store.popup.trialUpgradeFail.title=Oyun Kilidi Açma Hatası	#
 store.popup.trialUpgradeFail.msg=Görünüşe göre Minecraft Deneme sürümünü ilk kez indiren Microsoft Hesabından farklı bir hesapla oturum açtınız. İlk hesapla oturum açtıktan sonra tekrar deneyin.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Dünya Şablonu Satın Alınsın mı?	#
 store.popup.downloaded.unOwnedTemplate.msg=Bu şablona sahip değilsiniz ve kilidini açmak için satın almanız gerekiyor. Şablonu satın almak ister misiniz?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Az önce şunu satın aldınız: %s	#
 store.purchase.bundle=%d/%d Paketin kilidi açılsın mı?	#
 store.purchase.bundle.confirm=Şimdi kilidi aç!	#
 store.purchase.bundle.partiallyOwnedWarning=Bildiğiniz gibi şu paketlere zaten sahipsiniz: %s. Bu paket grubundaki diğer paketlerin kilidini açmak ister misiniz?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Alındı	#
+=======
+store.purchase.bundle.owned=Sahip olduklarınız	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Alacaklarınız	#
 store.createdBy=%s ile	#
 store.seeMoreBy=Diğer %s ürünlerini gör	#
@@ -6144,7 +6301,10 @@ tile.chalkboard.twoByOne.name=Poster	#
 tile.chalkboard.threeByTwo.name=Tekneye Bin	#
 tile.chest.name=Sandık	#
 tile.ender_chest.name=Ender Sandığı	#
+<<<<<<< HEAD
 tile.jigsaw.name=Yapboz Blok	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Tuzaklı Sandık	#
 tile.shulkerBoxWhite.name=Beyaz Shulker Kutusu	#
 tile.shulkerBoxOrange.name=Turuncu Shulker Kutusu	#
@@ -6237,6 +6397,11 @@ tile.wool.white.name=Beyaz Yün	#
 tile.wool.yellow.name=Sarı Yün	#
 tile.cobblestone_wall.mossy.name=Yosunlu Kırık Taş Duvarı	#
 tile.cobblestone_wall.normal.name=Kırık Taş Duvarı	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Kırık Taş Duvarı	#
+tile.cobblestone_wall.mossy_cobblestone.name=Yosunlu Kırık Taş Duvarı	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Granit Duvar	#
 tile.cobblestone_wall.diorite.name=Diorit Duvar	#
 tile.cobblestone_wall.andesite.name=Andezit Duvar	#
@@ -6251,7 +6416,10 @@ tile.cobblestone_wall.red_sandstone.name=Kırmızı Kumtaşı Duvar	#
 tile.cobblestone_wall.red_nether_brick.name=Kırmızı Nether Tuğla Duvar	#
 tile.cocoa.name=Kakao	#
 tile.command_block.name=Komut Bloku	#
+<<<<<<< HEAD
 tile.composter.name=Gübreleyici	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Komut Bloku yineleniyor	#
 tile.chain_command_block.name=Zincir Komut Bloku	#
 tile.wheat.name=Ekinler	#
@@ -6283,7 +6451,11 @@ tile.enchanting_table.name=Büyü Masası	#
 tile.enderChest.name=Ender Sandığı	#
 tile.end_portal_frame.name=End Portalı	#
 tile.farmland.name=Ekilebilir Arazi	#
+<<<<<<< HEAD
 tile.fletching_table.name=Okçuluk Masası	#
+=======
+tile.fletching_table.name=Fletch Masası	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.fence.name=Meşe Çit	#
 tile.fence_gate.name=Meşe Çit Kapısı	#
 tile.iron_bars.name=Demir Çubuklar	#
@@ -6334,6 +6506,7 @@ tile.lever.name=Şalter	#
 tile.glowstone.name=Işık Taşı	#
 tile.lit_pumpkin.name=Kabak Lamba	#
 tile.lockedchest.name=Kilitli Sandık	#
+<<<<<<< HEAD
 tile.log.acacia.name=Akasya Kütüğü	#
 tile.log.big_oak.name=Koyu Meşe Kütüğü	#
 tile.log.birch.name=Huş Ağacı Kütüğü	#
@@ -6351,6 +6524,25 @@ tile.monster_egg.crackedbrick.name=Bulaşmış Çatlak Taş Tuğla	#
 tile.monster_egg.mossybrick.name=Bulaşmış Yosunlu Taş Tuğla	#
 tile.monster_egg.name=Bulaşmış Taş	#
 tile.monster_egg.stone.name=Bulaşmış Taş	#
+=======
+tile.log.acacia.name=Akasya Odunu	#
+tile.log.big_oak.name=Koyu Meşe Odunu	#
+tile.log.birch.name=Huş Ağacı Odunu	#
+tile.log.jungle.name=Büyük Orman Odunu	#
+tile.log.name=Odun	#
+tile.log.oak.name=Meşe Odunu	#
+tile.log.spruce.name=Çam Odunu	#
+tile.magma.name=Magma Bloğu	#
+tile.melon_block.name=Karpuz	#
+tile.mob_spawner.name=Canavar Yaratıcısı	#
+tile.monster_egg.brick.name=Taş Tuğla Gümüşçün Bloğu	#
+tile.monster_egg.chiseledbrick.name=Keskin Taş Tuğla Gümüşçün Bloğu	#
+tile.monster_egg.cobble.name=Kırık Taş Gümüşcün Bloğu	#
+tile.monster_egg.crackedbrick.name=Kırık Taş Tuğla Gümüşçün Bloğu	#
+tile.monster_egg.mossybrick.name=Yosunlu Taş Tuğla Gümüşçün Bloğu	#
+tile.monster_egg.name=Taş Gümüşçün Bloğu	#
+tile.monster_egg.stone.name=Taş Gümüşçün Bloğu	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Mantar	#
 tile.noteblock.name=Nota Bloğu	#
 tile.mycelium.name=Miselyum	#
@@ -6501,7 +6693,10 @@ tile.stonebrick.mossy.name=Yosunlu Taş Tuğla	#
 tile.stonebrick.name=Taş Tuğla	#
 tile.stonebrick.smooth.name=Pürüzsüz Taş Tuğla	#
 tile.stonecutter.name=Taş Kesici	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Taş Kesici	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Yosunlu Kırık Taş	#
 tile.double_stone_slab.brick.name=Tuğla Basamak	#
 tile.double_stone_slab.cobble.name=Kırık Taş Basamak	#
@@ -6516,10 +6711,18 @@ tile.stone_slab.name=Taş Basamak	#
 tile.stone_slab.brick.name=Tuğla Basamak	#
 tile.stone_slab.cobble.name=Kırık Taş Basamak	#
 tile.stone_slab.stone.name=Pürüzsüz Taş Basamak	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Pürüzsüz Taş Basamak	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Nether Tuğlası Basamağı	#
 tile.stone_slab.quartz.name=Kuvars Basamağı	#
 tile.stone_slab.sand.name=Kumtaşı Basamak	#
 tile.stone_slab.smoothStoneBrick.name=Taş Tuğla Basamak	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Taş Basamak	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Tahta Basamak	#
 tile.double_stone_slab2.red_sandstone.name=Kırmızı Kumtaşı Basamak	#
 tile.stone_slab2.red_sandstone.name=Kırmızı Kumtaşı Basamak	#
@@ -6695,6 +6898,7 @@ tile.concretePowder.magenta.name=Eflatun Beton Tozu	#
 tile.concretePowder.orange.name=Turuncu Beton Tozu	#
 tile.concretePowder.white.name=Beyaz Beton Tozu	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Soyulmuş Çam Kütüğü	#
 tile.stripped_dark_oak_log.name=Soyulmuş Koyu Meşe Kütüğü	#
 tile.stripped_birch_log.name=Soyulmuş Huş Ağacı Kütüğü	#
@@ -6705,11 +6909,24 @@ tile.stripped_acacia_log.name=Soyulmuş Akasya Kütüğü	#
 tile.bamboo.name=Bambu	#
 tile.scaffolding.name=İskele	#
 tile.grindstone.name=Bileği Taşı	#
+=======
+tile.stripped_spruce_log.name=Soyulmuş Çam Odunu	#
+tile.stripped_dark_oak_log.name=Soyulmuş Koyu Meşe Odunu	#
+tile.stripped_birch_log.name=Soyulmuş Huş Ağacı Odunu	#
+tile.stripped_jungle_log.name=Soyulmuş Büyük Orman Odunu	#
+tile.stripped_oak_log.name=Soyulmuş Meşe Odunu	#
+tile.stripped_acacia_log.name=Soyulmuş Akasya Odunu	#
+
+tile.bamboo.name=Bambu	#
+tile.scaffolding.name=İskele	#
+tile.grindstone.name=Değirmen Taşı	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cartography_table.name=Haritacılık Masası	#
 tile.lantern.name=Fener	#
 tile.smoker.name=Körük	#
 tile.smithing_table.name=Nalbant Masası	#
 tile.barrel.name=Fıçı	#
+<<<<<<< HEAD
 tile.campfire.name=Kamp Ateşi	#
 tile.loom.name=Tezgah	#
 tile.lectern.name=Kürsü	#
@@ -6727,6 +6944,8 @@ tile.wood.stripped.birch.name=Soyulmuş Huş Ağacı Odunu	#
 tile.wood.stripped.jungle.name=Soyulmuş Büyük Orman Odunu	#
 tile.wood.stripped.acacia.name=Soyulmuş Akasya Odunu	#
 tile.wood.stripped.dark_oak.name=Soyulmuş Koyu Meşe Odunu	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Eğimli Ok	#
 tipped_arrow.effect.water=Eğimli Ok	#
@@ -6811,10 +7030,13 @@ translation.test.invalid2=merhaba %  s	#
 translation.test.none=Merhaba dünya!	#
 translation.test.world=dünya	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Dünya Dönüştürme Başarısız	#
 worldConversionErrorPrompt.message=Ah, dünya dönüştürülürken bir hata oluştu. Daha sonra yeniden deneyin.	#
 worldConversionErrorPrompt.message.upload=Bir sorun oluştu. Dünyanızı dönüştüremedik. Daha sonra eski dünyanıza gidip Y tuşuna basarak bize dünyanızı gönderebilirsiniz. Veya daha fazla araştırabilmemiz için dünyanızı hemen gönderebilirsiniz.	#
@@ -6905,6 +7127,7 @@ trial.tabbed_upsell.addon.description=Kurtların tavşan gibi davranmasını mı
 trial.tabbed_upsell.seeds.title=TOHUMLAR	#
 trial.tabbed_upsell.seeds.description=Tam Minecraft deneyiminin kilidini açın ve Tohumlara erişim elde edin! Tohumlar yeni biyomları keşfetmenize yardımcı olur. Buz düzlüklerinde hayatta kalın, aşırı tepelere tırmanın veya çöllerde yolculuk edin. Benzersiz şablonlar ile başlayın veya rastgele yeni dünyaları keşfedin! Minecraft'ı hemen satın alarak Tohumlar, Yaratıcı Modu, Çok Oyunculu oyun ve daha birçok özelliğe erişin!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Minecraft Başlangıç Koleksiyonu	#
 trial.master.collection.title=Minecraft Ana Koleksiyonu	#
@@ -6938,6 +7161,8 @@ trial.collection.12.title=Kötüler Dış Görünüş Paketi	#
 trial.collection.12.description=Cake Maniac, Frankencrafter ya da daha kötüleri gibi giyinin!	#
 trial.includes=İçindekiler	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Sıkıştırılmış Dosya	#
 verification.nolicense.title=Lisans Hatası	#
 verification.nolicense.description=Bu cihazda Minecraft'ın bulunduğunu doğrulamakta güçlük çekiyoruz. Minecraft'ı mağazadan indirip yüklediğinizden emin olun. Ya da İnternete yeniden bağlanıp tekrar deneyin.	#
@@ -7188,6 +7413,7 @@ tips.edu.5=Arkadaşlarınızın dünyanıza bağlanması için oyununuzu durakla
 tips.edu.6=Eğik çizgi komutlarını kullanmak için dünyanızda hileleri etkinleştirmeniz gerektiğini unutmayın.	#
 tips.edu.7=Oluşturma işlemini bitirdiniz mi? Çalışmanızı korumak için diğer oyuncuların dünyanızda gezmesine yalnızca Macera Modunda izin verin.	#
 tips.edu.8=Code builder'ı kullanmak için klavyenizdeki C tuşuna basın veya ekranınızın üst kısmındaki Agent simgesine dokunun!	#
+<<<<<<< HEAD
 tips.edu.9=İçinde yeni şeyler inşa edebileceğiniz yeni oyun dünyaları bulmak için Kitaplık'ı kullanın.	#
 tips.edu.10=Belirli bir biyomu mu arıyorsunuz? Kitaplık'ı deneyin.	#
 tips.edu.11=NPC, Oyuncu Olmayan Karakter anlamına gelir.	#
@@ -7201,6 +7427,8 @@ tips.edu.18=Kontroller altındaki Ayarlar menüsünden Otomatik Zıplamayı aç�
 tips.edu.19=Yaratıcı Modunda uçmak için zıplama tuşuna hızlıca iki kez basın.	#
 tips.edu.20=İstediğiniz oyun türünü belirtmek için dünya oluştururken bir Varsayılan Oyun Modu seçin.	#
 tips.edu.21=Yeni oyuncuların durduğunuz yerden oynamaya başlamaları için ''/setworldspawn'' komutunu kullanın.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Deniz kaplumbağalarını kendinize çekmek ve beslemek için deniz yosunu kullanın.	#
 tips.game.2=Bebek kaplumbağaları düşman yaratıklardan koruyun!	#
@@ -7263,8 +7491,11 @@ tips.game.56=Düz yukarı doğru kazarken, üzerinize düşebilecek kum veya ça
 splitscreen.joinPrompt=Oyuncu %s Olarak Katıl	#
 splitscreen.unavailable.toastHeader=Bölünmüş Ekran Kullanılamıyor	#
 splitscreen.unavailable.toastMessage=Şu anda ikinci oyuncu katılamaz.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Joy-Con Bağlantısı Kurulamıyor!	#
 splitscreen.joyconError.toastMessage=Bu oyuna katılmak için Yerel Ağ Modu'ndayken çok fazla sayıda kumanda bağlı.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Kullanıcı Değiştir	#
 

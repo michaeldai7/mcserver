@@ -16,12 +16,20 @@
     "offset": [ 0, 8 ]
   },
 
+<<<<<<< HEAD
   "hotbar_slot@chem_common_pocket.pocket_ui_container_item": {
+=======
+  "hotbar_slot@common.pocket_ui_container_item": {
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     "$item_collection_name": "hotbar_items",
     "$button_ref": "matreduce.one_touch_button"
   },
 
+<<<<<<< HEAD
   "inventory_slot@chem_common_pocket.pocket_ui_container_item": {
+=======
+  "inventory_slot@common.pocket_ui_container_item": {
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     "$item_collection_name": "inventory_items",
     "$button_ref": "matreduce.one_touch_button"
   },
@@ -33,11 +41,19 @@
     "offset": [ -0.5, -49 ], // I weep for -0.5, but it's needed to line up with the connectors element.
     "controls": [
       {
+<<<<<<< HEAD
         "slot@chem_common_pocket.pocket_ui_container_item": {
+=======
+        "slot@common.pocket_ui_container_item": {
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
           "layer": 2,
           "$item_collection_name": "matreduce_input",
           "$button_ref": "matreduce.one_touch_button",
           "$item_renderer_size": [ 20, 20 ],
+<<<<<<< HEAD
+=======
+          "$item_renderer_offset": [ 2, 2 ],
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
           "bindings": [
             {
               "binding_name": "#input_enabled",
@@ -78,11 +94,20 @@
     "size": [ 18, 18 ],
     "controls": [
       {
+<<<<<<< HEAD
         "slot@chem_common_pocket.pocket_ui_container_item": {
           "$offset|default": [ 0, 0 ],
           "offset": "$offset",
           "$item_collection_name": "matreduce_output",
           "$item_renderer_size": [ 20, 20 ]
+=======
+        "slot@common.pocket_ui_container_item": {
+          "$offset|default": [ 0, 0 ],
+          "offset": "$offset",
+          "$item_collection_name": "matreduce_output",
+          "$item_renderer_size": [ 20, 20 ],
+          "$item_renderer_offset": [ 2, 2 ]
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
         }
       }
     ]

@@ -164,12 +164,16 @@
           "on_interact": {
             "filters": {
                 "all_of": [
+<<<<<<< HEAD
                   {
                     "any_of": [
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:0"},
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:16"}
                     ]
                   },
+=======
+				  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:0"},
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                   { "test" :  "is_family", "subject" : "other", "value" :  "player"},
                   { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
                 ]
@@ -208,12 +212,16 @@
           "on_interact": {
             "filters": {
                 "all_of": [
+<<<<<<< HEAD
                   {
                     "any_of": [
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:15"},
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:19"}
                     ]
                   },
+=======
+				  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:15"},
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                   { "test" :  "is_family", "subject" : "other", "value" :  "player"},
                   { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
                 ]
@@ -265,12 +273,16 @@
           "on_interact": {
             "filters": {
                 "all_of": [
+<<<<<<< HEAD
                   {
                     "any_of": [
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:4"},
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:18"}
                     ]
                   },
+=======
+				  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:4"},
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                   { "test" :  "is_family", "subject" : "other", "value" :  "player"},
                   { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
                 ]
@@ -322,12 +334,16 @@
           "on_interact": {
             "filters": {
                 "all_of": [
+<<<<<<< HEAD
                   {
                     "any_of": [
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:3"},
                       { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:17"}
                     ]
                   },
+=======
+				  { "test": "has_equipment", "subject": "other", "domain": "hand", "value": "dye:3"},
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
                   { "test" :  "is_family", "subject" : "other", "value" :  "player"},
                   { "test" :  "has_ability","subject" : "other", "value" :  "instabuild"}
                 ]

@@ -130,7 +130,10 @@ action.interact.trade=Byteshandla	#
 action.interact.armorstand.pose=Posera	#
 action.interact.armorstand.equip=Använd	#
 action.interact.read=Läs	#
+<<<<<<< HEAD
 action.interact.wakevillager=Väck bybo	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = alla enheter	#
 advMode.allPlayers=@a = alla spelare	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=nämn alla spelare	#
 chat.mute=Slå av ljud	#
 chat.realmsFilterDisabled=Detta Realm använder inte chattfiltrering.	#
 chat.settings=Chattinställningar	#
+<<<<<<< HEAD
 chat.settings.chatColor=Chattfärg	#
 chat.settings.color=Färg	#
 chat.settings.font=Typsnitt	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Radavstånd: x%s	#
 chat.settings.mentions=Mina omnämnanden	#
 chat.settings.muteAll=Ljud av för alla	#
 chat.settings.typeface=Typsnitt	#
+=======
+chat.settings.defaultChatColor=Standardfärg i chatten	#
+chat.settings.color=Färg	#
+chat.settings.font=Typsnitt	#
+chat.settings.fontColor=Typsnittsfärg	#
+chat.settings.lineSpacing=Radavstånd: x%s	#
+chat.settings.mentions=Mina omnämnanden	#
+chat.settings.muteAll=Ljud av för alla	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Ljud på för alla	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Server	#
 commands.origin.teacher=Lärare	#
 commands.ops.description=Uppdaterar och tilldelar operatörstillstånd.	#
 commands.ops.reloaded=Operatörer uppdaterade från fil.	#
+<<<<<<< HEAD
 commands.ops.set.success=Angav operatörsnivå för spelare %s.	#
 commands.permissions.description=Uppdaterar och tilldelar tillstånd.	#
 command.permissions.list.fail.filenotfound=Kunde inte lista tillstånd från fil; filen hittades inte.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Kunde inte ange tillståndsnivå %s för spelare
 commands.permissions.set.success=Angav tillståndsnivå %s för spelare %s.	#
 commands.permissions.save.failed=Kunde inte spara tillståndsnivå %s för spelare %s.	#
 commands.permissions.save.success=Sparade tillståndsnivå %s för spelare %s.	#
+=======
+commands.permissions.description=Uppdaterar och tilldelar tillstånd.	#
+commands.permissions.reloaded=Tillstånden har uppdaterats från fil.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Skapar en partikelutsöndrare	#
 commands.particle.description=Skapar partiklar.	#
 commands.particle.notFound=Okänt effektnamn (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Kunde inte häva spärrningen av spelare %1$s	#
 commands.unban.success=Spärrningen av spelare %1$s har hävts	#
 commands.unbanip.invalid=Du har angett en ogiltig IP-adress	#
 commands.unbanip.success=Spärrningen av IP-adressen %1$s har hävts	#
+<<<<<<< HEAD
 commands.videostream.description=Försöker att ansluta till Websocket-servern för att skicka en videostream.	#
 commands.videostreamaction.description=Utför en åtgärd relaterad till en videostream.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Ändrar till klart väder	#
 commands.weather.description=Bestämmer vädret.	#
 commands.weather.disabled=Vädercykel är inte aktiverat på den här nivån.	#
@@ -981,13 +1002,19 @@ container.furnace=Smältugn	#
 container.hopper=Föremålstratt	#
 container.inventory=Förråd	#
 container.isLocked=%s är låst!	#
+<<<<<<< HEAD
 container.loom=Vävstol	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Gruvvagn	#
 container.repair=Reparera och döp	#
 container.repair.cost=XP-kostnad: %1$d	#
 container.repair.expensive=För dyrt!	#
 container.stonecutter=Stenskärare	#
+<<<<<<< HEAD
 container.stonecutter_block=Stenskärare	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Shulkerlåda	#
 container.shulkerboxContains=och %d till ...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Du har inte alla ingredienser	#
 crafting.insufficientLevel=Din nivå är för låg	#
 crafting.noRecipesInventory=Du måste samla block för att tillverka!	#
 crafting.noRecipesStonecutter=Du behöver stenmaterial för att tillverka!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Du behöver stenmaterial för att tillverka!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=Du måste samla block för att tillverka!	#
 
 createWorld.customize.custom.baseSize=Grunddjup	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Vill du söka efter uppdate
 disconnectionScreen.realmsWorldUnassigned=Tilldela en version under utvecklaralternativ.	#
 disconnectionScreen.realmsWorldUnassigned.title=Otilldelat Realm!	#
 disconnectionScreen.scriptNotSupported=Världen du försöker gå in i kräver att din enhet kör skript. Enheten har för närvarande inte stöd för att köra skript, så du kan inte gå in i världen på den här enheten.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Inget stöd för skript	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Jösses vilken populär server! Kom tillbaka senare för att se om det finns några lediga platser då.	#
 disconnectionScreen.serverFull.title=Full server	#
 disconnectionScreen.serverIdConflict=Kan inte ansluta till världen. Kontot du är inloggad med spelar i den här världen på en annan enhet just nu.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Gast	#
 entity.guardian.name=Väktare	#
 entity.horse.name=Häst	#
 entity.husk.name=Husk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Fybodjur	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Järngolem	#
 entity.item.name=Föremål	#
 entity.leash_knot.name=Koppelknut	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Bybo	#
 entity.villager.shepherd=Herde	#
 entity.villager.tool=Verktygssmed	#
 entity.villager.weapon=Vapensmed	#
+<<<<<<< HEAD
 entity.villager.mason=Stenhuggare	#
 entity.villager.unskilled=Outbildad bybo	#
 entity.villager_v2.name=Bybo	#
 entity.vindicator.name=Övertygare	#
 entity.wandering_trader.name=Handelsresande	#
+=======
+entity.vindicator.name=Övertygare	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Häxa	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Wither-skelett	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Zombiehäst	#
 entity.zombie_pigman.name=Zombiegrisman	#
 entity.zombie_villager.name=Zombiebybo	#
 
+<<<<<<< HEAD
 exports.share.file=Dela %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Lägg till server	#
 addExternalServerScreen.nameTextBoxLabel=Servernamn	#
 addExternalServerScreen.namePlaceholder=Ange serverns namn	#
@@ -1974,7 +2018,10 @@ feature.village=By	#
 feature.shipwreck=Skeppsvrak	#
 feature.buriedtreasure=Nedgrävd skatt	#
 feature.ruins=Havsruiner	#
+<<<<<<< HEAD
 feature.pillageroutpost=Plundrarutpost	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Gilla	#
 feed.manage_feed=Hantera feed	#
@@ -2052,6 +2099,7 @@ gameTip.findTree=Hitta ett träd för att samla trä	#
 gameTip.breakWood.mouse=Vänsterklicka och håll in tills du har samlat 3 bitar trä	#
 gameTip.breakWood.touch=Tryck och håll in tills du har samlat 3 bitar trä	#
 gameTip.breakWood.controller=Håll in höger avtryckare tills du har samlat 3 bitar trä	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Gå över föremål för att plocka upp dem	#
 gameTip.openInventory.keyboard=Tryck på E för att öppna förrådet	#
 gameTip.openInventory.touch=Tryck på ...-knappen för att öppna förrådet	#
@@ -2067,6 +2115,8 @@ gameTip.open.recipe=Öppna receptboken för att lära dig tillverka fler saker	#
 gameTip.closeInventory.keyboard=Tryck på E eller vänsterklicka på X-ikonen för att stänga förrådet	#
 gameTip.closeInventory.touch=Tryck på X-ikonen för att stänga förrådet	#
 gameTip.closeInventory.controller=Tryck på B för att stänga förrådet	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=FÖRSTÄRKT	#
 generator.amplified.info=Obs! Bara för skojs skull; kräver en rejäl dator	#
@@ -2090,7 +2140,10 @@ gui.cancel=Avbryt	#
 gui.clear=Klart	#
 gui.close=Stäng	#
 gui.confirm=Bekräfta	#
+<<<<<<< HEAD
 gui.custom=Anpassad	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Standard	#
 gui.decline=Neka	#
 gui.deleteWorldLong=Radera värld	#
@@ -2184,6 +2237,7 @@ howtoplay.armor.header.1=Tillverkning	#
 howtoplay.armor.text.2=Rustningar kan tillverkas av läder, järn, guld och diamant. Du kan byta till dig ringbrynjor från bybor och även hitta sådana genom att besegra zombier och skelett.	#
 howtoplay.armor.text.3=Ta på dig utrustning genom att öppna förrådet och dra rustningsdelar till rutorna bredvid din karaktär.	#
 howtoplay.armor.text.4=Järnrustningar, guldrustningar och ringbrynjor kan smältas ned till järntackor eller guldklimpar i en smältugn.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Sköld	#
 howtoplay.armor.text.5.keyboard=Skölden blockerar skada. Den kan utrustas i andra handen och i snabbfältet. Tryck och håll in :_input_key.sneak: för att blockera med skölden.	#
 howtoplay.armor.text.5.gamepad=Skölden blockerar skada. Den kan utrustas i andra handen och i snabbfältet. Tryck på :_input_key.sneak:-knappen eller klicka med :_gamepad_stick_right: för att blockera med skölden.	#
@@ -2193,6 +2247,10 @@ howtoplay.armor.text.5.windowsmr_controller=Skölden blockerar skada. Den kan ut
 howtoplay.armor.text.6=Skölden kan till och med blockera explosioner från creepers!	#
 howtoplay.armor.header.3=Förklädnad	#
 howtoplay.armor.text.7=Det går även att bära en pumpa på huvudet. Det ger dig inga :armor:, men det låter dig titta på endermän utan att de blir uppretade.	#
+=======
+howtoplay.armor.header.2=Förklädnad	#
+howtoplay.armor.text.5=Det går även att bära en pumpa på huvudet. Det ger dig inga :armor:, men det låter dig titta på endermän utan att de blir uppretade.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Rustningsställ	#
 howtoplay.armorStand.title=Så spelar du: Rustningsställ	#
@@ -2211,7 +2269,11 @@ howtoplay.armorStand.text.5=Rustningsställ reagerar på rödstenssignaler. Test
 howtoplay.banners=Fanor	#
 howtoplay.banners.title=Så spelar du: Fanor	#
 howtoplay.banners.text.1=Fanor är ett bra alternativ för den som vill dekorera sitt hus eller slott med egna mönster och färger.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Efter att ha tillverkat en fana kan du lägga den på en arbetsbänk eller i en vävstol och applicera olika färgämnen för att skapa en helt egen design!	#
+=======
+howtoplay.banners.text.2=Efter att ha tillverkat en fana kan du lägga den på en arbetsbänk och applicera olika färgämnen för att skapa en helt egen design!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Använda mönster	#
 howtoplay.banners.text.3=Du kan använda dina färgämnen för att ta fram många olika mönster, bland annat:	#
 howtoplay.banners.text.4=  - Gör en triangel för att få ett pilformat mönster.	#
@@ -2511,6 +2573,7 @@ howtoplay.droppers.text.2=Om en utmatare är vänd mot en kista eller mot någon
 howtoplay.dyes=Färgämnen	#
 howtoplay.dyes.title=Så spelar du: Färgämnen	#
 howtoplay.dyes.text.1=Färgämnen används för att byta färg på många saker i Minecraft.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Vissa färgämnen är svårare att hitta än andra. De flesta färgämnen kan tillverkas från blommor, som rött från vallmo, medan man hittar eller tillverkar andra färgämnen på mer obskyra sätt: 	#
 howtoplay.dyes.text.3=-Bryt lapis lazuli djupt ner i underjorden	#
 howtoplay.dyes.text.4=-Samla bläcksäckar under vatten	#
@@ -2518,6 +2581,14 @@ howtoplay.dyes.text.5=-Skörda kakaobönor i djungeln	#
 howtoplay.dyes.text.6=-Grön färg måste smältas ned från kaktus	#
 howtoplay.dyes.text.7=-Benmjöl hjälper dig att odla plantor och träd eller kan göras om till vit färg	#
 howtoplay.dyes.text.8=-Samla in bläcksäckar från bläckfiskar för att göra svart färg	#
+=======
+howtoplay.dyes.text.2=Du kanske måste utforska lite innan du hittar de naturliga material som behövs för att tillverka vissa färgämnen. De flesta färgämnen kan tillverkas från blommor, som rosenrött från vallmo, medan man hittar eller tillverkar andra färgämnen på mer obskyra sätt: 	#
+howtoplay.dyes.text.3=-Bryt lapis lazuli djupt ner i underjorden	#
+howtoplay.dyes.text.4=-Samla bläcksäckar under vatten	#
+howtoplay.dyes.text.5=-Skörda kakaobönor i djungeln	#
+howtoplay.dyes.text.6=-Kaktusgrönt måste smältas ned från kaktus	#
+howtoplay.dyes.text.7=-Benmjöl hjälper dig att odla plantor och träd eller kan användas som vitt färgämne	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Elytra	#
 howtoplay.elytra.title=Så spelar du: Elytra	#
@@ -2706,6 +2777,7 @@ howtoplay.jukebox.header.3=Hitta musikskivor	#
 howtoplay.jukebox.text.7=Några av musikskivorna kan hittas i kistor runt om i världen.	#
 howtoplay.jukebox.text.8=Andra är svårare att hitta; det ryktas att Creepers är musikentusiaster...	#
 
+<<<<<<< HEAD
 howtoplay.loom=Vävstol	#
 howtoplay.loom.title=Så spelar du: Vävstolar	#
 howtoplay.loom.text.1=Vävstolen är ett snabbt och effektivt sätt att sätta mönster på fanor. Vävstolen behöver ett färgämne per mönster. Det går även att använda vävstolsmönster för att väva särskilda mönster.	#
@@ -2715,6 +2787,8 @@ howtoplay.loom.text.3=En fana kan ha mönster i flera lager, vilket öppnar upp 
 howtoplay.loom.header.2=Vävstolsmönster 	#
 howtoplay.loom.text.4=Genom att sätta ett vävstolsmönster i vävstolens tredje plats kan du tillverka specialmönster, till exempel ett creeperansikte eller blommiga mönster. Du förlorar inte dina vävstolsmönster när du väver in sådana mönster i fanor.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Riddjur	#
 howtoplay.mounts.title=Så spelar du: Riddjur	#
 howtoplay.mounts.text.1=Spelare kan rida på vuxna hästar, åsnor och mulor. Det är bara hästar som kan utrustas med rustning.	#
@@ -2912,6 +2986,10 @@ howtoplay.transportation.text.5.keyboard=Tryck på :_input_key.use: medan du tit
 howtoplay.transportation.text.5.gamepad=Tryck på :_input_key.use: medan du tittar på en båt för att kliva ombord på den. Styr åt vänster eller höger med :_gamepad_stick_left: för att svänga. Styr framåt med :_gamepad_stick_left: för att åka framåt. Tryck på :_input_key.jump: eller :_input_key.sneak: för att kliva ur.	#
 howtoplay.transportation.text.5.touch=Tryck på ombordstigningsknappen i närheten av en båt för att kliva ombord på den. Tryck på :_input_key.left: eller :_input_key.right: för att svänga åt vänster eller höger. Tryck på båda för att åka framåt. Tryck på kliv ur båt-knappen för att kliva ur.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Vapen	#
 howtoplay.weapons.title=Så spelar du: Vapen	#
 howtoplay.weapons.header.1=Svärd	#
@@ -2922,6 +3000,7 @@ howtoplay.weapons.header.2=Pilbåge	#
 howtoplay.weapons.text.3.notTouch=Pilbågen är det främsta långdistansvapnet i Minecraft. Tryck och håll in :_input_key.use: för att spänna bågen. Släpp :_input_key.use: för att skjuta en pil. Pilbågen behöver pilar för att kunna användas. 	#
 howtoplay.weapons.text.3.touch=Pilbågen är det främsta långdistansvapnet i Minecraft. Tryck och håll in på skärmen för att spänna bågen. Släpp för att skjuta en pil. Pilbågen behöver pilar för att kunna användas.	#
 howtoplay.weapons.text.4=Pilbågar skadar mer ju mer de spänns, så se till att spänna fullt ut.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Armborst	#
 howtoplay.weapons.text.5.notTouch=Armborstet fungerar som distansvapen. Tryck och håll in :_input_key.use: för att ladda armborstet. Det förblir laddat tills du avfyrar det. Tryck på :_input_key.use: för att avfyra en pil. Armborstet måste laddas med pilar.	#
 howtoplay.weapons.text.5.touch=Armborstet fungerar som distansvapen. Tryck och håll in på skärmen för att ladda armborstet. Det förblir laddat tills du avfyrar det, även om du stoppar undan det i förrådet. Tryck på skärmen för att avfyra en pil. Armborstet måste laddas med pilar.	#
@@ -2930,6 +3009,13 @@ howtoplay.weapons.text.6.notTouch=Treudden fungerar både som närstrids- och l�
 howtoplay.weapons.text.6.touch=Treudden fungerar både som närstrids- och långdistansvapen. Tryck på varelser för att attackera dem. Tryck och håll in på skärmen för att ladda treudden. Släpp för att kasta den. Treudden är det bästa vapnet under vatten.	#
 howtoplay.weapons.header.5=Förtrollade vapen	#
 howtoplay.weapons.text.7=Svärdet, pilbågen, armborstet och treudden har särskilda förtrollningar som du kan få från förtrollningsbordet eller städet. Det här ökar skadan de gör och deras hållbarhet, och kan till och med få vapnen att sätta eld på varelser!	#
+=======
+howtoplay.weapons.header.3=Förtrollade vapen	#
+howtoplay.weapons.text.5=Svärdet, pilbågen och treudden har särskilda förtrollningar som du kan få från förtrollningsbordet eller städet. Det här ökar skadan de gör och deras hållbarhet, och kan till och med få vapnen att sätta eld på varelser!	#
+howtoplay.weapons.header.trident=Treudd	#
+howtoplay.weapons.text.trident.notTouch=Treudden fungerar både som närstrids- och långdistansvapen. Tryck på :_input_key.attack: för att attackera. Tryck och håll in :_input_key.use: för att ladda treudden. Släpp :_input_key.use: för att kasta den. Treudden är det bästa vapnet under vatten.	#
+howtoplay.weapons.text.trident.touch=Treudden fungerar både som närstrids- och långdistansvapen. Tryck på varelser för att attackera dem. Tryck och håll in på skärmen för att ladda treudden. Släpp för att kasta den. Treudden är det bästa vapnet under vatten.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Nyheter	#
 
@@ -3606,7 +3692,11 @@ item.bed.lightBlue.name=Ljusblå säng	#
 item.bed.magenta.name=Ljuslila säng	#
 item.bed.orange.name=Orange säng	#
 item.bed.white.name=Vit säng	#
+<<<<<<< HEAD
 item.bell.name=Ringklocka	#
+=======
+item.bell.name=Klocka	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.steak.name=Biff	#
 item.beef.name=Rått nötkött	#
 item.beetroot.name=Rödbeta	#
@@ -3874,13 +3964,19 @@ item.spawn_egg.entity.sheep.name=Spawna får	#
 item.spawn_egg.entity.npc.name=Spawna NPC	#
 item.spawn_egg.entity.wolf.name=Spawna varg	#
 item.spawn_egg.entity.villager.name=Spawna bybo	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Spawna bybo	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Spawna övertygare	#
 item.spawn_egg.entity.mooshroom.name=Spawna Mooshroom	#
 item.spawn_egg.entity.squid.name=Spawna bläckfisk	#
 item.spawn_egg.entity.rabbit.name=Spawna kanin	#
 item.spawn_egg.entity.bat.name=Spawna fladdermus	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Spawna fybodjur	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Spawna järngolem	#
 item.spawn_egg.entity.snow_golem.name=Spawna snögolem	#
 item.spawn_egg.entity.ocelot.name=Spawna ozelot	#
@@ -3906,7 +4002,10 @@ item.spawn_egg.entity.ghast.name=Spawna gast	#
 item.spawn_egg.entity.magma_cube.name=Spawna magmakub	#
 item.spawn_egg.entity.blaze.name=Spawna flamgestalt	#
 item.spawn_egg.entity.zombie_villager.name=Spawna zombiebybo	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Spawna zombiebybo	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Spawna häxa	#
 item.spawn_egg.entity.stray.name=Spawna strövare	#
 item.spawn_egg.entity.husk.name=Spawna husk	#
@@ -3923,7 +4022,10 @@ item.spawn_egg.entity.phantom.name=Spawna fantom	#
 item.spawn_egg.entity.panda.name=Spawna panda	#
 item.spawn_egg.entity.pillager.name=Spawna plundrare	#
 item.spawn_egg.entity.unknown.name=Spawnplats	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Spawna handelsresande	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Treudd	#
 item.mushroom_stew.name=Svampstuvning	#
 item.muttonCooked.name=Tillagat får	#
@@ -4016,12 +4118,16 @@ item.wheat.name=Vete	#
 item.writable_book.name=Bok och fjäderpenna	#
 item.written_book.name=Skriven bok	#
 item.glowstone_dust.name=Glödstensstoft	#
+<<<<<<< HEAD
 item.shield.name=Sköld	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Shulkerskal	#
 item.totem.name=Vandöendets totem	#
 item.turtle_helmet.name=Sköldpaddsskal	#
 item.turtle_shell_piece.name=Fjäll	#
 item.phantom_membrane.name=Fantommembran	#
+<<<<<<< HEAD
 item.sweet_berries.name=Söta bär	#
 item.banner_pattern.bricks=Tegelmönster	#
 item.banner_pattern.creeper=Creepermönster	#
@@ -4030,6 +4136,8 @@ item.banner_pattern.name=Fanmönster	#
 item.banner_pattern.skull=Dödskallemönster	#
 item.banner_pattern.thing=Mojäng	#
 item.banner_pattern.vines=Kant	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Sök föremål	#
 itemGroup.name.planks=Plankor	#
@@ -4064,7 +4172,11 @@ itemGroup.name.rawFood=Rå mat	#
 itemGroup.name.cookedFood=Tillagad mat	#
 itemGroup.name.miscFood=Diverse mat	#
 itemGroup.name.mushroom=Svampar	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Infesterad sten	#
+=======
+itemGroup.name.monsterStoneEgg=Monsterstenägg	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Varelseägg	#
 itemGroup.name.helmet=Hjälmar	#
 itemGroup.name.chestplate=Harnesk	#
@@ -4100,8 +4212,11 @@ itemGroup.name.coral=Korallblock	#
 itemGroup.name.coral_decorations=Koralldekorationer	#
 itemGroup.name.buttons=Knappar	#
 itemGroup.name.sign=Skyltar	#
+<<<<<<< HEAD
 itemGroup.name.wood=Trätyper	#
 itemGroup.name.banner_pattern=Fanmönster	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Attackera/förstör	#
 key.back=Gå bakåt	#
@@ -4523,7 +4638,11 @@ options.chat.visibility.hidden=Dölj	#
 options.chat.visibility.system=Endast kommandon	#
 options.chat.width=Bredd	#
 options.codeBuilder=Code Builder	#
+<<<<<<< HEAD
 options.content_log_file=Aktivera innehållslogg	#
+=======
+options.content_log=Aktivera innehållslogg	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Aktivera innehållsloggens gränssnitt	#
 options.controller=Handkontroll	#
 options.controllerLayout=Handkontrollslayout	#
@@ -4613,6 +4732,7 @@ options.dev_useZippedInPackagePacks=Använd zippade paket	#
 options.dev_importPacksAsZip=Importera paket som zip-filer	#
 options.dev_folders_portSettingsFolder=Exportera inställningsmapp	#
 options.dev_useOverrideDate=Använd fast datum	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Visa datum/tid	#
 options.dev_loadOverrideDate=Ladda fast datum vid uppstart	#
 options.dev.timeZoneType=Tidszon för fast datum	#
@@ -4627,6 +4747,16 @@ options.dev_overrideDayLength=Bestäm dagens längd i minuter (minsta: 1)	#
 options.dev_overrideTimeScale=Ändra hur snabbt tiden går (min: 1, standard: 1)	#
 options.dev_updateOverrideDate=Uppdatera fast datum	#
 options.dev_resetOverrideDate=Nollställ fast datum	#
+=======
+options.dev_displayOverrideDatetime=Visa fast datum/tid	#
+options.dev_saveCurrentOverrideDate=Spara aktuellt datum vid stängning	#
+options.dev_overrideDateYear=År	#
+options.dev_overrideDateMonth=Månad	#
+options.dev_overrideDateDay=Dag	#
+options.dev_overrideDayLength=Bestäm dagens längd i minuter (minsta: 1)	#
+options.dev_overrideTimeScale=Ändra hur snabbt tiden går (min: 1, standard: 1)	#
+options.dev_updateOverrideDate=Uppdatera fast datum	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Rensa Store-cache	#
 options.dev_clearAllCache=Rensa all cache	#
 options.dev_connection_quality=Nätverkstestare (simulera dåliga anslutningar)	#
@@ -4636,6 +4766,7 @@ options.dev_connection_4g=4G – 15 Mbps, 100 ms latens, 1 % paketförlust	#
 options.dev_connection_3g=3G – 1,5 Mbps, 200 ms latens, 2 % paketförlust	#
 options.dev_connection_slow=Långsam – 400 Kbps, 300 ms latens, 3 % paketförlust	#
 options.dev_connection_veryslow=Väldigt långsam – 200 Kbps, 400 ms latens, 4 % paketförlust	#
+<<<<<<< HEAD
 options.dev_identity_environment=Ny identitet och miljö för och onlineinfrastruktur (kräver omstart)	#
 options.dev_identity_environment.dev=Utveckling	#
 options.dev_identity_environment.test=Test	#
@@ -4645,6 +4776,8 @@ options.dev.windowsStore.auto=Automatiskt	#
 options.dev.windowsStore.v6=Gamla Windows Store - V6	#
 options.dev.windowsStore.v8=OneStore - V8	#
 options.dev.stores=Aktiva butiker:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Svårighetsgrad	#
 options.difficulty.easy=Lätt	#
 options.difficulty.hard=Svårt	#
@@ -4962,13 +5095,22 @@ pauseScreen.title=Spelet pausat	#
 pauseScreen.betaFeedback=Betafeedback	#
 pauseScreen.xboxLiveDisconnect=Oj då! Du har blivit nedkopplad från Xbox Live. Öppna din värld på nytt för att bjuda in fler spelare.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Feedback	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Har du feedback?	#
 feedbackScreen.suggestion=Lämna ett förslag!	#
 feedbackScreen.bug=Rapportera en bugg!	#
 feedbackScreen.help=Behöver du hjälp?	#
 feedbackScreen.body=Har du förslag på hur vi kan förbättra Minecraft? Har du hittat en bugg du vill att vi fixar? Eller har du stött på något du behöver hjälp med? Berätta det för oss!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Besök den här webbplatsen på en annan enhet. %s	#
+=======
+feedbackScreen.suggestionLink=Besök den här webbplatsen på en annan enhet: https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Besök den här webbplatsen på en annan enhet: https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Besök den här webbplatsen på en annan enhet: https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Tillbaka	#
 hudScreen.tooltip.basic.flyDown=Flyg nedåt	#
@@ -5012,7 +5154,10 @@ hudScreen.tooltip.dismount=Kliv av	#
 hudScreen.tooltip.collect=Samla in	#
 hudScreen.tooltip.peel=Skrapa bark	#
 hudScreen.tooltip.scaffoldingDescend=Håll in för att klättra ner	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Välj	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5199,11 @@ permissions.ability.doorsandswitches=Använda dörrar och spakar	#
 permissions.ability.opencontainers=Öppna behållare	#
 permissions.ability.attackplayers=Attackera spelare	#
 permissions.ability.attackmobs=Attackera varelser	#
+<<<<<<< HEAD
 permissions.ability.op=Operatörskommandon	#
+=======
+permissions.ability.op=Operatör	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Bli osynlig	#
 permissions.ability.teleport=Använd teleportering	#
 permissions.NeedPermission=Du behöver tillstånd	#
@@ -5078,10 +5227,15 @@ permissions.level.operator=Operatör	#
 permissions.level.visitor=Besökare	#
 permissions.nocheats=Fusk är avstängda	#
 permissions.nocheats.message=Vissa kommandon, som teleportera, är bara tillgängliga när fusk är PÅ. Fusk kan aktiveras under Spelinställningar i pausmenyn. Om du aktiverar fusk kommer achievements att stängas av i den här världen.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Vissa kommandon, som teleportera, är bara tillgängliga när fusk är PÅ. Fusk kan aktiveras under Spelinställningar i pausmenyn.	#
 permissions.nocheats.turnon=Gör till operatör med fusk PÅ	#
 permissions.nocheats.turnoff=Gör till operatör med fusk AV	#
 permissions.nocheats.cancel=Avbryt	#
+=======
+permissions.nocheats.turnon=Slå på fusk	#
+permissions.nocheats.turnoff=Använd inte fusk	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Ta ifrån operatörstillstånd?	#
 permissions.deopingself.message=Om du sänker din tillståndsnivå kommer du inte längre att ha tillstånd på operatörsnivå.	#
 permissions.title=Spelartillstånd	#
@@ -5765,13 +5919,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Skaffa mynt	#
 store.popup.purchasePriceMismatch.msg=Tyvärr, ditt köp gick inte att slutföra. Försök igen senare.	#
 store.popup.trialUpgradeFail.title=Fel vid upplåsning av spel	#
 store.popup.trialUpgradeFail.msg=Du är inloggad med ett annat Microsoft-konto än det som användes till att ladda ner Minecraft-demon. Logga in med det kontot och försök igen.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Köp världsmall?	#
 store.popup.downloaded.unOwnedTemplate.msg=Du äger inte den här mallen och måste köpa den för att låsa upp den. Vill du köpa mallen?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Du har köpt: %s	#
 store.purchase.bundle=Lås upp %d av %d paket?	#
 store.purchase.bundle.confirm=Lås upp nu!	#
 store.purchase.bundle.partiallyOwnedWarning=Bara så du vet äger du redan följande paket: %s. Vill du låsa upp resten av paketen?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Ägt	#
+=======
+store.purchase.bundle.owned=Du äger	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Du får	#
 store.createdBy=Av %s	#
 store.seeMoreBy=Visa fler av %s	#
@@ -6106,7 +6267,11 @@ tile.bed.occupied=Den här sängen används	#
 tile.bed.respawnSet=Spawnpunkt vald	#
 tile.bed.tooFar=Sängen är för långt borta.	#
 tile.bedrock.name=Berggrund	#
+<<<<<<< HEAD
 tile.bell.name=Ringklocka	#
+=======
+tile.bell.name=Klocka	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.camera.name=Kamera	#
 tile.conduit.name=Ledare	#
 tile.invisibleBedrock.name=Osynlig berggrund	#
@@ -6144,7 +6309,10 @@ tile.chalkboard.twoByOne.name=Affisch	#
 tile.chalkboard.threeByTwo.name=Svart tavla	#
 tile.chest.name=Kista	#
 tile.ender_chest.name=Enderkista	#
+<<<<<<< HEAD
 tile.jigsaw.name=Pusselblock	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Kistfälla	#
 tile.shulkerBoxWhite.name=Vit shulkerlåda	#
 tile.shulkerBoxOrange.name=Orange shulkerlåda	#
@@ -6237,6 +6405,11 @@ tile.wool.white.name=Vit ull	#
 tile.wool.yellow.name=Gul ull	#
 tile.cobblestone_wall.mossy.name=Mossig kullerstensmur	#
 tile.cobblestone_wall.normal.name=Kullerstensmur 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Kullerstensmur	#
+tile.cobblestone_wall.mossy_cobblestone.name=Mossig kullerstensmur	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Granitmur	#
 tile.cobblestone_wall.diorite.name=Dioritmur	#
 tile.cobblestone_wall.andesite.name=Andesitmur	#
@@ -6251,7 +6424,10 @@ tile.cobblestone_wall.red_sandstone.name=Röd sandstensmur	#
 tile.cobblestone_wall.red_nether_brick.name=Röd Nether-tegelmur	#
 tile.cocoa.name=Kakao	#
 tile.command_block.name=Kommandoblock	#
+<<<<<<< HEAD
 tile.composter.name=Komposterare	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Upprepande kommandoblock	#
 tile.chain_command_block.name=Kedjande kommandoblock	#
 tile.wheat.name=Grödor	#
@@ -6334,6 +6510,7 @@ tile.lever.name=Spak	#
 tile.glowstone.name=Glödsten	#
 tile.lit_pumpkin.name=Halloweenlykta	#
 tile.lockedchest.name=Låst kista	#
+<<<<<<< HEAD
 tile.log.acacia.name=Akaciastock	#
 tile.log.big_oak.name=Mörk ekstock	#
 tile.log.birch.name=Björkstock	#
@@ -6351,6 +6528,25 @@ tile.monster_egg.crackedbrick.name=Infesterad sprucken mursten	#
 tile.monster_egg.mossybrick.name=Infesterad mossig mursten	#
 tile.monster_egg.name=Infesterad sten	#
 tile.monster_egg.stone.name=Infesterad sten	#
+=======
+tile.log.acacia.name=Akaciaträ	#
+tile.log.big_oak.name=Mörkt ekträ	#
+tile.log.birch.name=Björkträ	#
+tile.log.jungle.name=Djungelträ	#
+tile.log.name=Trä	#
+tile.log.oak.name=Ekträ	#
+tile.log.spruce.name=Granträ	#
+tile.magma.name=Magmablock	#
+tile.melon_block.name=Melon	#
+tile.mob_spawner.name=Monsterspawnare	#
+tile.monster_egg.brick.name=Murstensmonsterägg	#
+tile.monster_egg.chiseledbrick.name=Utmejslat murstensmonsterägg	#
+tile.monster_egg.cobble.name=Kullerstensmonsterägg	#
+tile.monster_egg.crackedbrick.name=Sprucket murstensmonsterägg	#
+tile.monster_egg.mossybrick.name=Mossigt murstensmonsterägg	#
+tile.monster_egg.name=Stenmonsterägg	#
+tile.monster_egg.stone.name=Stenmonsterägg	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Svamp	#
 tile.noteblock.name=Notblock	#
 tile.mycelium.name=Mycel	#
@@ -6501,7 +6697,10 @@ tile.stonebrick.mossy.name=Mossig mursten	#
 tile.stonebrick.name=Mursten	#
 tile.stonebrick.smooth.name=Slät mursten	#
 tile.stonecutter.name=Stenskärare	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Stenskärare	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Mossig kullersten	#
 tile.double_stone_slab.brick.name=Tegelstensplatta	#
 tile.double_stone_slab.cobble.name=Kullerstensplatta	#
@@ -6516,10 +6715,18 @@ tile.stone_slab.name=Stenplatta	#
 tile.stone_slab.brick.name=Tegelstensplatta	#
 tile.stone_slab.cobble.name=Kullerstensplatta	#
 tile.stone_slab.stone.name=Slät stenplatta	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Slät stenplatta	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Nether-tegelplatta	#
 tile.stone_slab.quartz.name=Kvartsplatta	#
 tile.stone_slab.sand.name=Sandstensplatta	#
 tile.stone_slab.smoothStoneBrick.name=Murstensplatta	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Stenplatta	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Träplatta	#
 tile.double_stone_slab2.red_sandstone.name=Röd sandstensplatta	#
 tile.stone_slab2.red_sandstone.name=Röd sandstensplatta	#
@@ -6695,12 +6902,21 @@ tile.concretePowder.magenta.name=Ljuslila betongpulver	#
 tile.concretePowder.orange.name=Orange betongpulver	#
 tile.concretePowder.white.name=Vitt betongpulver	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Granstocksvirke	#
 tile.stripped_dark_oak_log.name=Mörkt ekstocksvirke	#
 tile.stripped_birch_log.name=Björkstocksvirke	#
 tile.stripped_jungle_log.name=Djungelstocksvirke	#
 tile.stripped_oak_log.name=Ekstocksvirke	#
 tile.stripped_acacia_log.name=Akaciastocksvirke	#
+=======
+tile.stripped_spruce_log.name=Granträvirke	#
+tile.stripped_dark_oak_log.name=Mörkt ekträvirke	#
+tile.stripped_birch_log.name=Björkträvirke	#
+tile.stripped_jungle_log.name=Djungelträvirke	#
+tile.stripped_oak_log.name=Ekträvirke	#
+tile.stripped_acacia_log.name=Akaciaträvirke	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambu	#
 tile.scaffolding.name=Ställning	#
@@ -6710,6 +6926,7 @@ tile.lantern.name=Lykta	#
 tile.smoker.name=Rökugn	#
 tile.smithing_table.name=Smidesbänk	#
 tile.barrel.name=Tunna	#
+<<<<<<< HEAD
 tile.campfire.name=Lägereld	#
 tile.loom.name=Vävstol	#
 tile.lectern.name=Läspulpet	#
@@ -6727,6 +6944,8 @@ tile.wood.stripped.birch.name=Björkträvirke	#
 tile.wood.stripped.jungle.name=Djungelträvirke	#
 tile.wood.stripped.acacia.name=Akaciaträvirke	#
 tile.wood.stripped.dark_oak.name=Mörkt ekträvirke	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Doppad pil	#
 tipped_arrow.effect.water=Doppad pil	#
@@ -6811,10 +7030,13 @@ translation.test.invalid2=hej % s	#
 translation.test.none=Hej, världen!	#
 translation.test.world=värld	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Världskonverteringen misslyckades	#
 worldConversionErrorPrompt.message=Oj, någonting gick fel under världskonverteringen. Försök igen senare.	#
 worldConversionErrorPrompt.message.upload=Någonting gick snett. Vi kunde inte konvertera din värld. Du kan skicka din gamla värld till oss senare genom att gå till den och trycka på Y. Annars kan du skicka världen till oss nu så kan vi undersöka saken närmare.	#
@@ -6905,6 +7127,7 @@ trial.tabbed_upsell.addon.description=Vill du att vargar ska bete sig som kanine
 trial.tabbed_upsell.seeds.title=FRÖN	#
 trial.tabbed_upsell.seeds.description=Lås upp den kompletta Minecraft-upplevelsen och få tillgång till frön! Frön låter dig upptäcka nya ekosystem – överlev på isslätter, klättra upp för extrema kullar eller vandra genom öknar. Börja spela med unika världsmallar eller utforska slumpade världar! Få frön, kreativt läge, flerspelarstöd och massa annat genom att köpa Minecraft i dag!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Minecraft-startsamling	#
 trial.master.collection.title=Minecraft-mästarsamling	#
@@ -6938,6 +7161,8 @@ trial.collection.12.title=Skurk-utseendepaket	#
 trial.collection.12.description=Klä ut dig till Cake Maniac, Frankencrafter eller någonting ännu värre!	#
 trial.includes=Innehåller	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Zipfil	#
 verification.nolicense.title=Licensfel	#
 verification.nolicense.description=Vi lyckas inte bekräfta att du äger Minecraft på den här enheten. Se till att du har laddat ned och installerat Minecraft från butiken, eller återanslut till internet och försök igen.	#
@@ -7188,6 +7413,7 @@ tips.edu.5=Låt andra ansluta till din värld genom att pausa spelet och dela di
 tips.edu.6=För att använda snedstreckskommandon måste du aktivera fusk i världen.	#
 tips.edu.7=Har du byggt färdigt? Låt andra besöka världen i äventyrsläge för att skydda ditt alster.	#
 tips.edu.8=Använd Code Builder genom att trycka C på tangentbordet eller tryck på agentikonen överst i bild!	#
+<<<<<<< HEAD
 tips.edu.9=Använd biblioteket för att hitta nya spelvärldar att bygga i.	#
 tips.edu.10=Letar du efter ett särskilt ekosystem? Prova biblioteket.	#
 tips.edu.11=NPC står för ''non-player character'', alltså en karaktär som inte styrs av spelaren.	#
@@ -7201,6 +7427,8 @@ tips.edu.18=Du kan slå av eller på automatiska hopp under Kontroller i instäl
 tips.edu.19=Dubbeltryck på hoppa i kreativt läge för att flyga.	#
 tips.edu.20=Välj standardläge när du skapar en värld för att ange vilket spelläge du vill spela.	#
 tips.edu.21=Använd kommandot /setworldspawn för att göra så att nya spelare börjar där du står.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Använd sjögräs för att locka på och para havssköldpaddor.	#
 tips.game.2=Skydda sköldpaddsungar från fiender!	#
@@ -7263,8 +7491,11 @@ tips.game.56=När du gräver rakt upp kan du placera en fackla vid fötterna så
 splitscreen.joinPrompt=Anslut som spelare %s	#
 splitscreen.unavailable.toastHeader=Det går inte att spela med delad skärm	#
 splitscreen.unavailable.toastMessage=En andra spelare kan inte ansluta just nu.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Kan inte ansluta Joy-Con!	#
 splitscreen.joyconError.toastMessage=Du har för många handkontroller anslutna i lokalt nätverksläge för att kunna ansluta till spelet.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Byt användare	#
 

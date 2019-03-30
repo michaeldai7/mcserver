@@ -130,7 +130,10 @@ action.interact.trade=Zamień	#
 action.interact.armorstand.pose=Zmień pozycję	#
 action.interact.armorstand.equip=Wyposaż/Załóż	#
 action.interact.read=Czytaj	#
+<<<<<<< HEAD
 action.interact.wakevillager=Obudź osadnika	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = wszystkie obiekty	#
 advMode.allPlayers=@a = wszyscy gracze	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=dodaj wzmiankę o wszystkich graczach	#
 chat.mute=Wycisz	#
 chat.realmsFilterDisabled=Ten świat Realms ma wyłączone filtrowanie czatu.	#
 chat.settings=Ustawienia czatu	#
+<<<<<<< HEAD
 chat.settings.chatColor=Kolor czatu	#
 chat.settings.color=Kolor	#
 chat.settings.font=Czcionka	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Odstęp między wierszami: x%s	#
 chat.settings.mentions=Moje wzmianki	#
 chat.settings.muteAll=Wycisz wszystkich	#
 chat.settings.typeface=Krój pisma	#
+=======
+chat.settings.defaultChatColor=Domyślny kolor czatu	#
+chat.settings.color=Kolor	#
+chat.settings.font=Czcionka	#
+chat.settings.fontColor=Kolor czcionki gracza	#
+chat.settings.lineSpacing=Odstęp między wierszami: x%s	#
+chat.settings.mentions=Moje wzmianki	#
+chat.settings.muteAll=Wycisz wszystkich	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Cofnij wyciszenie wszystkich	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Serwer	#
 commands.origin.teacher=Nauczyciel	#
 commands.ops.description=Ponownie wczytuje i nadaje uprawnienia operatora.	#
 commands.ops.reloaded=Uprawnienia operatorów ponownie wczytane z pliku.	#
+<<<<<<< HEAD
 commands.ops.set.success=Ustawiono poziom operatora dla gracza %s.	#
 commands.permissions.description=Ponownie wczytuje i nadaje uprawnienia.	#
 command.permissions.list.fail.filenotfound=Nie wczytano listy uprawnień z pliku. Pliku nie odnaleziono.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Nie ustawiono poziomu uprawnień (%s) dla gracza
 commands.permissions.set.success=Ustawiono poziom uprawnień (%s) dla gracza %s.	#
 commands.permissions.save.failed=Nie zapisano poziomu uprawnień (%s) dla gracza %s.	#
 commands.permissions.save.success=Zapisano poziom uprawnień (%s) dla gracza %s.	#
+=======
+commands.permissions.description=Ponownie wczytuje i nadaje uprawnienia.	#
+commands.permissions.reloaded=Pozwolenia ponownie wczytane z pliku.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Tworzy emiter cząstek	#
 commands.particle.description=Tworzy cząsteczki.	#
 commands.particle.notFound=Nieznana nazwa efektu (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Nie można odbanować gracza %1$s	#
 commands.unban.success=Odbanowano gracza %1$s	#
 commands.unbanip.invalid=Wprowadzono nieprawidłowy adres IP	#
 commands.unbanip.success=Odbanowano adres IP %1$s	#
+<<<<<<< HEAD
 commands.videostream.description=Próbuje połączyć się z serwerem WebSocket, aby przesłać strumień wideo.	#
 commands.videostreamaction.description=Wykonuje działanie związane ze strumieniem wideo.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Zmiana na słoneczną pogodę	#
 commands.weather.description=Ustawia pogodę.	#
 commands.weather.disabled=Cykl pogodowy nie jest uaktywniony na tym poziomie.	#
@@ -981,13 +1002,19 @@ container.furnace=Piec	#
 container.hopper=Lejek przedmiotów	#
 container.inventory=Ekwipunek	#
 container.isLocked=Zamknięte: %s!	#
+<<<<<<< HEAD
 container.loom=Krosno	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Wagonik	#
 container.repair=Napraw i nazwij	#
 container.repair.cost=Potrzebne PD: %1$d	#
 container.repair.expensive=Za drogo!	#
 container.stonecutter=Przycinarka	#
+<<<<<<< HEAD
 container.stonecutter_block=Przycinarka	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Shulkerowa skrzynia	#
 container.shulkerboxContains=i %d więcej...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Nie masz wszystkich składników	#
 crafting.insufficientLevel=Masz zbyt niski poziom	#
 crafting.noRecipesInventory=Musisz zebrać bloki, żeby tworzyć!	#
 crafting.noRecipesStonecutter=Musisz zebrać materiały z kamienia, żeby tworzyć!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Musisz zebrać materiały z kamienia, żeby tworzyć!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=Musisz zebrać bloki, żeby tworzyć!	#
 
 createWorld.customize.custom.baseSize=Rozmiar głębokości podstawy	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Sprawdzić teraz aktualizac
 disconnectionScreen.realmsWorldUnassigned=Przypisz wersję w opcjach deweloperskich.	#
 disconnectionScreen.realmsWorldUnassigned.title=Nieprzypisany świat Realms!	#
 disconnectionScreen.scriptNotSupported=Świat, do którego chcesz wejść, wymaga uruchomienia skryptów na Twoim urządzeniu. W tej chwili Twoje urządzenie nie obsługuje skryptów, dlatego dołączenie do tego świata jest niemożliwe.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Obsługa skryptów nie jest wspierana	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Ale ten serwer jest popularny! Zobacz później, czy zwolniło się jakieś miejsce.	#
 disconnectionScreen.serverFull.title=Serwer zapełniony	#
 disconnectionScreen.serverIdConflict=Nie można dołączyć do świata. Konto, na którym jesteś, aktualnie gra na tym świecie przy użyciu innego urządzenia.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Ghast	#
 entity.guardian.name=Strażnik	#
 entity.horse.name=Koń	#
 entity.husk.name=Posuch	#
+<<<<<<< HEAD
 entity.illager_beast.name=Sadnik potwór	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Żelazny golem	#
 entity.item.name=Przedmiot	#
 entity.leash_knot.name=Węzeł smyczy	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Osadnik	#
 entity.villager.shepherd=Pasterz	#
 entity.villager.tool=Wytwórca narzędzi	#
 entity.villager.weapon=Wytwórca broni	#
+<<<<<<< HEAD
 entity.villager.mason=Kamieniarz	#
 entity.villager.unskilled=Niedoświadczony osadnik	#
 entity.villager_v2.name=Osadnik	#
 entity.vindicator.name=Obrońca	#
 entity.wandering_trader.name=Kupiec wędrowny	#
+=======
+entity.vindicator.name=Obrońca	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Wiedźma	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Mroczny szkielet	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Koń zombie	#
 entity.zombie_pigman.name=Zombie pigman	#
 entity.zombie_villager.name=Osadnik zombie	#
 
+<<<<<<< HEAD
 exports.share.file=Udostępnij %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Dodaj serwer	#
 addExternalServerScreen.nameTextBoxLabel=Nazwa serwera	#
 addExternalServerScreen.namePlaceholder=Wprowadź nazwę serwera	#
@@ -1974,7 +2018,10 @@ feature.village=Wioska	#
 feature.shipwreck=Wrak statku	#
 feature.buriedtreasure=Zakopany skarb	#
 feature.ruins=Ruiny w oceanie	#
+<<<<<<< HEAD
 feature.pillageroutpost=Posterunek grabieżcy	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Polub	#
 feed.manage_feed=Zarządzaj aktualnościami	#
@@ -2037,7 +2084,11 @@ gameMode.spectator=Tryb widza	#
 gameMode.survival=Tryb przetrwania	#
 
 gameTip.cameraMovement.mouse=Rozglądaj się za pomocą myszki	#
+<<<<<<< HEAD
 gameTip.cameraMovement.touch=Dotknij ekranu i przesuń po nim palcem, aby się rozejrzeć	#
+=======
+gameTip.cameraMovement.touch=Dotknij ekranu i przesuń po nim palcem, aby się rozejrzeć.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gameTip.cameraMovement.controller=Rozglądaj się za pomocą prawego drążka	#
 gameTip.playerMovement.keyboard=Naciśnij W, S, A lub D, aby się poruszyć.	#
 gameTip.playerMovement.touch=Dotknij strzałek, aby się poruszyć	#
@@ -2047,11 +2098,16 @@ gameTip.jumpMovement.touch=Naciśnij prawy przycisk, aby skoczyć	#
 gameTip.jumpMovement.controller=Naciśnij A, aby skoczyć	#
 gameTip.jumpForward.keyboard=Naciśnij jednocześnie W i spację, aby wskoczyć na blok	#
 gameTip.jumpForward.touch=Dotknij jednocześnie strzałki w górę i prawego przycisku, aby wskoczyć na blok	#
+<<<<<<< HEAD
 gameTip.jumpForward.controller=Przechylając lewy drążek w górę, naciśnij A, aby wskoczyć na blok	#
+=======
+gameTip.jumpForward.controller=Przechyl lewy drążek w górę i jednocześnie naciśnij A, aby wskoczyć na blok	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gameTip.findTree=Znajdź drzewo, aby zebrać drewno	#
 gameTip.breakWood.mouse=Naciśnij i przytrzymaj lewy przycisk myszy, aby zebrać 3 kawałki drewna	#
 gameTip.breakWood.touch=Dotknij ekranu i przytrzymaj, aby zebrać 3 kawałki drewna	#
 gameTip.breakWood.controller=Naciśnij i przytrzymaj prawy spust, aby zebrać 3 kawałki drewna	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Podchodź do przedmiotów, aby je podnieść	#
 gameTip.openInventory.keyboard=Naciśnij E, aby otworzyć ekwipunek	#
 gameTip.openInventory.touch=Dotknij przycisku ..., aby otworzyć ekwipunek	#
@@ -2067,6 +2123,8 @@ gameTip.open.recipe=Otwórz przepiśnik, aby dowiedzieć się, jak wytworzyć wi
 gameTip.closeInventory.keyboard=Naciśnij E lub kliknij X lewym przyciskiem myszy, aby zamknąć ekwipunek	#
 gameTip.closeInventory.touch=Dotknij X, aby zamknąć ekwipunek	#
 gameTip.closeInventory.controller=Naciśnij B, aby zamknąć ekwipunek	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=POWIĘKSZONY	#
 generator.amplified.info=Uwaga: tylko dla zabawy, potrzebny mocny komputer	#
@@ -2090,7 +2148,10 @@ gui.cancel=Anuluj	#
 gui.clear=Wyczyść	#
 gui.close=Zamknij	#
 gui.confirm=Potwierdź	#
+<<<<<<< HEAD
 gui.custom=Niestandardowy	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Domyślny	#
 gui.decline=Odrzuć	#
 gui.deleteWorldLong=Usuń świat	#
@@ -2184,6 +2245,7 @@ howtoplay.armor.header.1=Konstruowanie	#
 howtoplay.armor.text.2=Zbroję można stworzyć ze skóry, żelaza, złota lub diamentu. Kolczugę można zdobyć poprzez handel z osadnikami lub po złupieniu zombie czy szkieletów.	#
 howtoplay.armor.text.3=Przywdziej zbroję, otwierając swój ekwipunek i przenosząc części zbroi do odpowiedniego okienka swojej postaci.	#
 howtoplay.armor.text.4=Kolczugę, żelazną i złotą zbroję można w piecu przetopić na żelazne i złote samorodki.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Tarcza	#
 howtoplay.armor.text.5.keyboard=Tarcza zablokuje doznawane obrażenia. Można ją trzymać w drugiej ręce lub w podręcznym ekwipunku. Aby wykonać blok tarczą, naciśnij i przytrzymaj :_input_key.sneak:.	#
 howtoplay.armor.text.5.gamepad=Tarcza zablokuje doznawane obrażenia. Można ją trzymać w drugiej ręce lub w podręcznym ekwipunku. Aby włączyć i wyłączyć blok tarczą, naciśnij przycisk :_input_key.sneak: lub kliknij :_gamepad_stick_right:.	#
@@ -2193,6 +2255,10 @@ howtoplay.armor.text.5.windowsmr_controller=Tarcza zablokuje doznawane obrażeni
 howtoplay.armor.text.6=Tarcza zatrzyma nawet odłamki wybuchającego creepera!	#
 howtoplay.armor.header.3=Przebierz się	#
 howtoplay.armor.text.7=Na głowie możesz również nosić dynię. Nie dostaniesz dzięki temu żadnych punktów :armor:, ale endermani nie wpadną w szał, gdy na nich spojrzysz.	#
+=======
+howtoplay.armor.header.2=Przebierz się	#
+howtoplay.armor.text.5=Na głowie możesz również nosić dynię. Nie dostaniesz dzięki temu żadnych punktów :armor:, ale endermani nie wpadną w szał, gdy na nich spojrzysz.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Stojak na zbroję	#
 howtoplay.armorStand.title=Obsługa gry: stojak na zbroję	#
@@ -2211,7 +2277,11 @@ howtoplay.armorStand.text.5=Stojaki na zbroję reagują na sygnał czerwonego ka
 howtoplay.banners=Sztandary	#
 howtoplay.banners.title=Obsługa gry: sztandary	#
 howtoplay.banners.text.1=Sztandary to świetny sposób na ozdobienie domu lub zamku specjalnymi wzorami i kolorami.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Po stworzeniu sztandaru możesz go umieścić na stole rzemieślniczym lub krośnie i dodać różne barwniki, aby wykonać swój wyjątkowy wzór!	#
+=======
+howtoplay.banners.text.2=Po stworzeniu sztandaru możesz go umieścić na stole rzemieślniczym i dodać różne barwniki, aby zrobić swój wyjątkowy wzór!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Nakładanie wzoru	#
 howtoplay.banners.text.3=Istnieje wiele różnych wzorów, które możesz zrobić przy pomocy barwników, na przykład:	#
 howtoplay.banners.text.4=  – zrobienie trójkąta da wzór w jodełkę.	#
@@ -2337,7 +2407,11 @@ howtoplay.controls.text.1=Minecraft to gra polegająca na budowaniu z klocków (
 howtoplay.controls.header.1=Poruszanie się	#
 howtoplay.controls.text.2.keyboard=Użyj myszki, aby się rozejrzeć.	#
 howtoplay.controls.text.2.gamepad=Użyj :_gamepad_stick_right:, aby się rozejrzeć.	#
+<<<<<<< HEAD
 howtoplay.controls.text.2.touch=Dotknij ekranu i przesuń po nim palcem, aby się rozejrzeć	#
+=======
+howtoplay.controls.text.2.touch=Dotknij ekranu i przesuń po nim palcem, aby się rozejrzeć.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.controls.text.2.rift_controller=Użyj :rift_right_stick:, aby się rozejrzeć.	#
 howtoplay.controls.text.2.windowsmr_controller=Użyj :windowsmr_right_stick:, aby się rozejrzeć.	#
 howtoplay.controls.text.3.keyboard=Użyj :_input_key.forward:, :_input_key.left:, :_input_key.back:, :_input_key.right:, aby się rozejrzeć.	#
@@ -2511,6 +2585,7 @@ howtoplay.droppers.text.2=Jeśli podajnik stoi przy skrzyni lub przy innym pojem
 howtoplay.dyes=Barwniki	#
 howtoplay.dyes.title=Obsługa gry: barwniki	#
 howtoplay.dyes.text.1=Barwnika używa się do zmiany koloru wielu przedmiotów w Minecrafcie.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Niektórych materiałów do barwników trzeba się naszukać. Choć większość z nich można pozyskać z kwiatów, np. czerwony barwnik z maku, poszukiwania i przygotowanie niektórych barwników są bardziej złożone. Np.:	#
 howtoplay.dyes.text.3=– Kopanie lazurytu głęboko pod ziemią	#
 howtoplay.dyes.text.4=– Zbieranie torbieli z atramentem pod wodą	#
@@ -2518,6 +2593,14 @@ howtoplay.dyes.text.5=– Zbieranie ziaren kakaowych w dżungli	#
 howtoplay.dyes.text.6=-Zielony barwnik pozyskuje się z kaktusa	#
 howtoplay.dyes.text.7=-Mączka kostna stymuluje rozwój roślin i drzew, ale można też pozyskać z niej biały barwnik	#
 howtoplay.dyes.text.8=-Pozyskując torbiele z atramentem z kałamarnic, otrzymujesz czarny barwnik	#
+=======
+howtoplay.dyes.text.2=Może minąć chwila, zanim znajdziesz odpowiednie materiały do stworzenia niektórych barwników. Choć większość z nich można zrobić z kwiatów, na przykład różaną czerwień z maku, niektóre barwniki zdobywa się lub tworzy w mniej oczywiste sposoby, na przykład: 	#
+howtoplay.dyes.text.3=– Kopanie lazurytu głęboko pod ziemią	#
+howtoplay.dyes.text.4=– Zbieranie torbieli z atramentem pod wodą	#
+howtoplay.dyes.text.5=– Zbieranie ziaren kakaowych w dżungli	#
+howtoplay.dyes.text.6=-kaktusową zieleń trzeba przetopić z kaktusa.	#
+howtoplay.dyes.text.7=-mączka kostna pomaga rosnąć roślinom i drzewom, ale można też jej użyć jako białego barwnika	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Elytry	#
 howtoplay.elytra.title=Obsługa gry: elytry	#
@@ -2706,6 +2789,7 @@ howtoplay.jukebox.header.3=Odnajdywanie płyt muzycznych	#
 howtoplay.jukebox.text.7=Kilka płyt muzycznych można znaleźć w skrzyniach na świecie.	#
 howtoplay.jukebox.text.8=Inne jest trudniej zdobyć. Creepery potajemnie uwielbiają muzykę.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Krosno	#
 howtoplay.loom.title=Obsługa gry: Krosno	#
 howtoplay.loom.text.1=Utkaj wzór na sztandarze szybko i skutecznie dzięki krosnu. Do tworzenia wzoru wykorzystuje ono tylko jeden barwnik. Dla krosna są też dostępne wzory specjalne.	#
@@ -2715,6 +2799,8 @@ howtoplay.loom.text.3=Sztandar może mieć kilka warstw, oferując możliwość 
 howtoplay.loom.header.2=Wzory krosna	#
 howtoplay.loom.text.4=Umieszczając wzór krosna w jego trzecim polu, możesz stworzyć wzory specjalne, takie jak twarz creepera czy kwiat. Nie stracisz umieszczonych na sztandarach wzorów krosna.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Wierzchowce	#
 howtoplay.mounts.title=Obsługa gry: wierzchowce	#
 howtoplay.mounts.text.1=Gracz może ujeżdżać dorosłe konie, osły i muły. Tylko konie mogą być uzbrojone.	#
@@ -2912,6 +2998,10 @@ howtoplay.transportation.text.5.keyboard=Naciśnij :_input_key.use:, patrząc na
 howtoplay.transportation.text.5.gamepad=Naciśnij :_input_key.use:, patrząc na łódź, aby do niej wsiąść. Przechyl :_gamepad_stick_left: w lewo lub prawo, aby skręcić. Przechyl :_gamepad_stick_left: do przodu, aby płynąć w tym kierunku. Naciśnij :_input_key.jump: lub :_input_key.sneak:, aby wysiąść.	#
 howtoplay.transportation.text.5.touch=Stuknij przycisk wejścia na pokład, będąc w pobliżu łodzi, aby na nią wsiąść. Naciśnij :_input_key.left: lub :_input_key.right:, aby skręcić w lewo lub prawo. Naciśnij oba, aby płynąć do przodu. Stuknij przycisk opuszczenia łodzi, aby wysiąść.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Broń	#
 howtoplay.weapons.title=Obsługa gry: broń	#
 howtoplay.weapons.header.1=Miecz	#
@@ -2922,6 +3012,7 @@ howtoplay.weapons.header.2=Łuk	#
 howtoplay.weapons.text.3.notTouch=Łuk jest podstawową bronią dystansową w Minecrafcie. Naciśnij i przytrzymaj :_input_key.use:, aby naciągnąć cięciwę. Puść :_input_key.use:, by wystrzelić strzałę. Do strzelania z łuku potrzeba strzał. 	#
 howtoplay.weapons.text.3.touch=Łuk jest podstawową bronią dystansową w Minecrafcie. Dotknij ekranu i przytrzymaj na nim palec, aby naciągnąć cięciwę. Zabierz palec, by wystrzelić strzałę. Do strzelania z łuku potrzeba strzał.	#
 howtoplay.weapons.text.4=Im bardziej się naciągnie cięciwę, tym więcej obrażeń zada łuk. Pamiętaj, aby naciągać ją jak najdalej.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Kusza	#
 howtoplay.weapons.text.5.notTouch=Kusza to alternatywna broń dystansowa. Aby ją załadować, naciśnij i przytrzymaj :_input_key.use:. Kusza pozostanie załadowana do chwili wystrzelenia strzały. W tym celu naciśnij :_input_key.use:. Do załadowania kuszy potrzeba strzał.	#
 howtoplay.weapons.text.5.touch=Kusza to alternatywna broń dystansowa. Aby ją załadować, naciśnij i przytrzymaj ekran. Kusza pozostanie załadowana do chwili wystrzelenia strzały, nawet jeśli odłożysz ją do ekwipunku. Aby wystrzelić z kuszy, naciśnij i przytrzymaj ekran. Do załadowania kuszy potrzeba strzał.	#
@@ -2930,6 +3021,13 @@ howtoplay.weapons.text.6.notTouch=Trójząb służy zarówno do walki wręcz, ja
 howtoplay.weapons.text.6.touch=Trójząb służy zarówno do walki wręcz, jak i na dystans. Dotknij moba, by go zaatakować. Dotknij ekranu i przytrzymaj na nim palec, by wziąć zamach. Zabierz palec, by rzucić trójzębem. Trójząb jest najlepszą bronią do używania pod wodą.	#
 howtoplay.weapons.header.5=Zaklęte bronie	#
 howtoplay.weapons.text.7=Możesz zaklinać miecze, łuki, kusze i trójzęby za pomocą odpowiednich zaklęć – użyj do tego stołu do zaklęć lub kowadła. Zaklęcia mogą zwiększyć obrażenia lub wytrzymałość broni, a nawet sprawić, że będzie podpalać moby!	#
+=======
+howtoplay.weapons.header.3=Zaklęte bronie	#
+howtoplay.weapons.text.5=Możesz zaklinać miecze, łuki i trójzęby za pomocą odpowiednich zaklęć – użyj do tego stołu do zaklęć lub kowadła. Zaklęcia mogą zwiększyć obrażenia lub wytrzymałość broni, a nawet sprawić, że będzie podpalać moby!	#
+howtoplay.weapons.header.trident=Trójząb	#
+howtoplay.weapons.text.trident.notTouch=Trójząb służy zarówno do walki wręcz, jak i na dystans. Naciśnij :_input_key.attack:, by zaatakować. Naciśnij i przytrzymaj :_input_key.use:, by wziąć zamach. Puść :_input_key.use:, by rzucić trójzębem. Trójząb jest najlepszą bronią do używania pod wodą.	#
+howtoplay.weapons.text.trident.touch=Trójząb służy zarówno do walki wręcz, jak i na dystans. Dotknij moba, by go zaatakować. Dotknij ekranu i przytrzymaj na nim palec, by wziąć zamach. Zabierz palec, by rzucić trójzębem. Trójząb jest najlepszą bronią do używania pod wodą.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Nowe funkcje	#
 
@@ -3874,13 +3972,19 @@ item.spawn_egg.entity.sheep.name=Zespawnuj owcę	#
 item.spawn_egg.entity.npc.name=Zespawnuj BN-a	#
 item.spawn_egg.entity.wolf.name=Zespawnuj wilka	#
 item.spawn_egg.entity.villager.name=Zespawnuj osadnika	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Zespawnuj osadnika	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Zespawnuj obrońcę	#
 item.spawn_egg.entity.mooshroom.name=Zespawnuj grzybową krowę	#
 item.spawn_egg.entity.squid.name=Zespawnuj kałamarnicę	#
 item.spawn_egg.entity.rabbit.name=Zespawnuj królika	#
 item.spawn_egg.entity.bat.name=Zespawnuj nietoperza	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Zespawnuj sadnika potwora	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Zespawnuj żelaznego golema	#
 item.spawn_egg.entity.snow_golem.name=Zespawnuj bałwana	#
 item.spawn_egg.entity.ocelot.name=Zespawnuj ocelota	#
@@ -3906,7 +4010,10 @@ item.spawn_egg.entity.ghast.name=Zespawnuj ghasta	#
 item.spawn_egg.entity.magma_cube.name=Zespawnuj kostkę magmy	#
 item.spawn_egg.entity.blaze.name=Zespawnuj płomyka	#
 item.spawn_egg.entity.zombie_villager.name=Zespawnuj osadnika zombie	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Zespawnuj osadnika zombie	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Zespawnuj wiedźmę	#
 item.spawn_egg.entity.stray.name=Zespawnuj tułacza	#
 item.spawn_egg.entity.husk.name=Zespawnuj łupacza	#
@@ -3923,7 +4030,10 @@ item.spawn_egg.entity.phantom.name=Zespawnuj upiora	#
 item.spawn_egg.entity.panda.name=Zespawnuj pandę	#
 item.spawn_egg.entity.pillager.name=Zespawnuj grabieżcę	#
 item.spawn_egg.entity.unknown.name=Zespawnuj	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Zespawnuj kupca wędrownego	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Trójząb	#
 item.mushroom_stew.name=Potrawka grzybowa	#
 item.muttonCooked.name=Pieczona baranina	#
@@ -4016,12 +4126,16 @@ item.wheat.name=Pszenica	#
 item.writable_book.name=Książka i pióro	#
 item.written_book.name=Zapisana książka	#
 item.glowstone_dust.name=Jasnopył	#
+<<<<<<< HEAD
 item.shield.name=Tarcza	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Muszla shulkera	#
 item.totem.name=Totem nieśmiertelnych	#
 item.turtle_helmet.name=Skorupa żółwia	#
 item.turtle_shell_piece.name=Tarczka	#
 item.phantom_membrane.name=Upiorna membrana	#
+<<<<<<< HEAD
 item.sweet_berries.name=Synsepale	#
 item.banner_pattern.bricks=Ceglane tło	#
 item.banner_pattern.creeper=Głowa creepera	#
@@ -4030,6 +4144,8 @@ item.banner_pattern.name=Wzór sztandaru	#
 item.banner_pattern.skull=Symbol czaszki	#
 item.banner_pattern.thing=Logo Mojang	#
 item.banner_pattern.vines=Ząbkowane obramowanie	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Szukaj przedmiotów	#
 itemGroup.name.planks=Deski	#
@@ -4064,7 +4180,11 @@ itemGroup.name.rawFood=Surowa żywność	#
 itemGroup.name.cookedFood=Przyrządzona żywność	#
 itemGroup.name.miscFood=Różne artykuły żywnościowe	#
 itemGroup.name.mushroom=Grzyby	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Zainfekowany kamień	#
+=======
+itemGroup.name.monsterStoneEgg=Kamienne jaja potworów	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Jaja mobów	#
 itemGroup.name.helmet=Hełmy	#
 itemGroup.name.chestplate=Napierśniki	#
@@ -4100,8 +4220,11 @@ itemGroup.name.coral=Bloki korali	#
 itemGroup.name.coral_decorations=Dekoracje koralowe	#
 itemGroup.name.buttons=Przyciski	#
 itemGroup.name.sign=Znaki	#
+<<<<<<< HEAD
 itemGroup.name.wood=Rodzaje drewna	#
 itemGroup.name.banner_pattern=Wzory sztandarów	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Atakuj / zniszcz	#
 key.back=Idź do tyłu	#
@@ -4523,7 +4646,11 @@ options.chat.visibility.hidden=Ukryty	#
 options.chat.visibility.system=Tylko polecenia	#
 options.chat.width=Szerokość	#
 options.codeBuilder=Konstruktor Kodów	#
+<<<<<<< HEAD
 options.content_log_file=Włącz plik dziennika treści	#
+=======
+options.content_log=Włącz dziennik treści	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Włącz interfejs dziennika treści	#
 options.controller=Kontroler	#
 options.controllerLayout=Układ kontrolera	#
@@ -4613,6 +4740,7 @@ options.dev_useZippedInPackagePacks=Użyj zestawów zzipowanych	#
 options.dev_importPacksAsZip=Importuj zestawy w formacie zip	#
 options.dev_folders_portSettingsFolder=Wyeksportuj folder ustawień	#
 options.dev_useOverrideDate=Użyj daty zastępczej	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Wyświetl obiekt DateTime	#
 options.dev_loadOverrideDate=Załaduj datę zastępczą przy uruchomieniu	#
 options.dev.timeZoneType=Zastąp typ strefy czasowej edytora	#
@@ -4627,6 +4755,16 @@ options.dev_overrideDayLength=Zmiana długości dnia w minutach (min. 1)	#
 options.dev_overrideTimeScale=Skalowanie szybkości upływu czasu (min: 1, domyślnie: 1)	#
 options.dev_updateOverrideDate=Aktualizuj datę zastępczą	#
 options.dev_resetOverrideDate=Zresetuj datę zastępczą	#
+=======
+options.dev_displayOverrideDatetime=Wyświetl datę zastępczą	#
+options.dev_saveCurrentOverrideDate=Zapisz aktualną datę przy zamknięciu	#
+options.dev_overrideDateYear=Rok	#
+options.dev_overrideDateMonth=Miesiąc	#
+options.dev_overrideDateDay=Dzień	#
+options.dev_overrideDayLength=Zmiana długości dnia w minutach (min. 1)	#
+options.dev_overrideTimeScale=Skalowanie szybkości upływu czasu (min: 1, domyślnie: 1)	#
+options.dev_updateOverrideDate=Aktualizuj datę zastępczą	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Wyczyść pamięć podręczną Sklepu	#
 options.dev_clearAllCache=Wyczyść wszystkie dane pamięci podręcznej	#
 options.dev_connection_quality=Kondycjoner sieci (symuluj złe połączenia)	#
@@ -4636,6 +4774,7 @@ options.dev_connection_4g=4G – 15 Mbps, 100 ms opóźnienia, 1% utraty pakiet�
 options.dev_connection_3g=3G – 1,5 Mbps, 200 ms opóźnienia, 2% utraty pakietów	#
 options.dev_connection_slow=Wolne – 400 Kbps, 300 ms opóźnienia, 3% utraty pakietów	#
 options.dev_connection_veryslow=Bardzo wolne – 200 Kbps, 400 ms opóźnienia, 4% utraty pakietów	#
+<<<<<<< HEAD
 options.dev_identity_environment=Nowa tożsamość i środowisko infrastruktury internetowej (wymaga ponownego uruchomienia)	#
 options.dev_identity_environment.dev=Rozwój	#
 options.dev_identity_environment.test=Test	#
@@ -4645,6 +4784,8 @@ options.dev.windowsStore.auto=Automatyczny	#
 options.dev.windowsStore.v6=Starsza wersja Windows Store – V6	#
 options.dev.windowsStore.v8=OneStore - V8	#
 options.dev.stores=Aktualnie aktywne sklepy:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Poziom trudności	#
 options.difficulty.easy=Łatwy	#
 options.difficulty.hard=Trudny	#
@@ -4962,13 +5103,22 @@ pauseScreen.title=Gra wstrzymana	#
 pauseScreen.betaFeedback=Opinie na temat Bety	#
 pauseScreen.xboxLiveDisconnect=Ups! Brak połączenia z Xbox Live. Aby zapraszać kolejnych graczy, otwórz ponownie swój świat.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Opinia	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=Masz sugestię?	#
 feedbackScreen.suggestion=Powiedz nam, co myślisz!	#
 feedbackScreen.bug=Zgłoś błąd!	#
 feedbackScreen.help=Potrzebujesz pomocy?	#
 feedbackScreen.body=Masz pomysł na ulepszenie Minecrafta? Chcesz, żebyśmy naprawili zauważony przez Ciebie błąd? A może masz jakiś problem i potrzebujesz pomocy? Daj nam znać!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Odwiedź tę witrynę na innym urządzeniu. %s	#
+=======
+feedbackScreen.suggestionLink=Odwiedź tę stronę na innym urządzeniu. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Odwiedź tę stronę na innym urządzeniu. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Odwiedź tę stronę na innym urządzeniu. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Wstecz	#
 hudScreen.tooltip.basic.flyDown=Leć w dół	#
@@ -5012,7 +5162,10 @@ hudScreen.tooltip.dismount=Zsiądź	#
 hudScreen.tooltip.collect=Zbierz	#
 hudScreen.tooltip.peel=Okoruj	#
 hudScreen.tooltip.scaffoldingDescend=Przytrzymaj, aby zejść	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Zbierz	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5207,11 @@ permissions.ability.doorsandswitches=Używaj drzwi i przełączników	#
 permissions.ability.opencontainers=Otwieraj pojemniki	#
 permissions.ability.attackplayers=Atakuj graczy	#
 permissions.ability.attackmobs=Atakuj moby	#
+<<<<<<< HEAD
 permissions.ability.op=Polecenia operatora	#
+=======
+permissions.ability.op=Operator	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Nałóż na siebie niewidzialność	#
 permissions.ability.teleport=Użyj teleportu	#
 permissions.NeedPermission=Potrzebujesz zezwolenia	#
@@ -5078,10 +5235,15 @@ permissions.level.operator=Operator	#
 permissions.level.visitor=Gość	#
 permissions.nocheats=Kody wyłączone	#
 permissions.nocheats.message=Niektóre polecenia, na przykład teleport, są dostępne wyłącznie przy włączonych kodach, które można włączyć za pomocą menu pauzy w ustawieniach gry. W świecie, w którym włączysz kody, osiągnięcia zostaną wyłączone.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Niektóre polecenia, na przykład „teleportuj”, są dostępne wyłącznie przy włączonych kodach. Kody można włączyć za pomocą menu pauzy w ustawieniach gry.	#
 permissions.nocheats.turnon=Nadaj status operatora przy włączonych kodach	#
 permissions.nocheats.turnoff=Nadaj status operatora przy wyłączonych kodach	#
 permissions.nocheats.cancel=Anuluj	#
+=======
+permissions.nocheats.turnon=Włącz kody	#
+permissions.nocheats.turnoff=Nie włączaj kodów	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Odwołać uprawniania operatora?	#
 permissions.deopingself.message=Nie będziesz już mieć uprawnień operatora po obniżeniu swojego poziomu uprawnień.	#
 permissions.title=Pozwolenia gracza	#
@@ -5765,13 +5927,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Zdobądź monety	#
 store.popup.purchasePriceMismatch.msg=Niestety nie mogliśmy sfinalizować Twojego zakupu. Spróbuj ponownie później.	#
 store.popup.trialUpgradeFail.title=Błąd odblokowania gry	#
 store.popup.trialUpgradeFail.msg=Zdaje się, że korzystasz z innego konta Microsoft niż tego, z którego została pobrana wersja próbna Minecrafta. Spróbuj ponownie po zalogowaniu się na to konto.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Zakupić szablon świata?	#
 store.popup.downloaded.unOwnedTemplate.msg=Nie posiadasz tego szablonu. Możesz go odblokować, dokonując zakupu. Czy chcesz kupić ten szablon?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Kupujesz: %s	#
 store.purchase.bundle=Odblokować %d z %d paczek?	#
 store.purchase.bundle.confirm=Odblokuj teraz!	#
 store.purchase.bundle.partiallyOwnedWarning=Posiadasz już następujące paczki: %s. Czy chcesz odblokować pozostałe paczki z tego zestawu?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=W posiadaniu	#
+=======
+store.purchase.bundle.owned=Już masz	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Otrzymasz	#
 store.createdBy=Autor: %s	#
 store.seeMoreBy=Zobacz więcej dzieł, których autorem jest %s	#
@@ -6144,7 +6313,10 @@ tile.chalkboard.twoByOne.name=Plakat	#
 tile.chalkboard.threeByTwo.name=Tablica	#
 tile.chest.name=Skrzynia	#
 tile.ender_chest.name=Skrzynia Kresu	#
+<<<<<<< HEAD
 tile.jigsaw.name=Puzzelblok	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Skrzynia-pułapka	#
 tile.shulkerBoxWhite.name=Biała shulkerowa skrzynia	#
 tile.shulkerBoxOrange.name=Pomarańczowa shulkerowa skrzynia	#
@@ -6237,6 +6409,11 @@ tile.wool.white.name=Biała wełna	#
 tile.wool.yellow.name=Żółta wełna	#
 tile.cobblestone_wall.mossy.name=Mur z bruku z mchem	#
 tile.cobblestone_wall.normal.name=Mur z bruku	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Mur z bruku	#
+tile.cobblestone_wall.mossy_cobblestone.name=Mur z omszałego bruku	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Mur z granitu	#
 tile.cobblestone_wall.diorite.name=Mur z diorytu	#
 tile.cobblestone_wall.andesite.name=Mur z andezytu	#
@@ -6251,7 +6428,10 @@ tile.cobblestone_wall.red_sandstone.name=Mur z czerwonego piaskowca	#
 tile.cobblestone_wall.red_nether_brick.name=Mur z czerwonej netherowej cegły	#
 tile.cocoa.name=Roślina kakao	#
 tile.command_block.name=Blok poleceń	#
+<<<<<<< HEAD
 tile.composter.name=Kompostownik	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Powtarzający blok poleceń	#
 tile.chain_command_block.name=Łańcuchowy blok poleceń	#
 tile.wheat.name=Uprawy	#
@@ -6334,6 +6514,7 @@ tile.lever.name=Dźwignia	#
 tile.glowstone.name=Jasnogłaz	#
 tile.lit_pumpkin.name=Dyniowa latarnia	#
 tile.lockedchest.name=Zamknięta skrzynia	#
+<<<<<<< HEAD
 tile.log.acacia.name=Kłoda akacjowa	#
 tile.log.big_oak.name=Kłoda czarnego dębu	#
 tile.log.birch.name=Kłoda brzozowa	#
@@ -6351,6 +6532,25 @@ tile.monster_egg.crackedbrick.name=Zainfekowana popękana kamienna cegła	#
 tile.monster_egg.mossybrick.name=Zainfekowana omszała kamienna cegła	#
 tile.monster_egg.name=Zainfekowany kamień	#
 tile.monster_egg.stone.name=Zainfekowany kamień	#
+=======
+tile.log.acacia.name=Drewno akacjowe	#
+tile.log.big_oak.name=Drewno czarnego dębu	#
+tile.log.birch.name=Drewno brzozy	#
+tile.log.jungle.name=Drewno tropikalne	#
+tile.log.name=Drewno	#
+tile.log.oak.name=Drewno dębu	#
+tile.log.spruce.name=Drewno świerku	#
+tile.magma.name=Blok magmy	#
+tile.melon_block.name=Arbuz	#
+tile.mob_spawner.name=Spawner potworów	#
+tile.monster_egg.brick.name=Kamienne cegły z ukrytym potworem	#
+tile.monster_egg.chiseledbrick.name=Rzeźbiona kamienna cegła z ukrytym potworem	#
+tile.monster_egg.cobble.name=Bruk z ukrytym potworem	#
+tile.monster_egg.crackedbrick.name=Popękane kamienne cegły z ukrytym potworem	#
+tile.monster_egg.mossybrick.name=Omszałe kamienne cegły z ukrytym potworem	#
+tile.monster_egg.name=Kamień z ukrytym potworem	#
+tile.monster_egg.stone.name=Kamień z ukrytym potworem	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Grzyb	#
 tile.noteblock.name=Blok dźwiękowy	#
 tile.mycelium.name=Grzybnia	#
@@ -6501,7 +6701,10 @@ tile.stonebrick.mossy.name=Omszałe kamienne cegły	#
 tile.stonebrick.name=Kamienne cegły	#
 tile.stonebrick.smooth.name=Gładkie kamienne cegły	#
 tile.stonecutter.name=Przycinarka	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Przycinarka	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Omszały bruk	#
 tile.double_stone_slab.brick.name=Półblok cegły	#
 tile.double_stone_slab.cobble.name=Półblok bruku	#
@@ -6516,10 +6719,18 @@ tile.stone_slab.name=Półblok kamienia	#
 tile.stone_slab.brick.name=Półblok cegły	#
 tile.stone_slab.cobble.name=Półblok bruku	#
 tile.stone_slab.stone.name=Półblok z gładkiego kamienia	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Półblok z gładkiego kamienia	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Półblok z netherowej cegły	#
 tile.stone_slab.quartz.name=Półblok kwarcu	#
 tile.stone_slab.sand.name=Półblok piaskowca	#
 tile.stone_slab.smoothStoneBrick.name=Półblok kamiennej cegły	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Półblok kamienia	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Półblok drewna	#
 tile.double_stone_slab2.red_sandstone.name=Półblok czerwonego piaskowca	#
 tile.stone_slab2.red_sandstone.name=Półblok czerwonego piaskowca	#
@@ -6695,12 +6906,21 @@ tile.concretePowder.magenta.name=Karmazynowy proszek cementowy	#
 tile.concretePowder.orange.name=Pomarańczowy proszek cementowy	#
 tile.concretePowder.white.name=Biały proszek cementowy	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Kłoda okorowanego świerku	#
 tile.stripped_dark_oak_log.name=Kłoda okorowanego czarnego dębu	#
 tile.stripped_birch_log.name=Kłoda okorowanej brzozy	#
 tile.stripped_jungle_log.name=Kłoda okorowanego drzewa tropikalnego	#
 tile.stripped_oak_log.name=Kłoda okorowanego dębu	#
 tile.stripped_acacia_log.name=Kłoda okorowanej akacji	#
+=======
+tile.stripped_spruce_log.name=Okorowany świerk	#
+tile.stripped_dark_oak_log.name=Okorowany czarny dąb	#
+tile.stripped_birch_log.name=Okorowana brzoza	#
+tile.stripped_jungle_log.name=Okorowane drewno tropikalne	#
+tile.stripped_oak_log.name=Okorowany dąb	#
+tile.stripped_acacia_log.name=Okorowana akacja	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambus	#
 tile.scaffolding.name=Rusztowania	#
@@ -6710,6 +6930,7 @@ tile.lantern.name=Lampion	#
 tile.smoker.name=Piec wędzarniczy	#
 tile.smithing_table.name=Stół kowalski	#
 tile.barrel.name=Baryłka	#
+<<<<<<< HEAD
 tile.campfire.name=Ognisko	#
 tile.loom.name=Krosno	#
 tile.lectern.name=Pulpit	#
@@ -6727,6 +6948,8 @@ tile.wood.stripped.birch.name=Okorowana brzoza	#
 tile.wood.stripped.jungle.name=Okorowane drzewo tropikalne	#
 tile.wood.stripped.acacia.name=Okorowana akacja	#
 tile.wood.stripped.dark_oak.name=Okorowany czarny dąb	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Strzała z miksturą	#
 tipped_arrow.effect.water=Strzała z miksturą	#
@@ -6811,10 +7034,13 @@ translation.test.invalid2=cześć %  s	#
 translation.test.none=Cześć, świecie!	#
 translation.test.world=świat	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Konwersja świata nieudana	#
 worldConversionErrorPrompt.message=Ups, coś poszło nie tak w czasie konwersji świata. Spróbuj ponownie później.	#
 worldConversionErrorPrompt.message.upload=Coś poszło nie tak. Nie mogliśmy przekonwertować Twojego świata. Możesz wysłać nam swój świat później, przechodząc do swojego starego świata i naciskając Y. Możesz też wysłać go teraz, abyśmy mogli zbadać ten problem.	#
@@ -6905,6 +7131,7 @@ trial.tabbed_upsell.addon.description=Chcesz, aby wilki zachowywały się jak kr
 trial.tabbed_upsell.seeds.title=NASIONA	#
 trial.tabbed_upsell.seeds.description=Odblokuj pełną zawartość Minecraft i zdobądź dostęp do nasion! Nasiona pozwalają odkrywać nowe biomy – przetrwaj na lodowych równinach, wspinaj się na górskie szczyty lub przemierzaj pustynie. Rozpocznij wraz z unikalnymi modelami lub eksploruj nowe losowe światy. Kup Minecrafta już dziś i zdobądź dostęp do nasion, trybu kreatywnego, trybu wieloosobowego i nie tylko!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Kolekcja startowa do Minecrafta	#
 trial.master.collection.title=Mistrzowska kolekcja do Minecrafta	#
@@ -6938,6 +7165,8 @@ trial.collection.12.title=Zestaw skórek złoczyńców	#
 trial.collection.12.description=Przebierz się i wyglądaj jak Cake Maniac, Frankencrafter czy – o zgrozo – ktoś jeszcze gorszy!	#
 trial.includes=Zestaw zawiera:	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Plik zip	#
 verification.nolicense.title=Błąd licencji	#
 verification.nolicense.description=Nie możemy znaleźć Minecrafta na twoim urządzeniu. Upewnij się, że gra została pobrana ze sklepu i zainstalowana. Możesz też ponownie połączyć się z Internetem i spróbować jeszcze raz.	#
@@ -7188,6 +7417,7 @@ tips.edu.5=Jeśli chcesz pozwolić innym dołączyć do swojego świata, zatrzym
 tips.edu.6=Pamiętaj, że musisz włączyć kody w swoim świecie, aby używać poleceń z ukośnikiem.	#
 tips.edu.7=Koniec tworzenia? Pozwól innym zwiedzać swój świat w trybie przygodowym, aby chronić swoją pracę.	#
 tips.edu.8=Aby użyć Konstruktora Kodów, naciśnij na swojej klawiaturze klawisz C lub dotknij ikony Agenta na górze ekranu!	#
+<<<<<<< HEAD
 tips.edu.9=Za pomocą Biblioteki znajdziesz nowe światy gry do budowania.	#
 tips.edu.10=Szukasz konkretnego biomu? Spróbuj użyć Biblioteki.	#
 tips.edu.11=NPC oznacza bohatera neutralnego.	#
@@ -7201,6 +7431,8 @@ tips.edu.18=Automatyczne skakanie można włączyć i wyłączyć w menu Ustawie
 tips.edu.19=W trybie kreatywnym szybko naciśnij dwukrotnie przycisk skoku, aby latać.	#
 tips.edu.20=Jeśli przy tworzeniu świata wybierzesz domyślny tryb gry, będziesz w stanie określić oczekiwany rodzaj rozgrywki.	#
 tips.edu.21=Użyj polecenia „/setworldspawn”, aby nowi gracze rozpoczęli grę w miejscu, w którym teraz stoisz.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Użyj trawy morskiej do przyciągania i hodowli żółwi morskich.	#
 tips.game.2=Chroń małe żółwiki przed wrogimi mobami!	#
@@ -7254,17 +7486,26 @@ tips.game.49=Zacznij sprint w wodzie, aby popłynąć!	#
 tips.game.50=Zaklęcie prądu odpływowego umożliwia podróż przez deszcz w powietrzu.	#
 tips.game.51=MINECON Earth to międzynarodowe i interaktywne wydarzenie z transmisjami na żywo. Zabierz swoje przedmioty i dołącz do zabawy!	#
 tips.game.52=Szanuj zwierzęta!	#
+<<<<<<< HEAD
 tips.game.53=Magiczna latarnia to potężny przedmiot, który można stworzyć za pomocą netherowej gwiazdy od Withera!	#
 tips.game.54=Nie zabijaj delfinów, ty potworze!	#
 tips.game.55=Czy wiesz, że netherowych gwiazd nie da się zniszczyć za pomocą wybuchu?	#
+=======
+tips.game.53=Magiczna latarnia to potężny przedmiot, który można stworzyć za pomocą gwiazdy Netheru z Wither!	#
+tips.game.54=Nie zabijaj delfinów, ty potworze!	#
+tips.game.55=Czy wiesz, że gwiazd Netheru nie da się zniszczyć za pomocą wybuchu?	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tips.game.56=Kopiąc prosto do góry, umieść pochodnię u swoich stóp, aby rozbić piasek lub żwir, który mógłby na ciebie spaść.	#
 
 
 splitscreen.joinPrompt=Dołącz jako gracz %s	#
 splitscreen.unavailable.toastHeader=Ekran dzielony jest niedostępny	#
 splitscreen.unavailable.toastMessage=Kolejny gracz nie może w tej chwili dołączyć.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Nie można podłączyć kontrolera Joy-Con!	#
 splitscreen.joyconError.toastMessage=Masz zbyt wiele podłączonych kontrolerów w trybie sieci lokalnej, aby dołączyć do tej gry.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Zmień użytkownika	#
 

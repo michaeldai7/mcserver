@@ -130,7 +130,10 @@ action.interact.trade=Intercambiar	#
 action.interact.armorstand.pose=Pose	#
 action.interact.armorstand.equip=Equipar	#
 action.interact.read=Leer	#
+<<<<<<< HEAD
 action.interact.wakevillager=Despertar aldeano	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = todas las entidades	#
 advMode.allPlayers=@a = todos los jugadores	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=mencionar a todos los jugadores	#
 chat.mute=Silenciar	#
 chat.realmsFilterDisabled=Este Realm tiene desactivada la función de filtrado en el chat.	#
 chat.settings=Configuración de chat	#
+<<<<<<< HEAD
 chat.settings.chatColor=Color de chat	#
 chat.settings.color=Color	#
 chat.settings.font=Fuente	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Espaciado de línea: x%s	#
 chat.settings.mentions=Mis menciones	#
 chat.settings.muteAll=Silenciar todo	#
 chat.settings.typeface=Tipo de letra	#
+=======
+chat.settings.defaultChatColor=Color predeterminado de chat	#
+chat.settings.color=Color	#
+chat.settings.font=Fuente	#
+chat.settings.fontColor=Color de fuente	#
+chat.settings.lineSpacing=Espaciado de línea: x%s	#
+chat.settings.mentions=Mis menciones	#
+chat.settings.muteAll=Silenciar todo	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Activar todo	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Servidor	#
 commands.origin.teacher=Maestro	#
 commands.ops.description=Recarga y aplica los permisos de operador.	#
 commands.ops.reloaded=Se volvieron a cargar los operadores del archivo.	#
+<<<<<<< HEAD
 commands.ops.set.success=Se asignó con éxito el nivel de operador para el jugador %s.	#
 commands.permissions.description=Recarga y aplica los permisos.	#
 command.permissions.list.fail.filenotfound=Error al listar los permisos desde el archivo. No se encontró el archivo.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Error al establecer el nivel de permiso %s para 
 commands.permissions.set.success=Se asignó con éxito el nivel de permiso %s para el jugador %s.	#
 commands.permissions.save.failed=Error al guardar el nivel de permiso %s para el jugador %s.	#
 commands.permissions.save.success=Se guardó con éxito el nivel de permiso %s para el jugador %s.	#
+=======
+commands.permissions.description=Recarga y aplica los permisos.	#
+commands.permissions.reloaded=Se volvieron a cargar los permisos del archivo.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Crea un emisor de partículas	#
 commands.particle.description=Crea partículas.	#
 commands.particle.notFound=Nombre del efecto desconocido (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=No se pudo desbanear al jugador %1$s.	#
 commands.unban.success=Jugador desbaneado: %1$s	#
 commands.unbanip.invalid=Introdujiste una dirección IP no válida	#
 commands.unbanip.success=Dirección IP %1$s desbaneada	#
+<<<<<<< HEAD
 commands.videostream.description=Intenta conectarse al servidor WebSocket para enviar una transmisión de video.	#
 commands.videostreamaction.description=Realizar una acción relacionada con transmisión de video.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Cambiando a clima despejado	#
 commands.weather.description=Establece el clima.	#
 commands.weather.disabled=El ciclo de clima no está activado en este nivel.	#
@@ -981,13 +1002,19 @@ container.furnace=Horno	#
 container.hopper=Tolva de objetos	#
 container.inventory=Inventario	#
 container.isLocked=¡%s está bloqueado!	#
+<<<<<<< HEAD
 container.loom=Telar	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Vagoneta	#
 container.repair=Reparar y nombrar	#
 container.repair.cost=Costo de PEX: %1$d	#
 container.repair.expensive=¡Demasiado caro!	#
 container.stonecutter=Cortapiedra	#
+<<<<<<< HEAD
 container.stonecutter_block=Cortapiedra	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Caja de Shulker	#
 container.shulkerboxContains=y %d más...	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=No tienes todos los ingredientes	#
 crafting.insufficientLevel=Tu nivel es demasiado bajo	#
 crafting.noRecipesInventory=¡Necesitas recoger bloques para fabricar!	#
 crafting.noRecipesStonecutter=¡Necesitas materiales de piedra para fabricar!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=¡Necesitas materiales de piedra para fabricar!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=¡Necesitas recoger bloques para fabricar!	#
 
 createWorld.customize.custom.baseSize=Tamaño de Base de Profundidad	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=¿Buscar actualizaciones de
 disconnectionScreen.realmsWorldUnassigned=Versión de asignación en las opciones del desarrollador.	#
 disconnectionScreen.realmsWorldUnassigned.title=¡Realm no asignado!	#
 disconnectionScreen.scriptNotSupported=El mundo al que estás intentando ingresar requiere que tu dispositivo ejecute secuencias de comandos. Tu dispositivo no es compatible con las secuencias de comandos en este momento, por lo que no puedes unirte desde este dispositivo.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Secuencias de comandos no compatibles	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=¡Caramba, este servidor es muy popular! Regresa después para ver si hay espacio.	#
 disconnectionScreen.serverFull.title=Servidor lleno	#
 disconnectionScreen.serverIdConflict=No te puedes unir a este mundo. La cuenta con la que iniciaste sesión tiene este mundo abierto en otro dispositivo.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Ghast	#
 entity.guardian.name=Guardián	#
 entity.horse.name=Caballo	#
 entity.husk.name=Vaina	#
+<<<<<<< HEAD
 entity.illager_beast.name=Bestia illana	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Gólem de hierro	#
 entity.item.name=Objeto	#
 entity.leash_knot.name=Nudo de correa	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Aldeano	#
 entity.villager.shepherd=Pastor	#
 entity.villager.tool=Herrero de herramientas	#
 entity.villager.weapon=Herrero de armas	#
+<<<<<<< HEAD
 entity.villager.mason=Albañil de piedra	#
 entity.villager.unskilled=Aldeano sin habilidades	#
 entity.villager_v2.name=Aldeano	#
 entity.vindicator.name=Vindicador	#
 entity.wandering_trader.name=Comerciante errante	#
+=======
+entity.vindicator.name=Vindicador	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Bruja	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Esqueleto de Wither	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Caballo zombi	#
 entity.zombie_pigman.name=Porquero zombi	#
 entity.zombie_villager.name=Aldeano zombi	#
 
+<<<<<<< HEAD
 exports.share.file=Compartir %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Agregar servidor	#
 addExternalServerScreen.nameTextBoxLabel=Nombre del servidor	#
 addExternalServerScreen.namePlaceholder=Escribe el nombre del servidor	#
@@ -1974,7 +2018,10 @@ feature.village=Aldea	#
 feature.shipwreck=Naufragio	#
 feature.buriedtreasure=Tesoro enterrado	#
 feature.ruins=Ruinas del océano	#
+<<<<<<< HEAD
 feature.pillageroutpost=Puesto de vigilancia de saqueador	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Me gusta	#
 feed.manage_feed=Gestionar fuentes	#
@@ -2052,6 +2099,7 @@ gameTip.findTree=Busca un árbol para obtener madera	#
 gameTip.breakWood.mouse=Haz clic con el botón izquierdo y mantén presionado el botón para obtener 3 piezas de madera	#
 gameTip.breakWood.touch=Pulsa y mantén presionado para obtener 3 piezas de madera	#
 gameTip.breakWood.controller=Mantén presionado el gatillo derecho para obtener 3 piezas de madera	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Camina sobre los objetos para recogerlos	#
 gameTip.openInventory.keyboard=Presiona E para abrir tu inventario	#
 gameTip.openInventory.touch=Presiona el botón ... para abrir tu inventario	#
@@ -2067,6 +2115,8 @@ gameTip.open.recipe=Abre el libro de recetas para aprender a fabricar más objet
 gameTip.closeInventory.keyboard=Presiona E o haz clic con el botón izquierdo en la X para cerrar el inventario	#
 gameTip.closeInventory.touch=Pulsa en la X para cerrar el inventario	#
 gameTip.closeInventory.controller=Presiona B para cerrar el inventario	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=AMPLIFICADO	#
 generator.amplified.info=Aviso: Solo por diversión, requiere una buena computadora	#
@@ -2090,7 +2140,10 @@ gui.cancel=Cancelar	#
 gui.clear=Borrar	#
 gui.close=Cerrar	#
 gui.confirm=Confirmar	#
+<<<<<<< HEAD
 gui.custom=Personalizado	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Por defecto	#
 gui.decline=Rechazar	#
 gui.deleteWorldLong=Eliminar mundo	#
@@ -2184,6 +2237,7 @@ howtoplay.armor.header.1=Fabricación	#
 howtoplay.armor.text.2=Las armaduras se pueden crear con cuero, hierro, oro o diamante. La cota de malla se puede obtener comerciando con aldeanos y como botín de zombis y esqueletos.	#
 howtoplay.armor.text.3=Para equipar una armadura, abre el inventario y mueve las piezas para la armadura al espacio adecuado junto al aspecto de tu jugador.	#
 howtoplay.armor.text.4=Las cotas de malla y las armaduras de hierro y oro se pueden fundir en pepitas de oro o hierro en un horno.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Escudo	#
 howtoplay.armor.text.5.keyboard=El escudo bloqueará el daño recibido. El escudo puede equiparse tanto en la ranura de la mano no dominante como en la barra visible. Mantén presionado :_input_key.sneak: para bloquear con el escudo.	#
 howtoplay.armor.text.5.gamepad=El escudo bloqueará el daño recibido. El escudo puede equiparse tanto en la ranura de la mano no dominante como en la barra visible. Presiona el botón :_input_key.sneak: o haz clic en :_gamepad_stick_right: para activar o desactivar el bloqueo con el escudo.	#
@@ -2193,6 +2247,10 @@ howtoplay.armor.text.5.windowsmr_controller=El escudo bloqueará el daño recibi
 howtoplay.armor.text.6=¡El escudo también puede bloquear una explosión de Creeper!	#
 howtoplay.armor.header.3=Disfraz	#
 howtoplay.armor.text.7=También puedes llevar puesta una calabaza en la cabeza. No te dará ningún :armor:, pero hará que los Enderman no se vuelvan locos cuando los mires.	#
+=======
+howtoplay.armor.header.2=Disfraz	#
+howtoplay.armor.text.5=También puedes llevar puesta una calabaza en la cabeza. No te dará ningún :armor:, pero hará que los Enderman no se vuelvan locos cuando los mires.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Soporte para armaduras	#
 howtoplay.armorStand.title=Cómo se juega: soporte para armaduras	#
@@ -2211,7 +2269,11 @@ howtoplay.armorStand.text.5=Los soportes para armaduras reaccionarán a una señ
 howtoplay.banners=Estandartes	#
 howtoplay.banners.title=Cómo se juega: estandartes	#
 howtoplay.banners.text.1=Los estandartes son una manera genial de decorar tu casa o tu castillo con patrones y colores personalizados.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=¡Después de crear un estandarte, puedes colocarlo sobre una mesa de trabajo o telar, y agregar varios tintes para crear tu propio diseño único y genial!	#
+=======
+howtoplay.banners.text.2=Después de crear un estandarte, puedes colocarlo sobre una mesa de trabajo y agregar varias tinturas para crear tu propio diseño único.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Cómo aplicar un diseño	#
 howtoplay.banners.text.3=Hay muchos patrones distintos que puedes crear con una tintura, como:	#
 howtoplay.banners.text.4=  - Hacer un triángulo te dará un patrón en forma de chevrón.	#
@@ -2511,6 +2573,7 @@ howtoplay.droppers.text.2=Si un soltador apunta hacia un cofre u otro tipo de co
 howtoplay.dyes=Tinturas	#
 howtoplay.dyes.title=Cómo se juega: tinturas	#
 howtoplay.dyes.text.1=La tintura se usa para cambiar el color de muchas cosas en Minecraft.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Algunos materiales para hacer tintes son más difíciles de encontrar que otros. Si bien la mayoría de los tintes pueden elaborarse a partir de flores, como el tinte rojo se obtiene de una amapola, algunos tintes se encuentran o se crean con técnicas más difíciles, como por ejemplo:	#
 howtoplay.dyes.text.3=-Extraer lapislázuli de las profundidades	#
 howtoplay.dyes.text.4=-Obtener sacos de tinta bajo el agua	#
@@ -2518,6 +2581,14 @@ howtoplay.dyes.text.5=-Cosechar granos de cacao en la jungla	#
 howtoplay.dyes.text.6=-El tinte verde se obtiene después de fundir un cactus	#
 howtoplay.dyes.text.7=-El polvo de hueso puede ayudar a hacer crecer las plantas y los árboles o usarse como tinte blanco	#
 howtoplay.dyes.text.8=-Obtén sacos de tinta de calamar para hacer tinte negro	#
+=======
+howtoplay.dyes.text.2=Puede que tengas que explorar un poco antes de encontrar algunos materiales naturales para crear determinados tintes. Aunque la mayoría de los tintes se pueden crear con flores, como el rojo rosa con una amapola, algunos tintes se encuentran o se crean de formas más complicadas, como las siguientes: 	#
+howtoplay.dyes.text.3=-Extraer lapislázuli de las profundidades	#
+howtoplay.dyes.text.4=-Obtener sacos de tinta bajo el agua	#
+howtoplay.dyes.text.5=-Cosechar granos de cacao en la jungla	#
+howtoplay.dyes.text.6=-el verde cactus se obtiene después de fundir un cactus	#
+howtoplay.dyes.text.7=-el polvo de hueso puede ayudar a hacer crecer las plantas y los árboles o usarse como tinte blanco	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Élitros	#
 howtoplay.elytra.title=Cómo se juega: élitros	#
@@ -2706,6 +2777,7 @@ howtoplay.jukebox.header.3=Cómo encontrar discos de música	#
 howtoplay.jukebox.text.7=Puedes encontrar algunos discos de música en los cofres que están en diferentes partes del mundo.	#
 howtoplay.jukebox.text.8=Otros discos son más difíciles de encontrar. A los Creepers les gusta escuchar música cuando nadie los ve.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Telar	#
 howtoplay.loom.title=Cómo se juega: telar	#
 howtoplay.loom.text.1=El telar es una forma rápida y eficiente de aplicar patrones a estandartes. El telar solo usa un tinte para aplicar un patrón. También puede utilizar patrones de telar para aplicar diseños especiales.	#
@@ -2715,6 +2787,8 @@ howtoplay.loom.text.3=Un estandarte puede tener varias capas, lo que te permite 
 howtoplay.loom.header.2=Patrones del telar	#
 howtoplay.loom.text.4=Agregar un patrón de telar a la tercera ranura del telar permitirá la creación de patrones especiales como una cara de Creeper o un diseño de flores. No perderás los patrones del telar cuando apliques estos patrones a tus estandartes.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Animales para montar	#
 howtoplay.mounts.title=Cómo se juega: animales para montar	#
 howtoplay.mounts.text.1=Un jugador puede montar cualquier caballo, mula o burro adulto. Solo los caballos pueden usar armadura.	#
@@ -2912,6 +2986,10 @@ howtoplay.transportation.text.5.keyboard=Presiona :_input_key.use: mientras mira
 howtoplay.transportation.text.5.gamepad=Presiona :_input_key.use: mientras miras un bote para abordar. Empuja :_gamepad_stick_left: hacia la izquierda o hacia la derecha para girar. Empuja :_gamepad_stick_left: hacia adelante para avanzar. Presiona :_input_key.jump: o :_input_key.sneak: para bajarte.	#
 howtoplay.transportation.text.5.touch=Toca el botón de Abordar cuando estés cerca de un bote para abordar. Presiona :_input_key.left: o :_input_key.right: para girar a la izquierda o a la derecha. Presiona ambos para avanzar. Toca el botón de Bajar del barco para bajarte.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Armas	#
 howtoplay.weapons.title=Cómo se juega: armas	#
 howtoplay.weapons.header.1=Espada	#
@@ -2922,6 +3000,7 @@ howtoplay.weapons.header.2=Arco	#
 howtoplay.weapons.text.3.notTouch=El arco es la principal arma de ataque a distancia en Minecraft. Mantén presionado :_input_key.use: para tensar el arco. Deja de presionar :_input_key.use: para disparar una flecha. El arco necesita flechas para disparar.	#
 howtoplay.weapons.text.3.touch=El arco es la principal arma de ataque a distancia en Minecraft. Mantén presionada la pantalla para tensar el arco. Deja de presionar para disparar una flecha. El arco necesita flechas para disparar.	#
 howtoplay.weapons.text.4=Los arcos causan más daño cuanto más se tensen: asegúrate de tirar al máximo hacia atrás.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Ballesta	#
 howtoplay.weapons.text.5.notTouch=La ballesta es un arma de ataque a distancia alternativa. Mantén presionada la tecla :_input_key.use: para cargar la ballesta. Una vez cargada la ballesta, permanecerá así hasta que se dispare. Presiona :_input_key.use: para disparar una flecha. La ballesta requiere flechas para cargarla.	#
 howtoplay.weapons.text.5.touch=La ballesta es un arma de ataque a distancia alternativa. Mantén presionada la pantalla para cargar la ballesta. Una vez cargada la ballesta, permanecerá así hasta que se dispare, aunque la hayas colocado en tu inventario. Mantén presionada la pantalla para disparar una flecha. La ballesta requiere flechas para cargarla.	#
@@ -2930,6 +3009,13 @@ howtoplay.weapons.text.6.notTouch=El tridente es tanto un arma de ataque a dista
 howtoplay.weapons.text.6.touch=El tridente es tanto un arma de ataque a distancia como de ataque cuerpo a cuerpo. Toca las criaturas para atacarlas. Mantén presionada la pantalla para preparar el tridente. Deja de presionar para lanzarlo. El tridente es la mejor arma bajo el agua.	#
 howtoplay.weapons.header.5=Armas encantadas	#
 howtoplay.weapons.text.7=¡Las espadas, los arcos, las ballestas y los tridentes tienen encantamientos específicos que puedes obtener desde la mesa de encantamientos o el yunque, y que mejorarán el daño, la durabilidad e incluso prenderán fuego a las criaturas!	#
+=======
+howtoplay.weapons.header.3=Armas encantadas	#
+howtoplay.weapons.text.5=Las espadas, los arcos y los tridentes tienen encantamientos específicos que puedes obtener desde la mesa de encantamientos o el yunque y que mejorarán el daño, la durabilidad e incluso prenderán fuego a las criaturas.	#
+howtoplay.weapons.header.trident=Tridente	#
+howtoplay.weapons.text.trident.notTouch=El tridente es tanto un arma de ataque a distancia como de ataque cuerpo a cuerpo. Presiona :_input_key.attack: para atacar. Mantén presionado :_input_key.use: para preparar el tridente. Deja de presionar :_input_key.use: para lanzar el tridente. El tridente es la mejor arma bajo el agua.	#
+howtoplay.weapons.text.trident.touch=El tridente es tanto un arma de ataque a distancia como de ataque cuerpo a cuerpo. Toca las criaturas para atacarlas. Mantén presionada la pantalla para preparar el tridente. Deja de presionar para lanzarlo. El tridente es la mejor arma bajo el agua.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Novedades	#
 
@@ -3874,13 +3960,19 @@ item.spawn_egg.entity.sheep.name=Huevo de oveja	#
 item.spawn_egg.entity.npc.name=Huevo de NPC	#
 item.spawn_egg.entity.wolf.name=Huevo de lobo	#
 item.spawn_egg.entity.villager.name=Huevo de aldeano	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Huevo de aldeano	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Huevo de vindicador	#
 item.spawn_egg.entity.mooshroom.name=Huevo de champiñaca	#
 item.spawn_egg.entity.squid.name=Huevo de calamar	#
 item.spawn_egg.entity.rabbit.name=Huevo de conejo	#
 item.spawn_egg.entity.bat.name=Huevo de murciélago	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Huevo de bestia illana	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Huevo de gólem de hierro	#
 item.spawn_egg.entity.snow_golem.name=Huevo de gólem de nieve	#
 item.spawn_egg.entity.ocelot.name=Huevo de ocelote	#
@@ -3906,7 +3998,10 @@ item.spawn_egg.entity.ghast.name=Huevo de Ghast	#
 item.spawn_egg.entity.magma_cube.name=Huevo de cubo de magma	#
 item.spawn_egg.entity.blaze.name=Huevo de Blaze	#
 item.spawn_egg.entity.zombie_villager.name=Huevo de aldeano zombi	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Huevo de aldeano zombi	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Huevo de bruja	#
 item.spawn_egg.entity.stray.name=Huevo de errante	#
 item.spawn_egg.entity.husk.name=Huevo de vaina	#
@@ -3923,7 +4018,10 @@ item.spawn_egg.entity.phantom.name=Huevo de fantasma	#
 item.spawn_egg.entity.panda.name=Huevo de panda	#
 item.spawn_egg.entity.pillager.name=Huevo de saqueador	#
 item.spawn_egg.entity.unknown.name=Huevo	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Huevo de comerciante errante	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Tridente	#
 item.mushroom_stew.name=Sopa de hongos	#
 item.muttonCooked.name=Cordero cocinado	#
@@ -4016,12 +4114,16 @@ item.wheat.name=Trigo	#
 item.writable_book.name=Libro y pluma	#
 item.written_book.name=Libro escrito	#
 item.glowstone_dust.name=Polvo de piedra luminosa	#
+<<<<<<< HEAD
 item.shield.name=Escudo	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Coraza de Shulker	#
 item.totem.name=Tótem de la inmortalidad	#
 item.turtle_helmet.name=Caparazón de tortuga	#
 item.turtle_shell_piece.name=Escama	#
 item.phantom_membrane.name=Membrana de fantasma	#
+<<<<<<< HEAD
 item.sweet_berries.name=Bayas dulces	#
 item.banner_pattern.bricks=Mazonado de campo	#
 item.banner_pattern.creeper=Figura de Creeper	#
@@ -4030,6 +4132,8 @@ item.banner_pattern.name=Patrón de estandarte	#
 item.banner_pattern.skull=Figura de calavera	#
 item.banner_pattern.thing=Cosa	#
 item.banner_pattern.vines=Bordura dentada	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Buscar objetos	#
 itemGroup.name.planks=Tablones	#
@@ -4064,7 +4168,11 @@ itemGroup.name.rawFood=Alimentos crudos	#
 itemGroup.name.cookedFood=Comida cocinada	#
 itemGroup.name.miscFood=Comida	#
 itemGroup.name.mushroom=Hongos	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Piedra infestada	#
+=======
+itemGroup.name.monsterStoneEgg=Huevos de piedra de monstruos	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Huevos de criaturas	#
 itemGroup.name.helmet=Cascos	#
 itemGroup.name.chestplate=Corazas	#
@@ -4100,8 +4208,11 @@ itemGroup.name.coral=Bloques de coral	#
 itemGroup.name.coral_decorations=Decoraciones de coral	#
 itemGroup.name.buttons=Botones	#
 itemGroup.name.sign=Letreros	#
+<<<<<<< HEAD
 itemGroup.name.wood=Bosque	#
 itemGroup.name.banner_pattern=Patrones de estandarte	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Atacar/Destruir	#
 key.back=Caminar hacia atrás	#
@@ -4523,7 +4634,11 @@ options.chat.visibility.hidden=Oculto	#
 options.chat.visibility.system=Sólo comandos	#
 options.chat.width=Ancho	#
 options.codeBuilder=Constructor de código	#
+<<<<<<< HEAD
 options.content_log_file=Activar archivo de registro de contenido	#
+=======
+options.content_log=Activar registro de contenido	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Activar registro de contenido de GUI	#
 options.controller=Controlador	#
 options.controllerLayout=Diseño de controles	#
@@ -4613,6 +4728,7 @@ options.dev_useZippedInPackagePacks=Utilizar packs comprimidos en archivos Zip	#
 options.dev_importPacksAsZip=Importar packs como archivo Zip	#
 options.dev_folders_portSettingsFolder=Exportar la carpeta de configuración	#
 options.dev_useOverrideDate=Usar la fecha de modificación	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Mostrar fecha y hora	#
 options.dev_loadOverrideDate=Cargar la fecha de modificación al iniciar	#
 options.dev.timeZoneType=Modificar tipo de zona horaria del editor	#
@@ -4627,6 +4743,16 @@ options.dev_overrideDayLength=Duración de día de cancelación en minutos (min:
 options.dev_overrideTimeScale=Velocidad de escala en la que pasa el tiempo (mín.: 1, predeterminado: 1)	#
 options.dev_updateOverrideDate=Actualizar la fecha de modificación	#
 options.dev_resetOverrideDate=Restablecer la fecha de modificación	#
+=======
+options.dev_displayOverrideDatetime=Mostrar fecha de cancelación	#
+options.dev_saveCurrentOverrideDate=Guardar fecha actual al cerrar	#
+options.dev_overrideDateYear=Año	#
+options.dev_overrideDateMonth=Mes	#
+options.dev_overrideDateDay=Día	#
+options.dev_overrideDayLength=Duración de día de cancelación en minutos (min: 1)	#
+options.dev_overrideTimeScale=Velocidad de escala en la que pasa el tiempo (mín.: 1, predeterminado: 1)	#
+options.dev_updateOverrideDate=Actualizar la fecha de modificación	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Limpiar la memoria caché de la tienda	#
 options.dev_clearAllCache=Limpiar toda la memoria caché	#
 options.dev_connection_quality=Acondicionador de red (simulador de malas conexiones)	#
@@ -4636,6 +4762,7 @@ options.dev_connection_4g=4G: 15 Mbps, 100 ms de latencia, 1% de pérdida de paq
 options.dev_connection_3g=3G: 1.5 Mbps, 200 ms de latencia, 2% de pérdida de paquetes	#
 options.dev_connection_slow=Lento: 400 Kbps, 300 ms de latencia, 3% de pérdida de paquetes	#
 options.dev_connection_veryslow=Muy lento: 200 Kbps, 400 ms de latencia, 4% de pérdida de paquetes	#
+<<<<<<< HEAD
 options.dev_identity_environment=Nueva identidad y nuevo entorno de infraestructura en línea (requiere reinicio)	#
 options.dev_identity_environment.dev=Equipo de desarrollo	#
 options.dev_identity_environment.test=Prueba	#
@@ -4645,6 +4772,8 @@ options.dev.windowsStore.auto=Automático	#
 options.dev.windowsStore.v6=Windows Store heredada - V6	#
 options.dev.windowsStore.v8=OneStore - V8	#
 options.dev.stores=Tiendas activas actualmente:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Dificultad	#
 options.difficulty.easy=Fácil	#
 options.difficulty.hard=Difícil	#
@@ -4962,13 +5091,22 @@ pauseScreen.title=Juego en pausa	#
 pauseScreen.betaFeedback=Comentarios de la versión beta	#
 pauseScreen.xboxLiveDisconnect=¡Caramba! Te desconectaste de Xbox Live. Para enviar una invitación a más jugadores, vuelve a abrir tu mundo.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Comentarios	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 feedbackScreen.title=¿Tienes comentarios?	#
 feedbackScreen.suggestion=¡Envía una sugerencia!	#
 feedbackScreen.bug=¡Reporta un error!	#
 feedbackScreen.help=¿Necesitas ayuda?	#
 feedbackScreen.body=¿Tienes alguna idea para mejorar Minecraft? ¿Encontraste un error y quieres que se corrija? ¿O tienes algún problema y necesitas ayuda? ¡Comunícate con nosotros!	#
+<<<<<<< HEAD
 feedbackScreen.consoleMessage=Visita este sitio web en otro dispositivo. %s	#
+=======
+feedbackScreen.suggestionLink=Visita este sitio web en otro dispositivo. https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Visita este sitio web en otro dispositivo. https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Visita este sitio web en otro dispositivo. https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Volver	#
 hudScreen.tooltip.basic.flyDown=Volar hacia abajo	#
@@ -5012,7 +5150,10 @@ hudScreen.tooltip.dismount=Desmontar	#
 hudScreen.tooltip.collect=Recoger	#
 hudScreen.tooltip.peel=Quitar corteza	#
 hudScreen.tooltip.scaffoldingDescend=Mantén para bajar	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Elegir	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5195,11 @@ permissions.ability.doorsandswitches=Uso de puertas e interruptores	#
 permissions.ability.opencontainers=Abrir contenedores	#
 permissions.ability.attackplayers=Atacar jugadores	#
 permissions.ability.attackmobs=Atacar criaturas	#
+<<<<<<< HEAD
 permissions.ability.op=Comandos de operador	#
+=======
+permissions.ability.op=Operador	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Cómo hacerte invisible	#
 permissions.ability.teleport=Teletransportarse	#
 permissions.NeedPermission=Necesitas permiso	#
@@ -5078,10 +5223,15 @@ permissions.level.operator=Operador	#
 permissions.level.visitor=Visitante	#
 permissions.nocheats=Los trucos están desactivados	#
 permissions.nocheats.message=Algunos comandos, como teletransportarse, solo están disponibles cuando los trucos están ACTIVADOS. También puedes activar los trucos en el menú de pausa, en el apartado de Configuración del juego. Si decides activar los trucos, los logros quedarán desactivados en este mundo.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Algunos comandos, como teletransportarse, solo están disponibles cuando los trucos están ACTIVADOS. También puedes activar los trucos en el menú de pausa, en el apartado de Configuración del juego.	#
 permissions.nocheats.turnon=Configurar OP con los trucos ACTIVADOS	#
 permissions.nocheats.turnoff=Configurar OP con los trucos DESACTIVADOS	#
 permissions.nocheats.cancel=Cancelar	#
+=======
+permissions.nocheats.turnon=Activar trucos	#
+permissions.nocheats.turnoff=Mantener los trucos desactivados	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=¿Quitar permisos de operador?	#
 permissions.deopingself.message=Si reduces tu nivel de permisos, ya no tendrás los permisos del nivel de operador.	#
 permissions.title=Permisos del jugador	#
@@ -5765,13 +5915,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Obtener monedas	#
 store.popup.purchasePriceMismatch.msg=No pudimos finalizar la compra. Intenta más tarde.	#
 store.popup.trialUpgradeFail.title=Error al desbloquear el juego	#
 store.popup.trialUpgradeFail.msg=Parece que iniciaste sesión en una cuenta de Microsoft diferente a la que se utilizó para descargar la prueba de Minecraft. Inicia sesión con esa cuenta y vuelve a intentarlo.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=¿Comprar plantilla de mundo?	#
 store.popup.downloaded.unOwnedTemplate.msg=No eres propietario de esta plantilla y debes comprarla para desbloquearla. ¿Quieres comprar la plantilla?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Acabaste de comprar: %s.	#
 store.purchase.bundle=¿Desbloquear %d de %d packs?	#
 store.purchase.bundle.confirm=¡Desbloquear ahora!	#
 store.purchase.bundle.partiallyOwnedWarning=Para que lo sepas, ya tienes los siguientes packs: %s. ¿Te gustaría desbloquear el resto de los packs de este paquete?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Obtenido	#
+=======
+store.purchase.bundle.owned=Tienes	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Obtendrás	#
 store.createdBy=De %s	#
 store.seeMoreBy=Ver más (creados por %s)	#
@@ -6113,7 +6270,11 @@ tile.invisibleBedrock.name=Piedra base invisible	#
 tile.beetroot.name=Betabel	#
 tile.birchFence.name=Valla de abedul	#
 tile.birch_fence_gate.name=Puerta de valla de abedul	#
+<<<<<<< HEAD
 tile.blast_furnace.name=Horno de fusión	#
+=======
+tile.blast_furnace.name=Horno de explosión	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.bone_block.name=Bloque de hueso	#
 tile.coal_block.name=Bloque de carbón	#
 tile.diamond_block.name=Bloque de diamante	#
@@ -6144,7 +6305,10 @@ tile.chalkboard.twoByOne.name=Póster	#
 tile.chalkboard.threeByTwo.name=Pizarrón	#
 tile.chest.name=Cofre	#
 tile.ender_chest.name=Cofre de Ender	#
+<<<<<<< HEAD
 tile.jigsaw.name=Bloque rompecabezas	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Cofre con trampa	#
 tile.shulkerBoxWhite.name=Caja de Shulker blanca	#
 tile.shulkerBoxOrange.name=Caja de Shulker naranja	#
@@ -6237,6 +6401,11 @@ tile.wool.white.name=Lana blanca	#
 tile.wool.yellow.name=Lana amarilla	#
 tile.cobblestone_wall.mossy.name=Pared de adoquines musgosa	#
 tile.cobblestone_wall.normal.name=Pared de adoquín 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Pared de adoquín	#
+tile.cobblestone_wall.mossy_cobblestone.name=Pared de adoquín musgosa	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Pared de granito	#
 tile.cobblestone_wall.diorite.name=Pared de diorita	#
 tile.cobblestone_wall.andesite.name=Pared de andesita	#
@@ -6251,7 +6420,10 @@ tile.cobblestone_wall.red_sandstone.name=Pared de arenisca roja	#
 tile.cobblestone_wall.red_nether_brick.name=Pared de ladrillo del inframundo rojo	#
 tile.cocoa.name=Cacao	#
 tile.command_block.name=Bloque de comandos	#
+<<<<<<< HEAD
 tile.composter.name=Compostador	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Bloque de comandos que se repite	#
 tile.chain_command_block.name=Bloque de comandos en cadena	#
 tile.wheat.name=Cultivos	#
@@ -6283,7 +6455,11 @@ tile.enchanting_table.name=Mesa de encantamientos	#
 tile.enderChest.name=Cofre de Ender	#
 tile.end_portal_frame.name=Portal de End	#
 tile.farmland.name=Tierra de cultivo	#
+<<<<<<< HEAD
 tile.fletching_table.name=Mesa de arquería	#
+=======
+tile.fletching_table.name=Mesa de estiramiento	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.fence.name=Valla de roble	#
 tile.fence_gate.name=Puerta de valla de roble	#
 tile.iron_bars.name=Barras de hierro	#
@@ -6334,6 +6510,7 @@ tile.lever.name=Palanca	#
 tile.glowstone.name=Piedra luminosa	#
 tile.lit_pumpkin.name=Calabaza iluminada	#
 tile.lockedchest.name=Cofre cerrado	#
+<<<<<<< HEAD
 tile.log.acacia.name=Leño de acacia	#
 tile.log.big_oak.name=Leño de roble oscuro	#
 tile.log.birch.name=Leño de abedul	#
@@ -6351,6 +6528,25 @@ tile.monster_egg.crackedbrick.name=Ladrillo de piedra roto infestado	#
 tile.monster_egg.mossybrick.name=Ladrillo de piedra musgosa infestado	#
 tile.monster_egg.name=Piedra infestada	#
 tile.monster_egg.stone.name=Piedra infestada	#
+=======
+tile.log.acacia.name=Madera de acacia	#
+tile.log.big_oak.name=Madera de roble oscuro	#
+tile.log.birch.name=Madera de abedul	#
+tile.log.jungle.name=Madera de jungla	#
+tile.log.name=Madera	#
+tile.log.oak.name=Madera de roble	#
+tile.log.spruce.name=Madera de pino	#
+tile.magma.name=Bloque de magma	#
+tile.melon_block.name=Sandía	#
+tile.mob_spawner.name=Generador de monstruos	#
+tile.monster_egg.brick.name=Ladrillo de piedra con pez de plata	#
+tile.monster_egg.chiseledbrick.name=Ladrillo de piedra cincelada con pez de plata	#
+tile.monster_egg.cobble.name=Adoquín con pez de plata	#
+tile.monster_egg.crackedbrick.name=Ladrillos de piedra rota con pez de plata	#
+tile.monster_egg.mossybrick.name=Ladrillo de piedra musgosa con pez de plata	#
+tile.monster_egg.name=Piedra con pez de plata	#
+tile.monster_egg.stone.name=Piedra con pez de plata	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Hongo	#
 tile.noteblock.name=Bloque musical	#
 tile.mycelium.name=Micelio	#
@@ -6501,7 +6697,10 @@ tile.stonebrick.mossy.name=Ladrillos de piedra musgosa	#
 tile.stonebrick.name=Ladrillos de piedra	#
 tile.stonebrick.smooth.name=Ladrillos de piedra lisa	#
 tile.stonecutter.name=Cortapiedra	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Cortapiedra	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Adoquín musgoso	#
 tile.double_stone_slab.brick.name=Losa de ladrillo	#
 tile.double_stone_slab.cobble.name=Losa de adoquines	#
@@ -6516,10 +6715,18 @@ tile.stone_slab.name=Losa de piedra	#
 tile.stone_slab.brick.name=Losa de ladrillo	#
 tile.stone_slab.cobble.name=Losa de adoquines	#
 tile.stone_slab.stone.name=Losa de piedra lisa	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Losa de piedra lisa	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Losa de ladrillo del inframundo	#
 tile.stone_slab.quartz.name=Losa de cuarzo	#
 tile.stone_slab.sand.name=Losa de arenisca	#
 tile.stone_slab.smoothStoneBrick.name=Losa de ladrillos de piedra	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Losa de piedra	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Losa de madera	#
 tile.double_stone_slab2.red_sandstone.name=Losa de arenisca roja	#
 tile.stone_slab2.red_sandstone.name=Losa de arenisca roja	#
@@ -6695,12 +6902,21 @@ tile.concretePowder.magenta.name=Polvo de concreto magenta	#
 tile.concretePowder.orange.name=Polvo de concreto naranja	#
 tile.concretePowder.white.name=Polvo de concreto blanco	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Leño de abeto descortezado	#
 tile.stripped_dark_oak_log.name=Leño de roble oscuro descortezado	#
 tile.stripped_birch_log.name=Leño de abedul descortezado	#
 tile.stripped_jungle_log.name=Leño de la jungla descortezado	#
 tile.stripped_oak_log.name=Leño de roble descortezado	#
 tile.stripped_acacia_log.name=Leño de acacia descortezado	#
+=======
+tile.stripped_spruce_log.name=Madera de abeto descortezada	#
+tile.stripped_dark_oak_log.name=Madera de roble oscuro descortezada	#
+tile.stripped_birch_log.name=Madera de abedul descortezada	#
+tile.stripped_jungle_log.name=Madera de la jungla descortezada	#
+tile.stripped_oak_log.name=Madera de roble descortezada	#
+tile.stripped_acacia_log.name=Madera de acacia descortezada	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambú	#
 tile.scaffolding.name=Andamios	#
@@ -6710,6 +6926,7 @@ tile.lantern.name=Linterna	#
 tile.smoker.name=Ahumador	#
 tile.smithing_table.name=Mesa de herrería	#
 tile.barrel.name=Barril	#
+<<<<<<< HEAD
 tile.campfire.name=Fogata	#
 tile.loom.name=Telar	#
 tile.lectern.name=Atril	#
@@ -6727,6 +6944,8 @@ tile.wood.stripped.birch.name=Madera de abedul descortezada	#
 tile.wood.stripped.jungle.name=Madera de la jungla descortezada	#
 tile.wood.stripped.acacia.name=Madera de acacia descortezada	#
 tile.wood.stripped.dark_oak.name=Madera de roble oscuro descortezada	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Flecha con punta filosa	#
 tipped_arrow.effect.water=Flecha con punta filosa	#
@@ -6811,10 +7030,13 @@ translation.test.invalid2=Hola %s	#
 translation.test.none=¡Hola, mundo!	#
 translation.test.world=mundo	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Error en la conversión del mundo	#
 worldConversionErrorPrompt.message=Hubo un problema durante la conversión del mundo. Intenta más tarde.	#
 worldConversionErrorPrompt.message.upload=Algo salió mal. No pudimos convertir tu mundo. Puedes enviarnos tu mundo después, al ir a tu mundo antiguo y presionar Y. O puedes enviarnos tu mundo ahora mismo para que sigamos investigando.	#
@@ -6905,6 +7127,7 @@ trial.tabbed_upsell.addon.description=¿Quieres que los lobos se comporten como 
 trial.tabbed_upsell.seeds.title=SEMILLAS	#
 trial.tabbed_upsell.seeds.description=¡Desbloquea la experiencia completa de Minecraft y obtén acceso a las semillas! Las semillas te permiten descubrir nuevos biomas. Sobrevive en las llanuras de hielo, escala las colinas extremas o camina por la arena del desierto. ¡Comienza con las plantillas únicas o explora nuevos mundos al azar! ¡Obtén acceso a las semillas, el modo creativo, el modo multijugador y más contenido fabuloso al comprar Minecraft hoy mismo!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Colección Inicial de Minecraft	#
 trial.master.collection.title=Colección Maestro de Minecraft	#
@@ -6938,6 +7161,8 @@ trial.collection.12.title=Pack de aspecto Villanos	#
 trial.collection.12.description=¡Vístete como Cake Maniac, Frankencrafter o algo peor!	#
 trial.includes=Incluye	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Archivo zip	#
 verification.nolicense.title=Error de licencia	#
 verification.nolicense.description=Tenemos problemas para verificar que hayas adquirido Minecraft en este dispositivo. Asegúrate de haber descargado e instalado Minecraft desde la tienda, o vuelve a conectarte a internet e intenta de nuevo.	#
@@ -7188,6 +7413,7 @@ tips.edu.5=Para que tus compañeros se conecten a tu mundo, pausa tu juego y com
 tips.edu.6=Recuerda utilizar los comandos con diagonal. Necesitas activar los trucos en tu juego.	#
 tips.edu.7=¿Ya terminaste tu creación? Invita a otros a que visiten tu mundo en el modo Aventura para proteger tu obra.	#
 tips.edu.8=¡Para usar el creador de código, presiona C en tu teclado o toca el ícono del Agent en la parte superior de tu pantalla!	#
+<<<<<<< HEAD
 tips.edu.9=Usa la biblioteca para encontrar nuevos mundos de juego para construir.	#
 tips.edu.10=¿Buscas un bioma específico? Prueba en la biblioteca.	#
 tips.edu.11=NPC significa personaje no jugable.	#
@@ -7201,6 +7427,8 @@ tips.edu.18=Puedes activar o desactivar el salto automático en el menú de conf
 tips.edu.19=En el modo creativo, presiona rápidamente saltar dos veces para volar.	#
 tips.edu.20=Elige un modo de juego predeterminado al crear un mundo para especificar el tipo de juego que quieres.	#
 tips.edu.21=Usa el comando ''/setworldspawn'' para que los nuevos jugadores empiecen a jugar donde estás parado actualmente.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Usa algas marinas para atraer y criar tortugas marinas.	#
 tips.game.2=¡Protege a las tortugas bebé de las criaturas hostiles!	#
@@ -7263,8 +7491,11 @@ tips.game.56=Al cavar hacia arriba, coloca una antorcha a tus pies para romper c
 splitscreen.joinPrompt=Unirse como el jugador %s	#
 splitscreen.unavailable.toastHeader=El modo de pantalla dividida no está disponible	#
 splitscreen.unavailable.toastMessage=En este momento no se puede unir otro jugador.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=¡No es posible conectar el Joy-Con!	#
 splitscreen.joyconError.toastMessage=Tienes demasiados controles conectados en el modo de red local para unirte a esta partida.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Cambiar usuario	#
 

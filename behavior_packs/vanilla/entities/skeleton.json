@@ -142,6 +142,7 @@
           },
           {
             "filters": {
+<<<<<<< HEAD
               "test": "is_family",
               "subject": "other",
               "value": "irongolem"
@@ -150,6 +151,8 @@
           },
           {
             "filters": {
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
               "all_of": [
                 {
                   "test": "is_family",

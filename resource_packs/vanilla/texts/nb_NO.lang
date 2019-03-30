@@ -130,7 +130,10 @@ action.interact.trade=Handle	#
 action.interact.armorstand.pose=Endre positur	#
 action.interact.armorstand.equip=Bruk	#
 action.interact.read=Les	#
+<<<<<<< HEAD
 action.interact.wakevillager=Våkne landsbyboer	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 advMode.allEntities=@e = alle enheter	#
 advMode.allPlayers=@a = alle spillere	#
@@ -239,6 +242,7 @@ chat.mentions.autocomplete.allPlayers=nevn alle spillere	#
 chat.mute=Demp	#
 chat.realmsFilterDisabled=Chattefiltrering er deaktivert i denne realmen.	#
 chat.settings=Chatinnstillinger	#
+<<<<<<< HEAD
 chat.settings.chatColor=Chattefarge	#
 chat.settings.color=Farge	#
 chat.settings.font=Skrifttype	#
@@ -249,6 +253,15 @@ chat.settings.lineSpacing=Linjeavstand: x %s	#
 chat.settings.mentions=Mine omtaler	#
 chat.settings.muteAll=Demp alle	#
 chat.settings.typeface=Skrifttype	#
+=======
+chat.settings.defaultChatColor=Standard chattefarge	#
+chat.settings.color=Farge	#
+chat.settings.font=Skrifttype	#
+chat.settings.fontColor=Skriftfarge	#
+chat.settings.lineSpacing=Linjeavstand: x %s	#
+chat.settings.mentions=Mine omtaler	#
+chat.settings.muteAll=Demp alle	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 chat.settings.unmuteAll=Opphev demping av alle	#
 chat.stream.emote=(%s) * %s %s	#
 chat.stream.text=(%s) <%s> %s	#
@@ -648,6 +661,7 @@ commands.origin.server=Server	#
 commands.origin.teacher=Lærer	#
 commands.ops.description=Laster inn operatørtillatelser på nytt og tar dem i bruk.	#
 commands.ops.reloaded=Operatørtillatelser er lastet inn på nytt fra en fil.	#
+<<<<<<< HEAD
 commands.ops.set.success=Operatørnivå er angitt for spiller %s.	#
 commands.permissions.description=Laster inn tillatelser på nytt og tar dem i bruk.	#
 command.permissions.list.fail.filenotfound=Kunne ikke vise tillatelser fra filen fordi filen ikke ble funnet.	#
@@ -657,6 +671,10 @@ commands.permissions.set.failed=Kunne ikke angi tillatelsesnivå %s for spiller 
 commands.permissions.set.success=Tillatelsesnivå %s er angitt for spiller %s.	#
 commands.permissions.save.failed=Kunne ikke lagre tillatelsesnivå %s for spiller %s.	#
 commands.permissions.save.success=Tillatelsesnivå %s er lagret for spiller %s.	#
+=======
+commands.permissions.description=Laster inn tillatelser på nytt og tar dem i bruk.	#
+commands.permissions.reloaded=Tillatelser er lastet inn på nytt fra en fil.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.spawnParticleEmitter.description=Oppretter en partikkelsender	#
 commands.particle.description=Lager partikler.	#
 commands.particle.notFound=Ukjent effektnavn (%1$s)	#
@@ -910,8 +928,11 @@ commands.unban.failed=Kunne ikke oppheve utestengingen av spilleren %1$s	#
 commands.unban.success=Utestengingen av spilleren %1$s har blitt opphevet	#
 commands.unbanip.invalid=Du har oppgitt en ugyldig IP-adresse	#
 commands.unbanip.success=Utestengingen av IP-adressen %1$s har blitt opphevet	#
+<<<<<<< HEAD
 commands.videostream.description=Prøver å koble til WebSocket-serveren for å sende en videostrøm.	#
 commands.videostreamaction.description=Utfør en videostrømrelatert handling.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 commands.weather.clear=Endrer til skyfri himmel	#
 commands.weather.description=Angir været.	#
 commands.weather.disabled=Værsyklus er ikke aktivert på dette nivået.	#
@@ -981,13 +1002,19 @@ container.furnace=Smelteovn	#
 container.hopper=Gjenstandstrakt	#
 container.inventory=Inventar	#
 container.isLocked=%s er låst!	#
+<<<<<<< HEAD
 container.loom=Vev	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.minecart=Gruvevogn	#
 container.repair=Reparer og gi navn	#
 container.repair.cost=Pris i erfaringspoeng: %1$d	#
 container.repair.expensive=For dyrt!	#
 container.stonecutter=Steinkutter	#
+<<<<<<< HEAD
 container.stonecutter_block=Steinkutter	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 container.shulkerbox=Shulkerboks	#
 container.shulkerboxContains=og %d til …	#
 
@@ -1067,7 +1094,10 @@ crafting.cannotCreate=Du har ikke alle ingrediensene	#
 crafting.insufficientLevel=Nivået ditt er for lavt	#
 crafting.noRecipesInventory=Du må samle blokker for å lage noe!	#
 crafting.noRecipesStonecutter=Du trenger stein for å lage noe!	#
+<<<<<<< HEAD
 crafting.noRecipesStonecutter_block=Du trenger stein for å lage noe!	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 crafting.noRecipesWorkbench=Du må samle blokker for å lage noe!	#
 
 createWorld.customize.custom.baseSize=Overflatehøyde	#
@@ -1762,6 +1792,10 @@ disconnectionScreen.realmsServerUpdateIncoming.title=Se etter spilloppdatering n
 disconnectionScreen.realmsWorldUnassigned=Tilordne versjon i alternativene for utviklere.	#
 disconnectionScreen.realmsWorldUnassigned.title=Realmen er ikke tilordnet!	#
 disconnectionScreen.scriptNotSupported=Verdenen du prøver å bli med i, krever at enheten kjører skript. Enheten din støtter ikke skripting for øyeblikket, så du kan ikke bli med fra denne enheten.	#
+<<<<<<< HEAD
+=======
+disconnectionScreen.scriptNotSupported.title=Skripting støttes ikke	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 disconnectionScreen.serverFull=Wow, denne serveren er populær! Kom tilbake senere for å se om det er ledig plass.	#
 disconnectionScreen.serverFull.title=Serveren er full	#
 disconnectionScreen.serverIdConflict=Kan ikke bli med i verdenen. Kontoen du er logget på, brukes for øyeblikket til å spille i denne verdenen på en annen enhet.	#
@@ -1868,7 +1902,10 @@ entity.ghast.name=Geist	#
 entity.guardian.name=Vokter	#
 entity.horse.name=Hest	#
 entity.husk.name=Husk	#
+<<<<<<< HEAD
 entity.illager_beast.name=Ondsbyboerbeist	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.iron_golem.name=Jerngolem	#
 entity.item.name=Gjenstand	#
 entity.leash_knot.name=Reim med knute	#
@@ -1928,11 +1965,15 @@ entity.villager.name=Landsbyboer	#
 entity.villager.shepherd=Gjeter	#
 entity.villager.tool=Verktøymaker	#
 entity.villager.weapon=Våpensmed	#
+<<<<<<< HEAD
 entity.villager.mason=Steinhugger	#
 entity.villager.unskilled=Ufaglært landsbyboer	#
 entity.villager_v2.name=Landsbyboer	#
 entity.vindicator.name=Hevner	#
 entity.wandering_trader.name=Handelsreisende	#
+=======
+entity.vindicator.name=Hevner	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 entity.witch.name=Heks	#
 entity.wither.name=Wither	#
 entity.wither_skeleton.name=Wither-skjelett	#
@@ -1946,8 +1987,11 @@ entity.zombie_horse.name=Zombiehest	#
 entity.zombie_pigman.name=Zombiegrisemann	#
 entity.zombie_villager.name=Landsbyzombie	#
 
+<<<<<<< HEAD
 exports.share.file=Del %s	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 addExternalServerScreen.addServer=Legg til server	#
 addExternalServerScreen.nameTextBoxLabel=Servernavn	#
 addExternalServerScreen.namePlaceholder=Oppgi servernavnet	#
@@ -1974,7 +2018,10 @@ feature.village=Landsby	#
 feature.shipwreck=Skipsvrak	#
 feature.buriedtreasure=Nedgravd skatt	#
 feature.ruins=Ruinene i dypet	#
+<<<<<<< HEAD
 feature.pillageroutpost=Plyndrerutpost	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 feed.like=Liker	#
 feed.manage_feed=Administrer tidslinje	#
@@ -2047,11 +2094,16 @@ gameTip.jumpMovement.touch=Trykk på den høyre knappen for å hoppe	#
 gameTip.jumpMovement.controller=Trykk på A for å hoppe	#
 gameTip.jumpForward.keyboard=Trykk på W og mellomrom samtidig for å hoppe opp på en blokk	#
 gameTip.jumpForward.touch=Trykk på pil opp og høyre knapp samtidig for å hoppe opp på en blokk	#
+<<<<<<< HEAD
 gameTip.jumpForward.controller=Beveg venstre styrespak opp og trykk på A samtidig for å hoppe opp på en blokk	#
+=======
+gameTip.jumpForward.controller=Hold venstre styrespak oppover og trykk samtidig på A for å hoppe opp på en blokk	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gameTip.findTree=Finn et tre for å samle inn trevirke	#
 gameTip.breakWood.mouse=Venstreklikk og hold inne for å samle inn tre stykker av trevirke	#
 gameTip.breakWood.touch=Trykk og hold inne for å samle inn tre stykker av trevirke	#
 gameTip.breakWood.controller=Hold nede høyre trigger for å samle inn tre stykker av trevirke	#
+<<<<<<< HEAD
 gameTip.collectDroppedItem=Gå over gjenstander for å plukke dem opp	#
 gameTip.openInventory.keyboard=Trykk på E for å åpne inventaret ditt	#
 gameTip.openInventory.touch=Trykk på ...-knappen for å åpne inventaret ditt	#
@@ -2067,6 +2119,8 @@ gameTip.open.recipe=Åpne oppskriftsboken for å finne ut hvordan å lage flere 
 gameTip.closeInventory.keyboard=Trykk på E eller venstreklikk på X for å lukke inventaret ditt	#
 gameTip.closeInventory.touch=Trykk på X for å lukke inventaret	#
 gameTip.closeInventory.controller=Trykk på B for å lukke inventaret	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 generator.amplified=FORSTERKET	#
 generator.amplified.info=Merk: Bare for moro skyld og krever en kraftig datamaskin	#
@@ -2090,7 +2144,10 @@ gui.cancel=Avbryt	#
 gui.clear=Tøm	#
 gui.close=Lukk	#
 gui.confirm=Bekreft	#
+<<<<<<< HEAD
 gui.custom=Egendefinert	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 gui.default=Standard	#
 gui.decline=Avslå	#
 gui.deleteWorldLong=Slett verden	#
@@ -2184,6 +2241,7 @@ howtoplay.armor.header.1=Lage	#
 howtoplay.armor.text.2=En rustning kan lages av lær, jern, gull og diamant. Du kan skaffe deg en brynjerustning ved å handle med landsbyboere og ved å drepe zombier og skjeletter, som slipper dette som bytte.	#
 howtoplay.armor.text.3=Ta på deg rustningen ved å åpne inventaret og flytte delene av rustningen til riktig plass ved siden av spillerskallet ditt.	#
 howtoplay.armor.text.4=Jern-, brynje- og gullrustninger kan smeltes om til jernbarrer eller gullklumper i en smelteovn.	#
+<<<<<<< HEAD
 howtoplay.armor.header.2=Skjold	#
 howtoplay.armor.text.5.keyboard=Et skjold kan blokkere angrep. Du kan både plassere skjoldet i din ikke-dominante hånd og i hurtiglinjen. Trykk og hold inne :_input_key.sneak: for å blokkere med skjoldet.	#
 howtoplay.armor.text.5.gamepad=Et skjold kan blokkere angrep. Du kan både plassere skjoldet i din ikke-dominante hånd og i hurtiglinjen. Trykk på :_input_key.sneak:-knappen eller klikk på :_gamepad_stick_right: for å aktivere blokkering med skjoldet.	#
@@ -2193,6 +2251,10 @@ howtoplay.armor.text.5.windowsmr_controller=Et skjold kan blokkere angrep. Du ka
 howtoplay.armor.text.6=Skjoldet kan selv blokkere en eksploderende smyger!	#
 howtoplay.armor.header.3=Forkledning	#
 howtoplay.armor.text.7=Du kan også ha et gresskar på hodet. Dette gir deg ikke noe :armor:, men det gjør at endermenn ikke blir sinte når du ser på dem.	#
+=======
+howtoplay.armor.header.2=Forkledning	#
+howtoplay.armor.text.5=Du kan også ha et gresskar på hodet. Dette gir deg ikke noe :armor:, men det gjør at endermenn ikke blir sinte når du ser på dem.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.armorStand=Rustningstativ	#
 howtoplay.armorStand.title=Slik spiller du: rustningstativ	#
@@ -2211,7 +2273,11 @@ howtoplay.armorStand.text.5=Rustningstativer reagerer på rødsteinsignaler. Pr�
 howtoplay.banners=Bannere	#
 howtoplay.banners.title=Slik spiller du: bannere	#
 howtoplay.banners.text.1=Vil du pynte huset eller slottet ditt med egendefinerte mønstre og farger, er bannere en kul måte å gjøre dette på.	#
+<<<<<<< HEAD
 howtoplay.banners.text.2=Når du har lagd et banner, kan du plassere det på en arbeidsbenk eller vev og legge til forskjellige fargestoffer for å lage ditt eget unike og kule design!	#
+=======
+howtoplay.banners.text.2=Når du har lagd et banner, kan du plassere det på en arbeidsbenk og legge til forskjellige fargestoffer for å lage din egen unike og kule design!	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.banners.header.1=Bruke et mønster	#
 howtoplay.banners.text.3=Du kan lage mange forskjellige mønstre med fargestoffet ditt, for eksempel:	#
 howtoplay.banners.text.4=  – Lag en trekant for å få et trekantmønster.	#
@@ -2511,6 +2577,7 @@ howtoplay.droppers.text.2=Hvis en dråpeteller står vendt mot en kiste eller an
 howtoplay.dyes=Fargestoffer	#
 howtoplay.dyes.title=Slik spiller du: fargestoffer	#
 howtoplay.dyes.text.1=Fargestoffer brukes til å endre farge på mange ting i Minecraft.	#
+<<<<<<< HEAD
 howtoplay.dyes.text.2=Noen fargestoffer er vanskeligere å finne enn andre. Selv om de fleste fargestoffer kan lages av blomster, for eksempel rødt fargestoff av valmuer, er det enkelte som lages på mer obskure måter, for eksempel følgende: 	#
 howtoplay.dyes.text.3=–lasurstein, som utvinnes dypt under bakken	#
 howtoplay.dyes.text.4=–blekkposer, som du må under vann for å finne	#
@@ -2518,6 +2585,14 @@ howtoplay.dyes.text.5=–kakaobønner, som høstes i jungelen	#
 howtoplay.dyes.text.6=– Grønt fargestoff må smeltes fra kaktus	#
 howtoplay.dyes.text.7=– Beinmel kan hjelpe med å dyrke planter og trær, eller gjøres som til hvitt fargestoff	#
 howtoplay.dyes.text.8=– Samle inn blekkposer fra blekkspruter for svart fargestoff	#
+=======
+howtoplay.dyes.text.2=Du må kanskje utforske en stund før du finner noen av de naturlige materialene som brukes til å lage enkelte fargestoffer. Selv om de fleste fargestoffer kan lages av blomster, for eksempel rosenrødt av valmuer, er det enkelte som lages av ting som er vanskeligere å få fatt i, for eksempel følgende: 	#
+howtoplay.dyes.text.3=–lasurstein, som utvinnes dypt under bakken	#
+howtoplay.dyes.text.4=–blekkposer, som du må under vann for å finne	#
+howtoplay.dyes.text.5=–kakaobønner, som høstes i jungelen	#
+howtoplay.dyes.text.6=–kaktuser, som smeltes om til kaktusgrønt	#
+howtoplay.dyes.text.7=–beinmel, som kan brukes som gjødsel for planter og trær eller som hvitt fargestoff	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.elytra=Elytravinger	#
 howtoplay.elytra.title=Slik spiller du: elytravinger	#
@@ -2706,6 +2781,7 @@ howtoplay.jukebox.header.3=Finne musikkplater	#
 howtoplay.jukebox.text.7=Det finnes et par musikkplater i kister rundt om i verdenen.	#
 howtoplay.jukebox.text.8=Andre er vanskeligere å få tak i, men smygere digger musikk i all hemmelighet.	#
 
+<<<<<<< HEAD
 howtoplay.loom=Vev	#
 howtoplay.loom.title=Slik spiller du: Vev	#
 howtoplay.loom.text.1=Veven er både hurtig og effektiv når du vil gi banner et mønster. Veven bruker kun én enkelt farge til hvert mønster. Den kan også bruke vevmønstre til å lage spesielle mønstre.	#
@@ -2715,6 +2791,8 @@ howtoplay.loom.text.3=Et banner kan ha flere lag, slik at du kan eksperimentere 
 howtoplay.loom.header.2=Vevmønstre	#
 howtoplay.loom.text.4=Hvis du plasserer et vevmønster på vevens tredje plass, kan du fremstille spesielle mønstre som en blomst eller et smygeransikt. Du mister ikke vevmønstrene når du bruker dem på bannere.	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.mounts=Ridedyr	#
 howtoplay.mounts.title=Slik spiller du: ridedyr	#
 howtoplay.mounts.text.1=Spillere kan ri på alle voksne hester, esler og muldyr. Det er bare hester som kan bruke rustning.	#
@@ -2912,6 +2990,10 @@ howtoplay.transportation.text.5.keyboard=Trykk på :_input_key.use: mens du ser 
 howtoplay.transportation.text.5.gamepad=Trykk på :_input_key.use: mens du ser på en båt, for å gå om bord i den. Trykk :_gamepad_stick_left: mot venstre eller høyre for å svinge. Trykk :_gamepad_stick_left: fremover for å kjøre fremover. Trykk på :_input_key.jump: eller :_input_key.sneak: for å gå ut av båten.	#
 howtoplay.transportation.text.5.touch=Trykk på ombordstigningsknappen i nærheten av en båt for å gå om bord i den. Trykk på :_input_key.left: eller :_input_key.right: for å svinge mot venstre eller høyre. Trykk på begge samtidig for å kjøre fremover. Trykk på ilandstigningsknappen for å gå ut av båten.	#
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 howtoplay.weapons=Våpen	#
 howtoplay.weapons.title=Slik spiller du: våpen	#
 howtoplay.weapons.header.1=Sverd	#
@@ -2922,6 +3004,7 @@ howtoplay.weapons.header.2=Bue	#
 howtoplay.weapons.text.3.notTouch=Buen er det vanligste avstandsvåpenet i Minecraft. Hold inne :_input_key.use: for å spenne buen. Slipp :_input_key.use: for å skyte en pil. Buen bruker piler som ammunisjon. 	#
 howtoplay.weapons.text.3.touch=Buen er det vanligste avstandsvåpenet i Minecraft. Trykk og hold på skjermen for å spenne buen. Løft fingeren for å skyte en pil. Buen bruker piler som ammunisjon.	#
 howtoplay.weapons.text.4=Buer gjør mer skade jo mer du spenner dem, så pass på at du drar buestrengen helt tilbake.	#
+<<<<<<< HEAD
 howtoplay.weapons.header.3=Armbrøst	#
 howtoplay.weapons.text.5.notTouch=Armbrøsten er et alternativt avstandsvåpen. Hold inne :_input_key.use: for å spenne armbrøsten. Når armbrøsten er ladet, holder den seg ladet til den blir avfyrt. Slipp :_input_key.use: for å skyte en pil. Armbrøsten lades med piler.	#
 howtoplay.weapons.text.5.touch=Armbrøsten er et alternativt avstandsvåpen. Trykk på skjermen og hold inne for å spenne armbrøsten. Når armbrøsten er ladet, holder den seg ladet til den blir avfyrt, selv når du plasserer den i inventaret. Trykk på skjermen for å skyte en pil. Armbrøsten lades med piler.	#
@@ -2930,6 +3013,13 @@ howtoplay.weapons.text.6.notTouch=Treforken kan brukes både som avstandsvåpen 
 howtoplay.weapons.text.6.touch=Treforken kan brukes både som avstandsvåpen og nærkampvåpen. Trykk på vesener for å angripe dem. Trykk og hold på skjermen for å gjøre treforken klar til kast. Løft fingeren for å kaste treforken. Treforken er det beste våpenet under vann.	#
 howtoplay.weapons.header.5=Fortryllede våpen	#
 howtoplay.weapons.text.7=Sverdet, buen, armbrøsten og treforken kan fortrylles med bestemte fortryllelser fra fortryllelsesbordet eller ambolten. Disse fortryllelsene vil øke skaden våpenet gjør, forlenge holdbarheten og til og med sette fyr på vesener!	#
+=======
+howtoplay.weapons.header.3=Fortryllede våpen	#
+howtoplay.weapons.text.5=Sverdet, buen og treforken kan fortrylles med bestemte fortryllelser fra fortryllelsesbordet eller ambolten. Disse fortryllelsene vil øke skaden våpenet gjør, forlenge holdbarheten og til og med sette fyr på vesener!	#
+howtoplay.weapons.header.trident=Trefork	#
+howtoplay.weapons.text.trident.notTouch=Treforken kan brukes både som avstandsvåpen og nærkampvåpen. Trykk på :_input_key.attack: for å angripe. Hold inne :_input_key.use: for å gjøre treforken klar til kast. Slipp :_input_key.use: for å kaste treforken. Treforken er det beste våpenet under vann.	#
+howtoplay.weapons.text.trident.touch=Treforken kan brukes både som avstandsvåpen og nærkampvåpen. Trykk på vesener for å angripe dem. Trykk og hold på skjermen for å gjøre treforken klar til kast. Løft fingeren for å kaste treforken. Treforken er det beste våpenet under vann.	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 howtoplay.whatsNew=Nyheter	#
 
@@ -3874,13 +3964,19 @@ item.spawn_egg.entity.sheep.name=Generer sau	#
 item.spawn_egg.entity.npc.name=Generer datastyrt figur	#
 item.spawn_egg.entity.wolf.name=Generer ulv	#
 item.spawn_egg.entity.villager.name=Generer landsbyboer	#
+<<<<<<< HEAD
 item.spawn_egg.entity.villager_v2.name=Generer landsbyboer	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.vindicator.name=Generer hevner	#
 item.spawn_egg.entity.mooshroom.name=Generer soppku	#
 item.spawn_egg.entity.squid.name=Generer blekksprut	#
 item.spawn_egg.entity.rabbit.name=Generer kanin	#
 item.spawn_egg.entity.bat.name=Generer flaggermus	#
+<<<<<<< HEAD
 item.spawn_egg.entity.illager_beast.name=Generer ondsbyboerbeist	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.iron_golem.name=Generer jerngolem	#
 item.spawn_egg.entity.snow_golem.name=Generer snøgolem	#
 item.spawn_egg.entity.ocelot.name=Generer ozelot	#
@@ -3906,7 +4002,10 @@ item.spawn_egg.entity.ghast.name=Generer geist	#
 item.spawn_egg.entity.magma_cube.name=Generer magmakube	#
 item.spawn_egg.entity.blaze.name=Generer blusser	#
 item.spawn_egg.entity.zombie_villager.name=Generer landsbyzombie	#
+<<<<<<< HEAD
 item.spawn_egg.entity.zombie_villager_v2.name=Generer landsbyzombie	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.spawn_egg.entity.witch.name=Generer heks	#
 item.spawn_egg.entity.stray.name=Generer omstreifer	#
 item.spawn_egg.entity.husk.name=Generer husk	#
@@ -3923,7 +4022,10 @@ item.spawn_egg.entity.phantom.name=Generer fantom	#
 item.spawn_egg.entity.panda.name=Generer panda	#
 item.spawn_egg.entity.pillager.name=Generer plyndrer	#
 item.spawn_egg.entity.unknown.name=Generer	#
+<<<<<<< HEAD
 item.spawn_egg.entity.wandering_trader.name=Generer handelsreisende	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.trident.name=Trefork	#
 item.mushroom_stew.name=Soppstuing	#
 item.muttonCooked.name=Stekt fårekjøtt	#
@@ -4016,12 +4118,16 @@ item.wheat.name=Hvete	#
 item.writable_book.name=Bok og fjærpenn	#
 item.written_book.name=Ferdigskrevet bok	#
 item.glowstone_dust.name=Glødesteinstøv	#
+<<<<<<< HEAD
 item.shield.name=Skjold	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 item.shulker_shell.name=Shulkerskall	#
 item.totem.name=Udødelighetstotem	#
 item.turtle_helmet.name=Skilpaddeskall	#
 item.turtle_shell_piece.name=Plate	#
 item.phantom_membrane.name=Fantommembran	#
+<<<<<<< HEAD
 item.sweet_berries.name=Søte bær	#
 item.banner_pattern.bricks=Mursteinsmønster	#
 item.banner_pattern.creeper=Smygerfjes	#
@@ -4030,6 +4136,8 @@ item.banner_pattern.name=Bannermønster	#
 item.banner_pattern.skull=Hodeskalle	#
 item.banner_pattern.thing=Ting	#
 item.banner_pattern.vines=Taggete bord	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 itemGroup.search=Søk etter gjenstander	#
 itemGroup.name.planks=Planker	#
@@ -4064,7 +4172,11 @@ itemGroup.name.rawFood=Rå mat	#
 itemGroup.name.cookedFood=Tilberedt mat	#
 itemGroup.name.miscFood=Diverse mat	#
 itemGroup.name.mushroom=Sopper	#
+<<<<<<< HEAD
 itemGroup.name.monsterStoneEgg=Infisert stein	#
+=======
+itemGroup.name.monsterStoneEgg=Monsteregg av stein	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 itemGroup.name.mobEgg=Vesenegg	#
 itemGroup.name.helmet=Hjelmer	#
 itemGroup.name.chestplate=Brystplater	#
@@ -4100,8 +4212,11 @@ itemGroup.name.coral=Korallblokker	#
 itemGroup.name.coral_decorations=Koralldekorasjoner	#
 itemGroup.name.buttons=Knapper	#
 itemGroup.name.sign=Skilt	#
+<<<<<<< HEAD
 itemGroup.name.wood=Tre	#
 itemGroup.name.banner_pattern=Bannermønstre	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 key.attack=Angrip/ødelegg	#
 key.back=Gå baklengs	#
@@ -4523,7 +4638,11 @@ options.chat.visibility.hidden=Skjult	#
 options.chat.visibility.system=Bare kommandoer	#
 options.chat.width=Bredde	#
 options.codeBuilder=Kodebygger	#
+<<<<<<< HEAD
 options.content_log_file=Aktiver innholdsloggfil	#
+=======
+options.content_log=Aktiver innholdslogg	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.content_log_gui=Aktiver innholdslogg GUI	#
 options.controller=Kontroller	#
 options.controllerLayout=Kontrolleroppsett	#
@@ -4613,6 +4732,7 @@ options.dev_useZippedInPackagePacks=Bruk zippede pakker i pakken	#
 options.dev_importPacksAsZip=Importer pakker som ZIP-filer	#
 options.dev_folders_portSettingsFolder=Eksporter innstillingsmappen	#
 options.dev_useOverrideDate=Bruk overstyringsdato	#
+<<<<<<< HEAD
 options.dev_displayOverrideDatetime=Vis datotid	#
 options.dev_loadOverrideDate=Last inn overstyringsdato ved oppstart	#
 options.dev.timeZoneType=Overstyr behandlerens tidssonetype	#
@@ -4627,6 +4747,16 @@ options.dev_overrideDayLength=Overstyring av dagslengde i minutter (min: 1)	#
 options.dev_overrideTimeScale=Juster hvor fort tiden går (minimum: 1, standard: 1)	#
 options.dev_updateOverrideDate=Oppdater overstyringsdatoen	#
 options.dev_resetOverrideDate=Tilbakestill overstyringsdato	#
+=======
+options.dev_displayOverrideDatetime=Vis dato og klokkeslett for overstyring	#
+options.dev_saveCurrentOverrideDate=Lagre den gjeldende datoen ved lukking	#
+options.dev_overrideDateYear=År	#
+options.dev_overrideDateMonth=Måned	#
+options.dev_overrideDateDay=Dag	#
+options.dev_overrideDayLength=Overstyring av dagslengde i minutter (min: 1)	#
+options.dev_overrideTimeScale=Juster hvor fort tiden går (minimum: 1, standard: 1)	#
+options.dev_updateOverrideDate=Oppdater overstyringsdatoen	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.dev_clearStoreCache=Tøm butikkmellomlageret	#
 options.dev_clearAllCache=Tøm alle mellomlagre	#
 options.dev_connection_quality=Nettverkssimulator (simuler dårlige tilkoblinger)	#
@@ -4636,6 +4766,7 @@ options.dev_connection_4g=4G – 15 Mbps, 100 ms ventetid, 1 % pakketap	#
 options.dev_connection_3g=3G – 1,5 Mbps, 200 ms ventetid, 2 % pakketap	#
 options.dev_connection_slow=Treg – 400 kbps, 300 ms ventetid, 3 % pakketap	#
 options.dev_connection_veryslow=Svært treg – 200 kbps, 400 ms ventetid, 4 % pakketap	#
+<<<<<<< HEAD
 options.dev_identity_environment=Ny identitet og nytt infrastrukturmiljø online (krever omstart)	#
 options.dev_identity_environment.dev=Utvikling	#
 options.dev_identity_environment.test=Test	#
@@ -4645,6 +4776,8 @@ options.dev.windowsStore.auto=Automatisk	#
 options.dev.windowsStore.v6=Eldre Windows Store – V6	#
 options.dev.windowsStore.v8=OneStore – V8	#
 options.dev.stores=Aktive butikker:	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 options.difficulty=Vanskelighetsgrad	#
 options.difficulty.easy=Lett	#
 options.difficulty.hard=Vanskelig	#
@@ -4962,6 +5095,7 @@ pauseScreen.title=Spillet er satt på pause	#
 pauseScreen.betaFeedback=Tilbakemelding om betaversjonen	#
 pauseScreen.xboxLiveDisconnect=Au da! Du ble koblet fra Xbox Live. Åpne verdenen din på nytt for å invitere flere spillere.	#
 
+<<<<<<< HEAD
 feedbackScreen.button=Tilbakemelding	#
 feedbackScreen.title=Har du en tilbakemelding?	#
 feedbackScreen.suggestion=Kom med et forslag!	#
@@ -4969,6 +5103,16 @@ feedbackScreen.bug=Meld fra om en feil!	#
 feedbackScreen.help=Trenger du hjelp?	#
 feedbackScreen.body=Har du en idé som kan forbedre Minecraft? Har du funnet en feil du vil ha rettet? Eller har du fått et problem du trenger hjelp til? Gi oss beskjed!	#
 feedbackScreen.consoleMessage=Besøk dette nettstedet på en annen enhet. %s	#
+=======
+feedbackScreen.title=Har du tilbakemeldinger?	#
+feedbackScreen.suggestion=Kom med et forslag!	#
+feedbackScreen.bug=Rapporter en feil!	#
+feedbackScreen.help=Trenger du hjelp?	#
+feedbackScreen.body=Har du en idé som kan forbedre Minecraft? Har du funnet en feil du vil ha fikset? Eller har du et problem du trenger hjelp med? Gi oss beskjed!	#
+feedbackScreen.suggestionLink=Besøk dette nettstedet på en annen enhet: https://aka.ms/minecraftfb	#
+feedbackScreen.bugLink=Besøk dette nettstedet på en annen enhet: https://aka.ms/mcbugs	#
+feedbackScreen.helpLink=Besøk dette nettstedet på en annen enhet: https://aka.ms/helpMC	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 hudScreen.tooltip.basic.back=Bakover	#
 hudScreen.tooltip.basic.flyDown=Fly nedover	#
@@ -5012,7 +5156,10 @@ hudScreen.tooltip.dismount=Stig av	#
 hudScreen.tooltip.collect=Plukk opp	#
 hudScreen.tooltip.peel=Skrell av bark	#
 hudScreen.tooltip.scaffoldingDescend=Hold for å klatre ned	#
+<<<<<<< HEAD
 hudScreen.tooltip.pick=Velg	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
@@ -5054,7 +5201,11 @@ permissions.ability.doorsandswitches=Bruke dører og brytere	#
 permissions.ability.opencontainers=Åpne beholdere	#
 permissions.ability.attackplayers=Angripe spillere	#
 permissions.ability.attackmobs=Angripe vesener	#
+<<<<<<< HEAD
 permissions.ability.op=Operatørkommandoer	#
+=======
+permissions.ability.op=Operatør	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.ability.invisible=Bli usynlig	#
 permissions.ability.teleport=Bruke teleportering	#
 permissions.NeedPermission=Du må ha tillatelse	#
@@ -5078,10 +5229,15 @@ permissions.level.operator=Operatør	#
 permissions.level.visitor=Gjest	#
 permissions.nocheats=Juksing er deaktivert	#
 permissions.nocheats.message=Enkelte kommandoer som teleport er kun tilgjengelige dersom juksing er skrudd PÅ. Juksing kan også skrus på gjennom pause menyen under Spillinnstillinger. Dersom du velger å skru på juksing vil Prestasjoner bli skrudd av for denne verdenen.	#
+<<<<<<< HEAD
 permissions.nocheats.message.noachievements=Enkelte kommandoer som teleport er kun tilgjengelige dersom juksing er skrudd PÅ. Juksing kan også skrus på via pause-menyen under Spillinnstillinger.	#
 permissions.nocheats.turnon=Sett OP med juksing skrudd PÅ	#
 permissions.nocheats.turnoff=Sett OP med juksing skrudd AV	#
 permissions.nocheats.cancel=Avbryt	#
+=======
+permissions.nocheats.turnon=Skru på juksing	#
+permissions.nocheats.turnoff=Fortsett uten juks	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 permissions.deopingself=Fjerne operatørtillatelser?	#
 permissions.deopingself.message=Senker du tillatelsesnivået, vil du ikke lenger ha tillatelser på operatørnivå.	#
 permissions.title=Spillertillatelser	#
@@ -5765,13 +5921,20 @@ store.popup.purchaseFailedInsufficientFunds.buyButton=Skaff deg mynter	#
 store.popup.purchasePriceMismatch.msg=Beklager, men vi kunne ikke fullføre kjøpet ditt. Prøv på nytt senere.	#
 store.popup.trialUpgradeFail.title=Kunne ikke låse opp spillet	#
 store.popup.trialUpgradeFail.msg=Det ser ut til at du er logget på en annen Microsoft-konto enn den som først lastet ned prøveversjonen av Minecraft. Prøv på nytt etter at du har logget deg på med den kontoen.	#
+<<<<<<< HEAD
 store.popup.downloaded.unOwnedTemplate.title=Vil du kjøpe verdensmalen?	#
 store.popup.downloaded.unOwnedTemplate.msg=Du eier ikke denne malen, og må kjøpe den for å låse den opp. Vil du kjøpe malen?	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.success=Du kjøpte nettopp: %s	#
 store.purchase.bundle=Lås opp %d av %d pakker?	#
 store.purchase.bundle.confirm=Lås opp nå!	#
 store.purchase.bundle.partiallyOwnedWarning=Bare så du er klar over det, så har du allerede følgende pakker: %s. Vil du låse opp resten av pakkene i denne pakken?	#
+<<<<<<< HEAD
 store.purchase.bundle.owned=Eid	#
+=======
+store.purchase.bundle.owned=Du eier	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 store.purchase.bundle.unowned=Du får	#
 store.createdBy=Av %s	#
 store.seeMoreBy=Se mer av %s	#
@@ -6144,7 +6307,10 @@ tile.chalkboard.twoByOne.name=Middels tavle	#
 tile.chalkboard.threeByTwo.name=Stor tavle	#
 tile.chest.name=Kiste	#
 tile.ender_chest.name=Enderkiste	#
+<<<<<<< HEAD
 tile.jigsaw.name=Puslespillblokk	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.trapped_chest.name=Fellekiste	#
 tile.shulkerBoxWhite.name=Hvit shulkerboks	#
 tile.shulkerBoxOrange.name=Oransje shulkerboks	#
@@ -6237,6 +6403,11 @@ tile.wool.white.name=Hvit ull	#
 tile.wool.yellow.name=Gul ull	#
 tile.cobblestone_wall.mossy.name=Mosegrodd brosteinsmur	#
 tile.cobblestone_wall.normal.name=Brosteinsmur 	#
+<<<<<<< HEAD
+=======
+tile.cobblestone_wall.cobblestone.name=Brosteinsmur	#
+tile.cobblestone_wall.mossy_cobblestone.name=Mur av mosegrodd brostein	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.cobblestone_wall.granite.name=Granittmur	#
 tile.cobblestone_wall.diorite.name=Diorittmur	#
 tile.cobblestone_wall.andesite.name=Andesittmur	#
@@ -6251,7 +6422,10 @@ tile.cobblestone_wall.red_sandstone.name=Mur av rød sandstein	#
 tile.cobblestone_wall.red_nether_brick.name=Mur av rød underverdenmurstein	#
 tile.cocoa.name=Kakao	#
 tile.command_block.name=Kommandoblokk	#
+<<<<<<< HEAD
 tile.composter.name=Komposteringsblokk	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.repeating_command_block.name=Gjentar kommandoblokk	#
 tile.chain_command_block.name=Kjede kommandoblokk	#
 tile.wheat.name=Avlinger	#
@@ -6283,7 +6457,11 @@ tile.enchanting_table.name=Fortryllelsesbord	#
 tile.enderChest.name=Enderkiste	#
 tile.end_portal_frame.name=Sluttportal	#
 tile.farmland.name=Dyrkbar jord	#
+<<<<<<< HEAD
 tile.fletching_table.name=Buemakerbord	#
+=======
+tile.fletching_table.name=Pilmakerbord	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.fence.name=Eikegjerde	#
 tile.fence_gate.name=Eikegrind	#
 tile.iron_bars.name=Jernstenger	#
@@ -6334,6 +6512,7 @@ tile.lever.name=Spak	#
 tile.glowstone.name=Glødestein	#
 tile.lit_pumpkin.name=Gresskarlykt	#
 tile.lockedchest.name=Låst kiste	#
+<<<<<<< HEAD
 tile.log.acacia.name=Akasiestokk	#
 tile.log.big_oak.name=Mørk eik-stokk	#
 tile.log.birch.name=Bjørkestokk	#
@@ -6351,6 +6530,25 @@ tile.monster_egg.crackedbrick.name=Infisert sprukket steinblokk	#
 tile.monster_egg.mossybrick.name=Infisert mosegrodd steinblokk	#
 tile.monster_egg.name=Infisert stein	#
 tile.monster_egg.stone.name=Infisert stein	#
+=======
+tile.log.acacia.name=Akasietre	#
+tile.log.big_oak.name=Tre fra mørk eik	#
+tile.log.birch.name=Bjørketre	#
+tile.log.jungle.name=Jungeltre	#
+tile.log.name=Tre	#
+tile.log.oak.name=Eiketre	#
+tile.log.spruce.name=Grantre	#
+tile.magma.name=Magmablokk	#
+tile.melon_block.name=Melon	#
+tile.mob_spawner.name=Monstergenerator	#
+tile.monster_egg.brick.name=Monsteregg av steinblokk	#
+tile.monster_egg.chiseledbrick.name=Monsteregg av meislet steinblokk	#
+tile.monster_egg.cobble.name=Monsteregg av brostein	#
+tile.monster_egg.crackedbrick.name=Monsteregg av sprukket steinblokk	#
+tile.monster_egg.mossybrick.name=Monsteregg av mosegrodd steinblokk	#
+tile.monster_egg.name=Monsteregg av stein	#
+tile.monster_egg.stone.name=Monsteregg av stein	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mushroom.name=Sopp	#
 tile.noteblock.name=Noteblokk	#
 tile.mycelium.name=Mycelium	#
@@ -6501,7 +6699,10 @@ tile.stonebrick.mossy.name=Mosegrodde steinblokker	#
 tile.stonebrick.name=Steinblokker	#
 tile.stonebrick.smooth.name=Glatte steinblokker	#
 tile.stonecutter.name=Steinkutter	#
+<<<<<<< HEAD
 tile.stonecutter_block.name=Steinkutter	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.mossy_cobblestone.name=Mosegrodd brostein	#
 tile.double_stone_slab.brick.name=Murhelle	#
 tile.double_stone_slab.cobble.name=Brosteinshelle	#
@@ -6516,10 +6717,18 @@ tile.stone_slab.name=Steinhelle	#
 tile.stone_slab.brick.name=Murhelle	#
 tile.stone_slab.cobble.name=Brosteinshelle	#
 tile.stone_slab.stone.name=Helle av glatt stein	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.smoothStone.name=Helle av glatt stein	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.nether_brick.name=Helle av underverdenmurstein	#
 tile.stone_slab.quartz.name=Kvartshelle	#
 tile.stone_slab.sand.name=Sandsteinshelle	#
 tile.stone_slab.smoothStoneBrick.name=Steinblokkhelle	#
+<<<<<<< HEAD
+=======
+tile.stone_slab.stone.name=Steinhelle	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 tile.stone_slab.wood.name=Trehelle	#
 tile.double_stone_slab2.red_sandstone.name=Helle av rød sandstein	#
 tile.stone_slab2.red_sandstone.name=Helle av rød sandstein	#
@@ -6695,18 +6904,28 @@ tile.concretePowder.magenta.name=Magentarød sement	#
 tile.concretePowder.orange.name=Oransje sement	#
 tile.concretePowder.white.name=Hvit sement	#
 
+<<<<<<< HEAD
 tile.stripped_spruce_log.name=Høvlet granstokk	#
 tile.stripped_dark_oak_log.name=Høvlet mørk eik-stokk	#
 tile.stripped_birch_log.name=Høvlet bjørkestokk	#
 tile.stripped_jungle_log.name=Høvlet jungeltrestokk	#
 tile.stripped_oak_log.name=Høvlet eikestokk	#
 tile.stripped_acacia_log.name=Høvlet akasiestokk	#
+=======
+tile.stripped_spruce_log.name=Høvlet gran	#
+tile.stripped_dark_oak_log.name=Høvlet mørk eik	#
+tile.stripped_birch_log.name=Høvlet bjørk	#
+tile.stripped_jungle_log.name=Høvlet jungeltre	#
+tile.stripped_oak_log.name=Høvlet eik	#
+tile.stripped_acacia_log.name=Høvlet akasie	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tile.bamboo.name=Bambus	#
 tile.scaffolding.name=Stillas	#
 tile.grindstone.name=Slipestein	#
 tile.cartography_table.name=Kartografibord	#
 tile.lantern.name=Lykt	#
+<<<<<<< HEAD
 tile.smoker.name=Rykeovn	#
 tile.smithing_table.name=Smiebord	#
 tile.barrel.name=Tønne	#
@@ -6727,6 +6946,11 @@ tile.wood.stripped.birch.name=Høvlet bjørketre	#
 tile.wood.stripped.jungle.name=Høvlet jungeltre	#
 tile.wood.stripped.acacia.name=Høvlet akasietre	#
 tile.wood.stripped.dark_oak.name=Høvlet tre fra mørk eik	#
+=======
+tile.smoker.name=Røykovn	#
+tile.smithing_table.name=Smiebord	#
+tile.barrel.name=Tønne	#
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tipped_arrow.effect.empty=Pil med innsmurt spiss	#
 tipped_arrow.effect.water=Pil med innsmurt spiss	#
@@ -6811,10 +7035,13 @@ translation.test.invalid2=hei, % s	#
 translation.test.none=Hallo, verden!	#
 translation.test.world=verden	#
 
+<<<<<<< HEAD
 ## NOTE: Please do not localize the typeface names
 typeface.mojangles=Mojangles	#
 typeface.notoSans=Noto Sans	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 worldConversionErrorPrompt.title=Konverteringen av verdenen mislyktes	#
 worldConversionErrorPrompt.message=Au da, noe gikk galt under konverteringen av verdenen. Prøv på nytt senere.	#
 worldConversionErrorPrompt.message.upload=Noe gikk galt, og vi kunne ikke konvertere verdenen din. Du kan sende oss verdenen senere ved å gå til den gamle verdenen og trykke på Y. Du kan også sende oss verdenen nå, slik at vi kan undersøke nærmere.	#
@@ -6905,6 +7132,7 @@ trial.tabbed_upsell.addon.description=Vil du at ulvene skal oppføre seg som kan
 trial.tabbed_upsell.seeds.title=FRØ	#
 trial.tabbed_upsell.seeds.description=Lås opp fullversjonen av Minecraft for å få tilgang til frø, som lar deg utforske nye biomer! Overlev i isødet, bestig høye åser, eller kryss ørkensanden. Start med unike maler, eller utforsk tilfeldig genererte nye verdener! Kjøp Minecraft i dag for å få tilgang til frø, kreativ modus, flerspiller og mye mer!	#
 
+<<<<<<< HEAD
 ## Trial Collection content:
 trial.starter.collection.title=Minecraft-samling for nybegynnere	#
 trial.master.collection.title=Den store Minecraft-samlingen	#
@@ -6938,6 +7166,8 @@ trial.collection.12.title=Skallpakken Skurker	#
 trial.collection.12.description=Kle deg ut som en Cake Maniac, Frankencrafter eller noe enda verre!	#
 trial.includes=Inkluderer	#
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 utility.zipFile=Pakk fil	#
 verification.nolicense.title=Lisensfeil	#
 verification.nolicense.description=Vi har problemer med å bekrefte at du eier Minecraft på denne enheten. Kontroller at du har lastet ned og installert Minecraft fra butikken. Eller koble til Internett og prøv på nytt.	#
@@ -7188,6 +7418,7 @@ tips.edu.5=Sett spillet på pause og del IP-adressen din for å la andre koble s
 tips.edu.6=Husk at du må aktivere juksing i verdenen for å bruke /-kommandoer.	#
 tips.edu.7=Er du ferdig med verket ditt? La andre utforske verdenen din i eventyrmodus for å beskytte arbeidet ditt.	#
 tips.edu.8=Trykk på C på tastaturet eller på agentikonet øverst på skjermen for å bruke Kodebygger!	#
+<<<<<<< HEAD
 tips.edu.9=Bruk biblioteket til å finne nye spillverdener å bygge i.	#
 tips.edu.10=Leter du etter et bestemt biom? Prøv biblioteket.	#
 tips.edu.11=NPC står for Non-Player Character.	#
@@ -7201,6 +7432,8 @@ tips.edu.18=Du kan slå Autohopp på eller av i Innstillinger-menyen under Kontr
 tips.edu.19=Mens du er i kreativ modus, trykker du raskt på hopp to ganger for å fly.	#
 tips.edu.20=Velg en standard spillmodus når du lager verdenen for å angi hvilken type spillopplevelse du vil ha.	#
 tips.edu.21=Bruk kommandoen «/setworldspawn» for å få nye spillere til å begynne å spille der du er.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 tips.game.1=Bruk sjøgress for å tiltrekke deg og avle havskilpadder.	#
 tips.game.2=Beskytt babyskilpadder mot fiendtlige vesener!	#
@@ -7263,8 +7496,11 @@ tips.game.56=Når du graver rett opp, plasserer du en fakkel ved føttene dine f
 splitscreen.joinPrompt=Bli med som spiller %s	#
 splitscreen.unavailable.toastHeader=Delt skjerm er ikke tilgjengelig	#
 splitscreen.unavailable.toastMessage=En annen spiller kan ikke bli med akkurat nå.	#
+<<<<<<< HEAD
 splitscreen.joyconError.toastHeader=Kan ikke koble til Joy-Con!	#
 splitscreen.joyconError.toastMessage=Det er for mange kontrollere tilkoblet i modus for lokalt nettverk til å bli med i dette spillet.	#
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
 
 usermanagement.changeUser=Bytt bruker	#
 

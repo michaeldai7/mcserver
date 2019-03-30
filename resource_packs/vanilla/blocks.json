@@ -1159,6 +1159,7 @@
   "structure_block": {
     "textures": "structure_block"
   },
+<<<<<<< HEAD
   "jigsaw": {
     "textures": {
       "up": "jigsaw_side",
@@ -1169,6 +1170,8 @@
       "east": "jigsaw_side"
     }
   },
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "structure_void": {
     "textures": "structure_void"
   },
@@ -1497,6 +1500,7 @@
     },
     "sound": "stone"
   },
+<<<<<<< HEAD
   "stonecutter_block": {
     "textures": {
       "up": "stonecutter2_top",
@@ -1508,6 +1512,8 @@
     },
     "sound": "stone"
   },
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "glowingobsidian": {
     "textures": "glowing_obsidian",
     "brightness_gamma": 0.80,
@@ -1868,23 +1874,40 @@
   },
   "barrel": {
     "textures": {
+<<<<<<< HEAD
       "up": "barrel_side",
       "down": "barrel_side",
       "north": "barrel_top",
       "south": "barrel_bottom",
       "east": "barrel_side",
       "west": "barrel_side"
+=======
+      "up": "fishbarrel_side",
+      "down": "fishbarrel_side",
+      "north": "fishbarrel_top_lid",
+      "south": "fishbarrel_bottom",
+      "east": "fishbarrel_side",
+      "west": "fishbarrel_side"
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     },
     "sound": "wood"
   },
   "smithing_table": {
     "textures": {
       "up": "smithing_table_top",
+<<<<<<< HEAD
       "down": "smithing_table_bottom",
       "north": "smithing_table_front",
       "south": "smithing_table_front",
       "west": "smithing_table_side",
       "east": "smithing_table_side"
+=======
+      "down": "crafting_table_bottom",
+      "north": "smithing_table_side_a",
+      "south": "smithing_table_side_a",
+      "west": "smithing_table_side_b",
+      "east": "smithing_table_side_b"
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     },
     "sound": "wood"
   },
@@ -1943,7 +1966,11 @@
       "north": "bell_side",
       "south": "bell_side",
       "east": "dark_oak_planks",
+<<<<<<< HEAD
       "west": "bell_stone"
+=======
+      "west": "stone"
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
     },
     "carried_textures": "bell_carried",
     "sound": "metal"
@@ -1969,6 +1996,7 @@
       "west": "fletching_table_side2"
     },
     "sound": "wood"
+<<<<<<< HEAD
   },
   "campfire": {
     "textures": {
@@ -2026,5 +2054,7 @@
       "side": "composter_side"
     },
     "sound": "wood"
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   }
 }

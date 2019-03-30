@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "format_version": "1.10.0",
+=======
+  "format_version": "1.8.0",
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
   "minecraft:entity": {
     "description": {
       "identifier": "minecraft:zombie_villager",
@@ -201,11 +205,17 @@
       "minecraft:navigation.walk": {
         "is_amphibious": true,
         "can_pass_doors": true,
+<<<<<<< HEAD
         "can_break_doors": true,
         "avoid_sun": false
       },
       "minecraft:annotation.break_door": {
       },
+=======
+        "can_open_doors": true,
+        "avoid_sun": false
+      },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:movement.basic": {
       },
       "minecraft:jump.static": {
@@ -241,6 +251,7 @@
         "on_interact": {
           "filters": {
             "all_of": [
+<<<<<<< HEAD
               {
                 "test": "has_equipment",
                 "domain": "hand",
@@ -252,6 +263,10 @@
                 "subject": "self",
                 "value": "minecraft:effect.weakness"
               }
+=======
+              { "test": "has_equipment", "domain": "hand", "subject": "other", "value": "golden_apple" },
+              { "test": "has_component", "subject": "self", "value": "minecraft:effect.weakness" }
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
             ]
           },
           "event": "villager_converted",
@@ -262,6 +277,12 @@
       },
 
       // Zombie_villager Behaviors
+<<<<<<< HEAD
+=======
+      "minecraft:behavior.break_door": {
+        "priority": 1
+      },
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:behavior.melee_attack": {
         "priority": 6,
         "speed_multiplier": 1,
@@ -302,15 +323,39 @@
           {
             "filters": {
               "any_of": [
+<<<<<<< HEAD
                 { "test": "is_family", "subject": "other", "value": "player" },
                 { "test": "is_family", "subject": "other", "value": "snowgolem" },
                 { "test": "is_family", "subject": "other", "value": "irongolem" }
+=======
+                {
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "player"
+                },
+                {
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "snowgolem"
+                },
+                {
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "irongolem"
+                },
+                {
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "villager"
+                }
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
               ]
             },
             "max_dist": 35
           },
           {
             "filters": {
+<<<<<<< HEAD
               "any_of": [
                 { "test": "is_family", "subject": "other", "value": "villager" },
                 { "test": "is_family", "subject": "other", "value": "wandering_trader" }
@@ -324,6 +369,20 @@
               "all_of": [
                 { "test": "is_family", "subject": "other", "value": "baby_turtle" },
                 { "test": "in_water", "subject": "other", "operator": "!=", "value": true }
+=======
+              "all_of": [
+                {
+                  "test": "is_family",
+                  "subject": "other",
+                  "value": "baby_turtle"
+                },
+                {
+                  "test": "in_water",
+                  "subject": "other",
+                  "operator": "!=",
+                  "value": true
+                }
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
               ]
             },
             "max_dist": 35

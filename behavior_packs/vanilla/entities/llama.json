@@ -66,6 +66,7 @@
         }
       },
 
+<<<<<<< HEAD
       "minecraft:llama_wandering_trader": {
         "minecraft:mark_variant": {
           "value": 1
@@ -84,6 +85,8 @@
         }
       },
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:strength_1": {
         "minecraft:strength": {
           "value": 1,
@@ -307,12 +310,18 @@
       },
       "minecraft:nameable": {
       },
+<<<<<<< HEAD
       "minecraft:mark_variant": {
         "value": 0
       },
       "minecraft:health": {
         "value": {
           "range_min": 15,
+=======
+      "minecraft:health": {
+        "value": {
+          "range_min": 15, 
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
           "range_max": 30
         }
       },
@@ -335,7 +344,10 @@
         "soft_distance": 4.0,
         "hard_distance": 6.0,
         "max_distance": 10.0,
+<<<<<<< HEAD
         "can_be_stolen": true,
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
         "on_leash": {
           "event": "minecraft:on_leash",
           "target": "self"
@@ -577,6 +589,7 @@
         }
       },
 
+<<<<<<< HEAD
       "minecraft:from_wandering_trader": {
         "sequence": [
           {
@@ -670,6 +683,8 @@
         ]
       },
 
+=======
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:ageable_grow_up": {
         "remove": {
           "component_groups": [
@@ -697,6 +712,11 @@
           ]
         }
       },
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 64e40d3c189bff12e7ed7f8933cc13fc6cbb166a
       "minecraft:on_leash": {
         "add": {
           "component_groups": [
